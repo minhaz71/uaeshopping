@@ -1,0 +1,4 @@
+/services/contact.html /contact.html 301
+/services/* /all-services.html 301
+/contact-us/* /contact.html 301
+/about-us/* / 301
