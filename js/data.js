@@ -85,7 +85,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vozolxpress-ae",
+        "title": "Discover the Future of Vaping in UAE with VozolXpress",
+        "url": "https://medium.com/@robertdipanu/discover-the-future-of-vaping-in-uae-with-vozolxpress-17c905229183?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "VozolXpress visitors can use this article as a broader note on UAE disposable vape trends before checking current product availability.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "allheetsdubai-ae",
@@ -108,7 +117,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "allheetsdubai-ae",
+        "title": "TEREA Review",
+        "url": "https://medium.com/@robertdipanu/terea-review-6729a241ce5f?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "A TEREA review is useful on a HEETS and TEREA profile because readers often compare flavor notes before opening official category links.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "whitefoxdubai-ae",
@@ -154,7 +172,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vgodpod-ae",
+        "title": "Relx Website Now Stocks Relx Cigarettes",
+        "url": "https://medium.com/@robertdipanu/relx-website-now-stocks-relx-cigarettes-ty-the-latest-collection-579396fddd82?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Pod shoppers comparing device ecosystems may find this RELX collection note useful as related reading before checking official product ranges.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "tereailumaabudhabi-ae",
@@ -177,7 +204,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "tereailumaabudhabi-ae",
+        "title": "How To Use IQOS Iluma: Step by Step Guide for Beginner",
+        "url": "https://medium.com/@robertdipanu/how-to-use-iqos-iluma-step-by-step-guide-for-beginner-0b614e4b4ae6?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Beginner usage guidance is relevant for Abu Dhabi IQOS ILUMA readers who want to understand device basics before visiting official pages.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "tereaheetsdubai-ae",
@@ -223,7 +259,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "podsaltnic-ae",
+        "title": "The Ultimate Guide to Vaping: Devices, Trends, and Cola Lime Vape",
+        "url": "https://medium.com/@robertdipanu/the-ultimate-guide-to-vaping-exploring-devices-trends-and-the-rise-of-cola-lime-vape-2fbc098dfa5e?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Flavor and device trend reading is relevant for nic-salt shoppers who compare taste profiles and compact device options.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "podsxpress-ae",
@@ -286,7 +331,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "tereaxpress-ae",
+        "title": "IQOS ILUMA I USER Guide",
+        "url": "https://medium.com/@robertdipanu/iqos-iluma-i-user-guide-816f455c9537?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "A concise IQOS ILUMA user guide fits this TEREA shopping profile because device understanding helps shoppers compare compatible products.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "nicotineshop-ae",
@@ -305,7 +359,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "nicotineshop-ae",
+        "title": "IQOS Iluma I Prime Review",
+        "url": "https://medium.com/@robertdipanu/iqos-iluma-i-prime-review-1f7e7dbd2394?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "For broad adult nicotine product research, this IQOS ILUMA Prime review adds device-focused context before users verify current availability.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "vaphype-ae",
@@ -328,7 +391,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vaphype-ae",
+        "title": "Common Questions of Latest IQOS Iluma Devices",
+        "url": "https://medium.com/@robertdipanu/common-questions-of-latest-iqos-iluma-devices-3c2a76dcb170?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "This IQOS ILUMA question guide supports device comparison research for readers checking UAE specialty retail resources.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "vaporkit-ae",
@@ -374,7 +446,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "tereapro-ae",
+        "title": "Why Dubai's Elite Are Switching to IQOS Terea",
+        "url": "https://medium.com/@robertdipanu/why-dubais-elite-are-switching-to-iqos-terea-a-flavor-revolution-in-heat-not-burn-tech-33635f87e0ef?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "This IQOS TEREA trend article gives extra context for readers comparing premium heat-not-burn resources and flavor-led product discovery.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "podseller-ae",
@@ -397,7 +478,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "podseller-ae",
+        "title": "JUUL 2 Pods in Dubai: Where to Buy",
+        "url": "https://medium.com/@robertdipanu/juul-2-pods-in-dubai-where-to-buy-973c097adabb?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "For visitors comparing pod availability and store options, this JUUL 2 Dubai buying guide adds useful background before opening official pod listings.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "podshub-ae",
@@ -415,7 +505,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "podshub-ae",
+        "title": "The Evolution of Juul in Dubai",
+        "url": "https://medium.com/@robertdipanu/the-evolution-of-juul-in-dubai-87b11ed5b392?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "This JUUL history note fits a pod-discovery profile because it explains how device and pod demand has changed for Dubai shoppers.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "tereahub-ae",
@@ -438,7 +537,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": true,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "tereahub-ae",
+        "title": "The Ultimate Flavor Showdown: IQOS TEREA Indonesian Blends for 2025",
+        "url": "https://medium.com/@robertdipanu/the-ultimate-flavor-showdown-reviewing-comparing-iqos-terea-indonesian-blends-for-2025-baa6c9427c47?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "TEREA Indonesia comparisons belong naturally on this heat-not-burn profile because shoppers often compare origin blends before choosing an official product page.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "newsvista360-ae",
@@ -604,7 +712,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": true
+    "isGuide": true,
+    "mediumContexts": [
+      {
+        "preferredSlug": "business-hub",
+        "title": "Top Black Friday Web Hosting Deals of 2024",
+        "url": "https://medium.com/@robertdipanu/top-black-friday-web-hosting-deals-of-2024-unmissable-discounts-for-your-website-16dd5665bed8?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "For business and website-resource discovery, this hosting deals article adds context for users thinking about site launches and online presence costs.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "uae-shopping-guide-netlify",
@@ -774,7 +891,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "6thstreet",
+        "title": "Chelsea Boot Women: Ultimate Guide to Stylish and Comfortable Footwear",
+        "url": "https://medium.com/@robertdipanu/chelsea-boot-women-ultimate-guide-to-stylish-and-comfortable-footwear-3d07ae89663f?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Footwear style guidance fits a fashion marketplace profile where shoppers compare outfits, shoes, comfort, and seasonal wardrobe choices.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "healthcare-magic",
@@ -791,7 +917,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vapelink-com-au",
+        "title": "IQOS 3 Duo Kit: Variations and Prices in Dubai and the UAE",
+        "url": "https://medium.com/@robertdipanu/iqos-3-duo-kit-a-comprehensive-guide-to-variations-and-prices-in-dubai-and-the-uae-1b12ed32d2fd?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "IQOS kit comparison reading gives device-price context for shoppers exploring broader vape and heated-device resources.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "dubizzle-property",
@@ -961,7 +1096,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vape360-com",
+        "title": "The Ultimate Guide to Vaping and Tobacco Alternatives in Dubai",
+        "url": "https://medium.com/@robertdipanu/the-ultimate-guide-to-vaping-tobacco-alternatives-in-dubai-99e5ba01c5ce?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "This Dubai tobacco-alternative guide adds broader context for readers comparing vape education and product research resources.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "haus-haus",
@@ -978,7 +1122,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "sourcemore-com",
+        "title": "Discover Terea Japan: A Must-Try Product By Allheets Dubai",
+        "url": "https://medium.com/@robertdipanu/discover-terea-japan-a-must-try-product-for-iqos-iluma-by-allheets-dubai-7c74de9738cf?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "TEREA Japan product reading gives flavor-specific context for visitors comparing device-compatible product categories.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "federal-tax-authority",
@@ -1097,7 +1250,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "thevapeboutique-com-au",
+        "title": "Why Myle v5 is Best Disposable Pods",
+        "url": "https://medium.com/@robertdipanu/why-myle-v5-is-best-disposable-pods-unveiling-the-myl%C3%A9-v5-pod-system-82d5d8b5350e?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Disposable pod research fits this vape boutique profile because readers may compare compact device systems before visiting retailers.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "american-rag",
@@ -1267,7 +1429,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vapeking-com-au",
+        "title": "IQOS Heets Product Collection in DUBAI UAE",
+        "url": "https://medium.com/@robertdipanu/dubai-best-heet-product-collection-51360d61a370?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "HEETS collection context is useful for readers comparing heated tobacco alternatives and related product categories.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "koton",
@@ -1284,7 +1455,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "koton",
+        "title": "Chelsea Rain Boots: Ultimate Waterproof Protection for Outdoor Adventures",
+        "url": "https://medium.com/@robertdipanu/chelsea-rain-boots-ultimate-waterproof-protection-for-outdoor-adventures-8bd3d8ca366c?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Rain boot guidance adds footwear context for shoppers comparing practical fashion and seasonal outdoor options.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "seha",
@@ -1369,7 +1549,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "mango-uae",
+        "title": "Leather Chelsea Boots: Elevate Your Style with Comfort and Durability",
+        "url": "https://medium.com/@robertdipanu/leather-chelsea-boots-elevate-your-style-with-comfort-and-durability-bdb6d387338f?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Leather boot styling context is relevant for visitors comparing polished fashion resources and wardrobe staples.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "healthpoint",
@@ -1386,7 +1575,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vapeempire-com",
+        "title": "Exploring the Diverse World of Flavor with IQOS TEREA Japan",
+        "url": "https://medium.com/@robertdipanu/exploring-the-diverse-world-of-flavor-with-iqos-terea-japan-f366e8075804?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "TEREA Japan flavor context is useful for visitors comparing specialized tobacco-alternative products and international blends.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "driven-properties",
@@ -1420,7 +1618,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "eightvape-com",
+        "title": "JUUL 2 Flavours vs RELX Pods Pro Flavours for Dubai Users",
+        "url": "https://medium.com/@robertdipanu/whats-the-difference-between-juul-2-flavours-and-relx-pods-pro-flavours-for-dubai-users-8c980556338e?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "A JUUL and RELX flavor comparison is useful on a general vape-store profile because shoppers often compare pod ecosystems before opening retailer pages.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "flydubai",
@@ -1505,7 +1712,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "relxnow-com",
+        "title": "RELX Flavor Evolution 2025",
+        "url": "https://medium.com/@robertdipanu/%EF%B8%8F-relx-flavor-evolution-2025-why-cooling-fruity-herbal-blends-are-dominating-taste-trends-724dfa363166?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Flavor trend research fits this RELX brand profile because UAE shoppers often compare cooling, fruity, and herbal pod notes before checking current product pages.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "air-arabia",
@@ -1675,7 +1891,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "smokecartel-com",
+        "title": "IQOS TEREA Dubai for Iluma Device in UAE",
+        "url": "https://medium.com/@robertdipanu/iqos-terea-dubai-for-iluma-device-in-uae-6d9f3000bef9?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "IQOS TEREA compatibility context helps readers understand how heated-device products differ from broader smoke-shop accessories.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "visit-abu-dhabi",
@@ -1794,7 +2019,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vaped-com",
+        "title": "IQOS ILUMA Prime Dubai UAE",
+        "url": "https://medium.com/@robertdipanu/iqos-iluma-prime-dubai-uae-1513b7bd9efe?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "IQOS ILUMA Prime reading adds heat-not-burn context for visitors exploring alternative device categories.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "mediclinic-middle-east",
@@ -1811,7 +2045,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "elementvape-com",
+        "title": "Top 10 RELX Device Issues and How to Fix Them",
+        "url": "https://medium.com/@robertdipanu/top-10-relx-device-issues-and-how-to-fix-them-d6594e0c9ba3?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Device troubleshooting content gives shoppers a practical maintenance angle before they compare broader vape hardware resources.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "knight-frank-uae",
@@ -1828,7 +2071,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "directvapor-com",
+        "title": "The Ultimate Juul Dubai Guide: JUUL Device and Pods Review",
+        "url": "https://medium.com/@robertdipanu/the-ultimate-juul-dubai-guide-juul-device-pods-review-e215c6a0facc?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "A JUUL device and pod review is relevant for visitors comparing online vape retailers and pod-system information.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "citibank-uae",
@@ -1879,7 +2131,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "myvapery-com",
+        "title": "Highlights of JUUL Dubai Launch",
+        "url": "https://medium.com/@robertdipanu/highlights-of-juul-dubai-launch-an-array-of-pods-and-devices-c3761a557380?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "JUUL launch coverage gives pod-system background for shoppers comparing device and flavor availability.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "al-zahra-hospitals",
@@ -1981,7 +2242,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "serveu",
+        "title": "Why Cleaning Your Water Tank in Sharjah Is a Lifesaver",
+        "url": "https://medium.com/@robertdipanu/why-cleaning-your-water-tank-in-sharjah-isnt-just-a-chore-it-s-a-lifesaver-72346b06a256?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "For home and facilities service research, this Sharjah water-tank cleaning article adds practical context about maintenance needs residents should not ignore.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "jll-mena",
@@ -1998,7 +2268,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vapeescape-ca",
+        "title": "7 Reasons Why You Should Choose the IQOS ILUMA Device in Abu Dhabi",
+        "url": "https://medium.com/@robertdipanu/7-reasons-why-you-should-choose-the-iqos-iluma-device-in-abu-dhabi-8c337dca65db?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "This Abu Dhabi IQOS ILUMA article gives device-selection context for readers comparing vapor and heated-device resources.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "al-hilal-bank",
@@ -2134,7 +2413,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "plugins-me",
+        "title": "Home Improvement Gadgets: Transform Your Space with These Top Picks",
+        "url": "https://medium.com/@robertdipanu/home-improvement-gadgets-transform-your-space-with-these-top-picks-cf2db656cd06?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Home gadget research fits this electronics profile because visitors may be comparing practical devices before choosing a store or product category.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "city-clinic-dubai",
@@ -2236,7 +2524,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "canadavapes-com",
+        "title": "IQOS Heets in Dubai, Ajman, Sharjah, and Abu Dhabi",
+        "url": "https://medium.com/@robertdipanu/iqos-heets-in-dubai-ajman-sharjah-and-abu-dhabi-uae-a-comprehensive-review-91f0bd1b7079?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "HEETS regional review context helps readers compare product availability across UAE cities before checking official resources.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "damac-properties",
@@ -2304,7 +2601,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vaperempire-com-au",
+        "title": "Discovering the Exquisite World of Terea",
+        "url": "https://medium.com/@robertdipanu/discovering-the-exquisite-world-of-terea-a-deep-dive-into-terea-dubai-uae-heets-and-more-7237ec7a0aea?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "TEREA and HEETS background reading adds heat-not-burn context for visitors comparing adult alternative product categories.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "medlabs",
@@ -2355,7 +2661,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vaporesso-com",
+        "title": "Juul: Unveiling the Vape Revolution in the UAE",
+        "url": "https://medium.com/@robertdipanu/juul-unveiling-the-vape-revolution-in-the-uae-df38d408c7a8?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "This JUUL market overview gives device-category context for readers comparing broader vape hardware brands.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "carswitch",
@@ -2474,7 +2789,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "creative-zone",
+        "title": "AnVaping Site SEO Case Study After Google Update",
+        "url": "https://medium.com/@robertdipanu/anvaping-site-seo-case-study-after-google-update-our-client-success-fb90e8fecb19?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "SEO case-study reading is useful on a business setup profile because new companies often need visibility planning after creating a UAE website.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "burjeel-hospital",
@@ -2559,7 +2883,16 @@ const SITE_ITEMS=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vapetrader-ca",
+        "title": "Myle PODS Review: Flavors and Features Revealed in Dubai, UAE",
+        "url": "https://medium.com/@robertdipanu/myle-vape-review-flavors-and-features-revealed-in-dubai-uae-26de9529e5d5?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Myle pod flavor research fits a vape marketplace profile where readers compare compact pod options and features.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "aster-hospitals-uae",
@@ -2875,7 +3208,16 @@ const SITE_HOME=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "6thstreet",
+        "title": "Chelsea Boot Women: Ultimate Guide to Stylish and Comfortable Footwear",
+        "url": "https://medium.com/@robertdipanu/chelsea-boot-women-ultimate-guide-to-stylish-and-comfortable-footwear-3d07ae89663f?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "Footwear style guidance fits a fashion marketplace profile where shoppers compare outfits, shoes, comfort, and seasonal wardrobe choices.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "healthcare-magic",
@@ -2892,7 +3234,16 @@ const SITE_HOME=[
       }
     ],
     "isSubmitted": false,
-    "isGuide": false
+    "isGuide": false,
+    "mediumContexts": [
+      {
+        "preferredSlug": "vapelink-com-au",
+        "title": "IQOS 3 Duo Kit: Variations and Prices in Dubai and the UAE",
+        "url": "https://medium.com/@robertdipanu/iqos-3-duo-kit-a-comprehensive-guide-to-variations-and-prices-in-dubai-and-the-uae-1b12ed32d2fd?source=your_stories_outbox---writer_outbox_published-----------------------------------------",
+        "text": "IQOS kit comparison reading gives device-price context for shoppers exploring broader vape and heated-device resources.",
+        "dynamic": true
+      }
+    ]
   },
   {
     "slug": "dubizzle-property",
