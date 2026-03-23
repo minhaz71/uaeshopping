@@ -1010,6 +1010,78 @@ const SITE_DATA={
       ]
     },
     {
+      "slug": "uae-shopping-guide-netlify",
+      "name": "UAE Shopping Guide Netlify",
+      "url": "https://uaeshoppingguide.netlify.app/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Spark Picks",
+      "description": "Netlify-hosted UAE shopping guide resource for browsing useful shopping, service, and discovery pages.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "UAE Shopping Guide Netlify is saved as a Firebase-style spark: a compact resource card with quick context, search value, and practical next-step links.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://uaeshoppingguide.netlify.app/"
+        },
+        {
+          "label": "Services",
+          "url": "https://uaeshoppingguide.netlify.app/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://uaeshoppingguide.netlify.app/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://uaeshoppingguide.netlify.app/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "uae-shopping-render-guide",
+      "name": "UAE Shopping Render Guide",
+      "url": "https://uaeshopping.onrender.com/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Spark Picks",
+      "description": "Render-hosted UAE shopping guide resource with category paths, shopping hubs, and useful UAE website references.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "UAE Shopping Render Guide is saved as a Firebase-style spark: a compact resource card with quick context, search value, and practical next-step links.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://uaeshopping.onrender.com/"
+        },
+        {
+          "label": "Services",
+          "url": "https://uaeshopping.onrender.com/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://uaeshopping.onrender.com/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://uaeshopping.onrender.com/contact-us/"
+        }
+      ]
+    },
+    {
       "slug": "uae-buyer-guide",
       "name": "UAE Buyer Guide",
       "url": "https://uaebuyerguide.vercel.app/",
@@ -7060,76 +7132,6 @@ const SITE_DATA={
         {
           "label": "Contact",
           "url": "https://www.choitrams.com/en_ae/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "gift-central",
-      "name": "Gift Central",
-      "url": "https://giftcentral.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Service Shortcuts",
-      "description": "Centralized gift site for perfumes, curated presents, and celebration delivery.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Gift Central is saved as a Firebase-style spark: a compact resource card with quick context, search value, and practical next-step links.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://giftcentral.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://giftcentral.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://giftcentral.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://giftcentral.ae/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "al-qassimi-hospital",
-      "name": "Al Qassimi Hospital",
-      "url": "https://www.alqassimi.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Resident Resources",
-      "description": "Government hospital profile providing specialized healthcare services in Sharjah.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Al Qassimi Hospital is saved as a Firebase-style spark: a compact resource card with quick context, search value, and practical next-step links.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.alqassimi.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.alqassimi.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.alqassimi.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.alqassimi.ae/contact-us/"
         }
       ]
     }
