@@ -1010,6 +1010,78 @@ const SITE_DATA={
       ]
     },
     {
+      "slug": "uae-shopping-render-guide",
+      "name": "UAE Shopping Render Guide",
+      "url": "https://uaeshopping.onrender.com/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Popular Resources",
+      "description": "Render-hosted UAE shopping guide resource with category paths, shopping hubs, and useful UAE website references.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "UAE Shopping Render Guide is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://uaeshopping.onrender.com/"
+        },
+        {
+          "label": "Services",
+          "url": "https://uaeshopping.onrender.com/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://uaeshopping.onrender.com/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://uaeshopping.onrender.com/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "shopping-guide-uae-firebase",
+      "name": "Shopping Guide UAE Firebase",
+      "url": "https://shoppingguideuae.web.app/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Popular Resources",
+      "description": "Firebase-hosted UAE shopping guide resource with searchable cards, service hubs, and dedicated resource profile pages.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Shopping Guide UAE Firebase is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://shoppingguideuae.web.app/"
+        },
+        {
+          "label": "Services",
+          "url": "https://shoppingguideuae.web.app/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://shoppingguideuae.web.app/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://shoppingguideuae.web.app/contact-us/"
+        }
+      ]
+    },
+    {
       "slug": "uae-buyer-guide",
       "name": "UAE Buyer Guide",
       "url": "https://uaebuyerguide.vercel.app/",
@@ -7062,78 +7134,6 @@ const SITE_DATA={
         {
           "label": "Contact",
           "url": "https://www.dnata.com/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "careem",
-      "name": "Careem",
-      "url": "https://www.careem.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE mobility and delivery platform for rides, food, payments, and local services.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Careem is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.careem.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.careem.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.careem.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.careem.com/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "gargash",
-      "name": "Gargash",
-      "url": "https://www.gargash.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Automotive group website for Mercedes-Benz, service, leasing, and mobility solutions.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Gargash is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.gargash.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.gargash.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.gargash.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.gargash.ae/contact-us/"
         }
       ]
     }
