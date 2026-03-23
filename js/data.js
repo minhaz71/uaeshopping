@@ -920,20 +920,24 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
-          "url": "https://uaeshopping.pages.dev/"
+          "label": "Home",
+          "url": "https://uaeshopping.pages.dev"
         },
         {
-          "label": "Services",
-          "url": "https://uaeshopping.pages.dev/services/"
+          "label": "Shopping Hub",
+          "url": "https://uaeshopping.pages.dev/all-shopping.html"
         },
         {
-          "label": "About",
-          "url": "https://uaeshopping.pages.dev/about-us/"
+          "label": "Service Hub",
+          "url": "https://uaeshopping.pages.dev/all-services.html"
+        },
+        {
+          "label": "Recommendations",
+          "url": "https://uaeshopping.pages.dev/recommendations.html"
         },
         {
           "label": "Contact",
-          "url": "https://uaeshopping.pages.dev/contact-us/"
+          "url": "https://uaeshopping.pages.dev/contact.html"
         }
       ]
     },
@@ -1028,20 +1032,24 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
-          "url": "https://uaeshoppingguide.netlify.app/"
+          "label": "Home",
+          "url": "https://uaeshoppingguide.netlify.app"
         },
         {
-          "label": "Services",
-          "url": "https://uaeshoppingguide.netlify.app/services/"
+          "label": "Shopping Hub",
+          "url": "https://uaeshoppingguide.netlify.app/all-shopping.html"
         },
         {
-          "label": "About",
-          "url": "https://uaeshoppingguide.netlify.app/about-us/"
+          "label": "Service Hub",
+          "url": "https://uaeshoppingguide.netlify.app/all-services.html"
+        },
+        {
+          "label": "Recommendations",
+          "url": "https://uaeshoppingguide.netlify.app/recommendations.html"
         },
         {
           "label": "Contact",
-          "url": "https://uaeshoppingguide.netlify.app/contact-us/"
+          "url": "https://uaeshoppingguide.netlify.app/contact.html"
         }
       ]
     },
@@ -1064,20 +1072,24 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
-          "url": "https://shoppingguideuae.web.app/"
+          "label": "Home",
+          "url": "https://shoppingguideuae.web.app"
         },
         {
-          "label": "Services",
-          "url": "https://shoppingguideuae.web.app/services/"
+          "label": "Shopping Hub",
+          "url": "https://shoppingguideuae.web.app/all-shopping"
         },
         {
-          "label": "About",
-          "url": "https://shoppingguideuae.web.app/about-us/"
+          "label": "Service Hub",
+          "url": "https://shoppingguideuae.web.app/all-services"
+        },
+        {
+          "label": "Recommendations",
+          "url": "https://shoppingguideuae.web.app/recommendations"
         },
         {
           "label": "Contact",
-          "url": "https://shoppingguideuae.web.app/contact-us/"
+          "url": "https://shoppingguideuae.web.app/contact"
         }
       ]
     },
@@ -1100,20 +1112,24 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
-          "url": "https://uaebuyerguide.vercel.app/"
+          "label": "Home",
+          "url": "https://uaebuyerguide.vercel.app"
         },
         {
-          "label": "Shopping Guides",
-          "url": "https://uaebuyerguide.vercel.app/guides/"
+          "label": "Shopping Hub",
+          "url": "https://uaebuyerguide.vercel.app/all-shopping"
         },
         {
-          "label": "Best UAE Websites",
-          "url": "https://uaebuyerguide.vercel.app/best-uae-websites/"
+          "label": "Service Hub",
+          "url": "https://uaebuyerguide.vercel.app/all-services"
+        },
+        {
+          "label": "Recommendations",
+          "url": "https://uaebuyerguide.vercel.app/recommendations"
         },
         {
           "label": "Contact",
-          "url": "https://uaebuyerguide.vercel.app/contact/"
+          "url": "https://uaebuyerguide.vercel.app/contact"
         }
       ]
     },
@@ -7230,20 +7246,24 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
-          "url": "https://uaeshopping.pages.dev/"
+          "label": "Home",
+          "url": "https://uaeshopping.pages.dev"
         },
         {
-          "label": "Services",
-          "url": "https://uaeshopping.pages.dev/services/"
+          "label": "Shopping Hub",
+          "url": "https://uaeshopping.pages.dev/all-shopping.html"
         },
         {
-          "label": "About",
-          "url": "https://uaeshopping.pages.dev/about-us/"
+          "label": "Service Hub",
+          "url": "https://uaeshopping.pages.dev/all-services.html"
+        },
+        {
+          "label": "Recommendations",
+          "url": "https://uaeshopping.pages.dev/recommendations.html"
         },
         {
           "label": "Contact",
-          "url": "https://uaeshopping.pages.dev/contact-us/"
+          "url": "https://uaeshopping.pages.dev/contact.html"
         }
       ]
     },
