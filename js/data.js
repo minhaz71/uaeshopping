@@ -46,10 +46,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "RELX Dubai",
-          "url": "https://rpodsdubai.ae/best-relx-pods-for-smooth-nicotine-hit-in-uae/",
-          "group": "relx",
-          "context": "RELX pod comparison"
+          "label": "RELX Berry Collection",
+          "url": "https://rpodsdubai.ae/relx-berry-flavor-collection-complete-guide-for-uae/",
+          "group": "relx"
+        },
+        {
+          "label": "RELX Apple Collection",
+          "url": "https://rpodsdubai.ae/relx-apple-collection-you-can-try-in-uae/",
+          "group": "relx"
         }
       ]
     },
@@ -74,8 +78,12 @@ const SITE_DATA={
         {
           "label": "JUUL Dubai",
           "url": "https://podsvibe.ae/fix-weak-juul-hit-airflow-seal-pod-tips-uae/",
-          "group": "juul",
-          "context": "JUUL device and pod guidance"
+          "group": "juul"
+        },
+        {
+          "label": "Shop PodsVibe",
+          "url": "https://podsvibe.ae/shop/",
+          "group": "juul"
         }
       ]
     },
@@ -98,10 +106,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Vape Dubai",
-          "url": "https://vozolxpress.ae/vozol-disposable-vape-uae-high-puffs-flavors-reliability-explained/",
-          "group": "vape",
-          "context": "disposable vape selection"
+          "label": "Vozol Shop Dubai",
+          "url": "https://vozolxpress.ae/shop/",
+          "group": "vape"
+        },
+        {
+          "label": "Vozol Watermelon Ice",
+          "url": "https://vozolxpress.ae/product/vozol-star-12000-puffs-watermelon-ice-disposable/",
+          "group": "vape"
         }
       ]
     },
@@ -124,10 +136,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "HEETS Dubai",
-          "url": "https://allheetsdubai.ae/heets-storage-tips-in-dubai/",
-          "group": "heets",
-          "context": "HEETS storage and flavor care"
+          "label": "HEETS Guide Dubai",
+          "url": "https://allheetsdubai.ae/category/heets-guide-comparison-uae/",
+          "group": "heets"
+        },
+        {
+          "label": "TEREA Flavor Guide",
+          "url": "https://allheetsdubai.ae/category/terea-flavor-guide/",
+          "group": "heets"
         }
       ]
     },
@@ -150,10 +166,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Nicotine Pouches Dubai",
+          "label": "White Fox Pouches Dubai",
+          "url": "https://whitefoxdubai.ae/product-category/white-fox-nicotine-pouches/",
+          "group": "nicotine-pouches"
+        },
+        {
+          "label": "White Fox Flavor Review",
           "url": "https://whitefoxdubai.ae/white-fox-nicotine-pouch-flavors-review/",
-          "group": "nicotine-pouches",
-          "context": "nicotine pouch flavor comparison"
+          "group": "nicotine-pouches"
         }
       ]
     },
@@ -176,10 +196,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Vape Pod Dubai",
-          "url": "https://vgodpod.ae",
-          "group": "pods",
-          "context": "pod and device shopping"
+          "label": "VGOD Shop Dubai",
+          "url": "https://vgodpod.ae/shop/",
+          "group": "pods"
+        },
+        {
+          "label": "VGOD Blog Dubai",
+          "url": "https://vgodpod.ae/blog/",
+          "group": "pods"
         }
       ]
     },
@@ -202,10 +226,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "IQOS Abu Dhabi",
-          "url": "https://tereailumaabudhabi.ae/iqos-iluma-i-vs-previous-models-key-differences-you-should-know/",
-          "group": "iqos",
-          "context": "IQOS ILUMA device comparison"
+          "label": "IQOS TEREA Abu Dhabi",
+          "url": "https://tereailumaabudhabi.ae/best-collection-of-iqos-terea-dubai/",
+          "group": "iqos"
+        },
+        {
+          "label": "IQOS ILUMA Shop",
+          "url": "https://tereailumaabudhabi.ae/shop/",
+          "group": "iqos"
         }
       ]
     },
@@ -228,10 +256,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "TEREA Flavor Dubai",
-          "url": "https://tereaheetsdubai.ae/the-psychology-of-flavor-switching-why-users-keep-changing-terea-flavors/",
-          "group": "terea",
-          "context": "TEREA flavor switching"
+          "label": "IQOS ILUMA Kit Dubai",
+          "url": "https://tereaheetsdubai.ae/product/best-iqos-iluma-kit-in-dubai-uae/",
+          "group": "terea"
+        },
+        {
+          "label": "IQOS ILUMA Oasis",
+          "url": "https://tereaheetsdubai.ae/product/best-iqos-iluma-oasis-standard-limited-edition-in-dubai/",
+          "group": "terea"
         }
       ]
     },
@@ -254,10 +286,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Nic Salt Dubai",
-          "url": "https://podsaltnic.ae/top-5-pod-salt-flavors-ranked-by-real-users-in-dubai/",
-          "group": "nic-salt",
-          "context": "nic salt flavor research"
+          "label": "Nic Salt Shop Dubai",
+          "url": "https://podsaltnic.ae/shop/",
+          "group": "nic-salt"
+        },
+        {
+          "label": "Pod Salt Mango Ice",
+          "url": "https://podsaltnic.ae/product/pod-salt-mango-ice-flavor/",
+          "group": "nic-salt"
         }
       ]
     },
@@ -280,10 +316,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "JUUL Dubai UAE",
+          "label": "JUUL Virginia Tobacco",
+          "url": "https://podsxpress.ae/best-juul-pod-virginia-tobacco-5-4pc-pack/",
+          "group": "juul"
+        },
+        {
+          "label": "JUUL 2 Flavor Pods",
           "url": "https://podsxpress.ae/juul-2-flavor-pods-explained-strength-taste-and-availability-in-uae/",
-          "group": "juul",
-          "context": "JUUL 2 flavor pods"
+          "group": "juul"
         }
       ]
     },
@@ -306,10 +346,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "TEREA Dubai",
-          "url": "https://tereazone.ae/best-terea-flavors-for-iqos-iluma-users/",
-          "group": "terea",
-          "context": "TEREA flavor guidance"
+          "label": "TEREA Shop Dubai",
+          "url": "https://tereazone.ae/shop/",
+          "group": "terea"
+        },
+        {
+          "label": "IQOS HEETS Dubai",
+          "url": "https://tereazone.ae/product-category/iqos-heets-dubai/",
+          "group": "terea"
         }
       ]
     },
@@ -382,10 +426,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "IQOS Dubai",
+          "label": "IQOS TEREA Flavor Guide",
           "url": "https://vaphype.ae/iqos-iluma-flavor-guide-choosing-the-best-terea-sticks/",
-          "group": "iqos",
-          "context": "IQOS ILUMA and TEREA selection"
+          "group": "iqos"
+        },
+        {
+          "label": "IQOS ILUMA Device Guide",
+          "url": "https://vaphype.ae/how-to-extend-iqos-iluma-i-device-lifespan-uae-guide/",
+          "group": "iqos"
         }
       ]
     },
@@ -408,10 +456,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "IQOS ILUMA Dubai",
+          "label": "Vapor Kit Shop",
+          "url": "https://vaporkit.ae/shop/",
+          "group": "iqos"
+        },
+        {
+          "label": "TEREA Amber Kazakhstan",
           "url": "https://vaporkit.ae/iqos-terea-amber-kazakhstan/",
-          "group": "iqos",
-          "context": "IQOS ILUMA compatible flavor options"
+          "group": "iqos"
         }
       ]
     },
@@ -434,10 +486,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "TEREA UAE",
+          "label": "TEREA Pro Shop",
           "url": "https://tereapro.ae/shop/",
-          "group": "terea",
-          "context": "TEREA shopping"
+          "group": "terea"
+        },
+        {
+          "label": "TEREA Riviera Pearl",
+          "url": "https://tereapro.ae/iqos-terea-riviera-pearl-indonesia/",
+          "group": "terea"
         }
       ]
     },
@@ -460,10 +516,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "JUUL Pods Dubai",
-          "url": "https://podseller.ae/juul-fruit-pods-vs-tobacco-pods/",
-          "group": "juul",
-          "context": "JUUL pod flavor comparison"
+          "label": "Pod Seller Shop",
+          "url": "https://podseller.ae/shop/",
+          "group": "juul"
+        },
+        {
+          "label": "JUUL Menthol Flavors",
+          "url": "https://podseller.ae/juul-menthol-flavors-collection-you-can-try-in-uae/",
+          "group": "juul"
         }
       ]
     },
@@ -486,10 +546,9 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Pods Dubai",
-          "url": "https://podshub.ae",
-          "group": "pods",
-          "context": "pod system discovery"
+          "label": "Pods Hub Shop",
+          "url": "https://podshub.ae/shop",
+          "group": "pods"
         }
       ]
     },
@@ -512,10 +571,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "TEREA Indonesia Dubai",
-          "url": "https://tereahub.ae/product/iqos-terea-blue-indonesia",
-          "group": "terea",
-          "context": "TEREA Indonesia product research"
+          "label": "TEREA Guide",
+          "url": "https://tereahub.ae/blog/category/terea-guide",
+          "group": "terea"
+        },
+        {
+          "label": "TEREA Black Green Indonesia",
+          "url": "https://tereahub.ae/product/terea-black-green-indonesian-in-dubai",
+          "group": "terea"
         }
       ]
     },
@@ -538,10 +601,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "UAE News Dubai",
-          "url": "https://newsvista360.ae",
-          "group": "media",
-          "context": "UAE news reading"
+          "label": "UAE Shopping Guide",
+          "url": "https://newsvista360.ae/category/shopping-guide/",
+          "group": "media"
+        },
+        {
+          "label": "UAE Travel Guide",
+          "url": "https://newsvista360.ae/category/travel-guide/",
+          "group": "media"
         }
       ]
     },
@@ -564,10 +631,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Business News Dubai",
-          "url": "https://chroniclebyte.ae",
-          "group": "media",
-          "context": "business and community updates"
+          "label": "Travel Guide UAE",
+          "url": "https://chroniclebyte.ae/category/travel-guide/",
+          "group": "media"
+        },
+        {
+          "label": "Food Guide UAE",
+          "url": "https://chroniclebyte.ae/category/food-guide/",
+          "group": "media"
         }
       ]
     },
@@ -590,10 +661,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "UAE Report Dubai",
-          "url": "https://nexusreport.ae",
-          "group": "media",
-          "context": "UAE reporting"
+          "label": "Technology UAE",
+          "url": "https://nexusreport.ae/category/technology/",
+          "group": "media"
+        },
+        {
+          "label": "Smart Home Dubai",
+          "url": "https://nexusreport.ae/best-smart-home-devices-2026-in-dubai/",
+          "group": "media"
         }
       ]
     },
@@ -616,10 +691,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Local Stories Dubai",
-          "url": "https://pulsenarrative.ae",
-          "group": "media",
-          "context": "local editorial stories"
+          "label": "Shopping Guide UAE",
+          "url": "https://pulsenarrative.ae/category/shopping-guide/",
+          "group": "media"
+        },
+        {
+          "label": "Travel Guide UAE",
+          "url": "https://pulsenarrative.ae/category/travel-guide/",
+          "group": "media"
         }
       ]
     },
@@ -642,10 +721,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Digital News Dubai",
-          "url": "https://lenshubnews.ae",
-          "group": "media",
-          "context": "digital news discovery"
+          "label": "Care Tips UAE",
+          "url": "https://lenshubnews.ae/category/care-tips/",
+          "group": "media"
+        },
+        {
+          "label": "Sun Protection Guide",
+          "url": "https://lenshubnews.ae/category/sun-protection-guide/",
+          "group": "media"
         }
       ]
     },
@@ -4910,10 +4993,14 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "RELX Dubai",
-          "url": "https://rpodsdubai.ae/best-relx-pods-for-smooth-nicotine-hit-in-uae/",
-          "group": "relx",
-          "context": "RELX pod comparison"
+          "label": "RELX Berry Collection",
+          "url": "https://rpodsdubai.ae/relx-berry-flavor-collection-complete-guide-for-uae/",
+          "group": "relx"
+        },
+        {
+          "label": "RELX Apple Collection",
+          "url": "https://rpodsdubai.ae/relx-apple-collection-you-can-try-in-uae/",
+          "group": "relx"
         }
       ]
     },
