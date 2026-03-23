@@ -1,17 +1,9 @@
-# UAE Shopping Guide Platform Builds
+# UAE Shopping Compass - Kinsta
 
-This repository uses a branch-based deployment plan. Each hosting platform should deploy from its matching branch, where the platform website files live at the repository root.
+Static Kinsta website.
 
-## Branch Map
+- Build command: none
+- Publish directory: `.`
+- Framework: static HTML/CSS/JS
 
-- `cloudflare-pages` - Cloudflare Pages build
-- `vercel` - Vercel build
-- `netlify` - Netlify build
-- `aws-amplify` - AWS Amplify build
-- `render` - Render static site build
-
-## Deployment Notes
-
-Each branch contains a different UAE Shopping Guide website with its own design, copy, categories, and static pages.
-
-The required shared sites and important guide links are included across all builds, but each platform uses different surrounding content and presentation.
+After deployment, update the canonical base URL in the generator if Kinsta assigns a different live domain.
