@@ -1010,6 +1010,78 @@ const SITE_DATA={
       ]
     },
     {
+      "slug": "uae-shopping-guide-netlify",
+      "name": "UAE Shopping Guide Netlify",
+      "url": "https://uaeshoppingguide.netlify.app/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Shared Map Pins",
+      "description": "Netlify-hosted UAE shopping guide resource for browsing useful shopping, service, and discovery pages.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "UAE Shopping Guide Netlify is mapped as a UAE city resource, grouped by the kind of shopping, service, media, or local need it supports.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://uaeshoppingguide.netlify.app/"
+        },
+        {
+          "label": "Services",
+          "url": "https://uaeshoppingguide.netlify.app/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://uaeshoppingguide.netlify.app/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://uaeshoppingguide.netlify.app/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "shopping-guide-uae-firebase",
+      "name": "Shopping Guide UAE Firebase",
+      "url": "https://shoppingguideuae.web.app/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Shared Map Pins",
+      "description": "Firebase-hosted UAE shopping guide resource with searchable cards, service hubs, and dedicated resource profile pages.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Shopping Guide UAE Firebase is mapped as a UAE city resource, grouped by the kind of shopping, service, media, or local need it supports.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://shoppingguideuae.web.app/"
+        },
+        {
+          "label": "Services",
+          "url": "https://shoppingguideuae.web.app/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://shoppingguideuae.web.app/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://shoppingguideuae.web.app/contact-us/"
+        }
+      ]
+    },
+    {
       "slug": "uae-buyer-guide",
       "name": "UAE Buyer Guide",
       "url": "https://uaebuyerguide.vercel.app/",
@@ -7062,76 +7134,6 @@ const SITE_DATA={
         {
           "label": "Contact",
           "url": "https://sivvi.com/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "amazon-uae-electronics",
-      "name": "Amazon UAE Electronics",
-      "url": "https://www.amazon.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Service Corridors",
-      "description": "Large marketplace for electronics selection, price comparison, and quick delivery.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Amazon UAE Electronics is mapped as a UAE city resource, grouped by the kind of shopping, service, media, or local need it supports.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.amazon.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.amazon.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.amazon.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.amazon.ae/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "carrefour-uae",
-      "name": "Carrefour UAE",
-      "url": "https://www.carrefouruae.com/",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Service Corridors",
-      "description": "Leading UAE hypermarket for groceries, household goods, fresh food, and essentials.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Carrefour UAE is mapped as a UAE city resource, grouped by the kind of shopping, service, media, or local need it supports.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.carrefouruae.com/"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.carrefouruae.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.carrefouruae.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.carrefouruae.com/contact-us/"
         }
       ]
     }
