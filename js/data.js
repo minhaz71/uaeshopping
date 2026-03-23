@@ -20,20 +20,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shisha Products",
-          "url": "https://shishaseller.ae/collections/shisha/"
-        },
-        {
-          "label": "Vape Products",
-          "url": "https://shishaseller.ae/collections/vape/"
-        },
-        {
-          "label": "Accessories",
-          "url": "https://shishaseller.ae/collections/accessories/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://shishaseller.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://shishaseller.ae"
         }
       ]
     },
@@ -56,20 +44,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://rpodsdubai.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://rpodsdubai.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://rpodsdubai.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://rpodsdubai.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://rpodsdubai.ae"
         }
       ]
     },
@@ -92,20 +68,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://podsvibe.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://podsvibe.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://podsvibe.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://podsvibe.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://podsvibe.ae"
         }
       ]
     },
@@ -128,20 +92,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://vozolxpress.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://vozolxpress.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://vozolxpress.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vozolxpress.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://vozolxpress.ae"
         }
       ]
     },
@@ -164,20 +116,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop TEREA",
-          "url": "https://allheetsdubai.ae/collections/terea/"
-        },
-        {
-          "label": "HEETS / IQOS",
-          "url": "https://allheetsdubai.ae/collections/heets/"
-        },
-        {
-          "label": "Delivery Info",
-          "url": "https://allheetsdubai.ae/pages/delivery/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://allheetsdubai.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://allheetsdubai.ae"
         }
       ]
     },
@@ -200,20 +140,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://whitefoxdubai.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://whitefoxdubai.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://whitefoxdubai.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://whitefoxdubai.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://whitefoxdubai.ae"
         }
       ]
     },
@@ -236,20 +164,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://vgodpod.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://vgodpod.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://vgodpod.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vgodpod.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://vgodpod.ae"
         }
       ]
     },
@@ -272,20 +188,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop TEREA",
-          "url": "https://tereailumaabudhabi.ae/collections/terea/"
-        },
-        {
-          "label": "HEETS / IQOS",
-          "url": "https://tereailumaabudhabi.ae/collections/heets/"
-        },
-        {
-          "label": "Delivery Info",
-          "url": "https://tereailumaabudhabi.ae/pages/delivery/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tereailumaabudhabi.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://tereailumaabudhabi.ae"
         }
       ]
     },
@@ -308,20 +212,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop TEREA",
-          "url": "https://tereaheetsdubai.ae/collections/terea/"
-        },
-        {
-          "label": "HEETS / IQOS",
-          "url": "https://tereaheetsdubai.ae/collections/heets/"
-        },
-        {
-          "label": "Delivery Info",
-          "url": "https://tereaheetsdubai.ae/pages/delivery/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tereaheetsdubai.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://tereaheetsdubai.ae"
         }
       ]
     },
@@ -344,20 +236,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://podsaltnic.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://podsaltnic.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://podsaltnic.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://podsaltnic.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://podsaltnic.ae"
         }
       ]
     },
@@ -380,20 +260,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://podsxpress.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://podsxpress.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://podsxpress.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://podsxpress.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://podsxpress.ae"
         }
       ]
     },
@@ -416,20 +284,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop TEREA",
-          "url": "https://tereazone.ae/collections/terea/"
-        },
-        {
-          "label": "HEETS / IQOS",
-          "url": "https://tereazone.ae/collections/heets/"
-        },
-        {
-          "label": "Delivery Info",
-          "url": "https://tereazone.ae/pages/delivery/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tereazone.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://tereazone.ae"
         }
       ]
     },
@@ -452,20 +308,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop TEREA",
-          "url": "https://tereaxpress.ae/collections/terea/"
-        },
-        {
-          "label": "HEETS / IQOS",
-          "url": "https://tereaxpress.ae/collections/heets/"
-        },
-        {
-          "label": "Delivery Info",
-          "url": "https://tereaxpress.ae/pages/delivery/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tereaxpress.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://tereaxpress.ae"
         }
       ]
     },
@@ -488,20 +332,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://nicotineshop.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://nicotineshop.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://nicotineshop.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://nicotineshop.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://nicotineshop.ae"
         }
       ]
     },
@@ -524,20 +356,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://vaphype.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://vaphype.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://vaphype.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vaphype.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://vaphype.ae"
         }
       ]
     },
@@ -560,20 +380,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://vaporkit.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://vaporkit.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://vaporkit.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vaporkit.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://vaporkit.ae"
         }
       ]
     },
@@ -596,20 +404,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop TEREA",
-          "url": "https://tereapro.ae/collections/terea/"
-        },
-        {
-          "label": "HEETS / IQOS",
-          "url": "https://tereapro.ae/collections/heets/"
-        },
-        {
-          "label": "Delivery Info",
-          "url": "https://tereapro.ae/pages/delivery/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tereapro.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://tereapro.ae"
         }
       ]
     },
@@ -632,20 +428,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://podseller.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://podseller.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://podseller.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://podseller.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://podseller.ae"
         }
       ]
     },
@@ -668,20 +452,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://podshub.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://podshub.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://podshub.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://podshub.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://podshub.ae"
         }
       ]
     },
@@ -704,20 +476,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop TEREA",
-          "url": "https://tereahub.ae/collections/terea/"
-        },
-        {
-          "label": "HEETS / IQOS",
-          "url": "https://tereahub.ae/collections/heets/"
-        },
-        {
-          "label": "Delivery Info",
-          "url": "https://tereahub.ae/pages/delivery/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tereahub.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://tereahub.ae"
         }
       ]
     },
@@ -740,20 +500,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Latest News",
-          "url": "https://newsvista360.ae/latest-news/"
-        },
-        {
-          "label": "UAE Updates",
-          "url": "https://newsvista360.ae/category/uae/"
-        },
-        {
-          "label": "Business",
-          "url": "https://newsvista360.ae/category/business/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://newsvista360.ae/contact-us/"
+          "label": "Official Website",
+          "url": "https://newsvista360.ae"
         }
       ]
     },
@@ -776,20 +524,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Latest News",
-          "url": "https://chroniclebyte.ae/latest-news/"
-        },
-        {
-          "label": "UAE Updates",
-          "url": "https://chroniclebyte.ae/category/uae/"
-        },
-        {
-          "label": "Business",
-          "url": "https://chroniclebyte.ae/category/business/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://chroniclebyte.ae/contact-us/"
+          "label": "Official Website",
+          "url": "https://chroniclebyte.ae"
         }
       ]
     },
@@ -812,20 +548,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Latest News",
-          "url": "https://nexusreport.ae/latest-news/"
-        },
-        {
-          "label": "UAE Updates",
-          "url": "https://nexusreport.ae/category/uae/"
-        },
-        {
-          "label": "Business",
-          "url": "https://nexusreport.ae/category/business/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://nexusreport.ae/contact-us/"
+          "label": "Official Website",
+          "url": "https://nexusreport.ae"
         }
       ]
     },
@@ -848,20 +572,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Latest News",
-          "url": "https://pulsenarrative.ae/latest-news/"
-        },
-        {
-          "label": "UAE Updates",
-          "url": "https://pulsenarrative.ae/category/uae/"
-        },
-        {
-          "label": "Business",
-          "url": "https://pulsenarrative.ae/category/business/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://pulsenarrative.ae/contact-us/"
+          "label": "Official Website",
+          "url": "https://pulsenarrative.ae"
         }
       ]
     },
@@ -884,20 +596,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Latest News",
-          "url": "https://lenshubnews.ae/latest-news/"
-        },
-        {
-          "label": "UAE Updates",
-          "url": "https://lenshubnews.ae/category/uae/"
-        },
-        {
-          "label": "Business",
-          "url": "https://lenshubnews.ae/category/business/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://lenshubnews.ae/contact-us/"
+          "label": "Official Website",
+          "url": "https://lenshubnews.ae"
         }
       ]
     },
@@ -960,20 +660,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://uaedirectory.pages.dev/"
-        },
-        {
-          "label": "Services",
-          "url": "https://uaedirectory.pages.dev/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://uaedirectory.pages.dev/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://uaedirectory.pages.dev/contact-us/"
         }
       ]
     },
@@ -996,20 +684,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://businesshub.pages.dev/"
-        },
-        {
-          "label": "Services",
-          "url": "https://businesshub.pages.dev/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://businesshub.pages.dev/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://businesshub.pages.dev/contact-us/"
         }
       ]
     },
@@ -1152,20 +828,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://saudigerman.com/uae"
-        },
-        {
-          "label": "Services",
-          "url": "https://saudigerman.com/uae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://saudigerman.com/uae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://saudigerman.com/uae/contact-us/"
         }
       ]
     },
@@ -1188,20 +852,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.axcapital.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.axcapital.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.axcapital.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.axcapital.ae/contact-us/"
         }
       ]
     },
@@ -1224,20 +876,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.azizidevelopments.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.azizidevelopments.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.azizidevelopments.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.azizidevelopments.com/contact-us/"
         }
       ]
     },
@@ -1260,20 +900,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.abudhabi.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.abudhabi.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.abudhabi.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.abudhabi.ae/contact-us/"
         }
       ]
     },
@@ -1296,20 +924,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://tax.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://tax.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://tax.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tax.gov.ae/contact-us/"
         }
       ]
     },
@@ -1332,20 +948,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.liv.me"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.liv.me/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.liv.me/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.liv.me/contact-us/"
         }
       ]
     },
@@ -1368,20 +972,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.unioninsurance.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.unioninsurance.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.unioninsurance.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.unioninsurance.ae/contact-us/"
         }
       ]
     },
@@ -1404,20 +996,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.bits-pilani.ac.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.bits-pilani.ac.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.bits-pilani.ac.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.bits-pilani.ac.ae/contact-us/"
         }
       ]
     },
@@ -1440,20 +1020,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.musafir.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.musafir.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.musafir.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.musafir.com/contact-us/"
         }
       ]
     },
@@ -1476,20 +1044,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.alfuttaimauto.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.alfuttaimauto.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.alfuttaimauto.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.alfuttaimauto.com/contact-us/"
         }
       ]
     },
@@ -1512,20 +1068,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.creativezone.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.creativezone.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.creativezone.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.creativezone.ae/contact-us/"
         }
       ]
     },
@@ -1548,20 +1092,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.serveu.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.serveu.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.serveu.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.serveu.ae/contact-us/"
         }
       ]
     },
@@ -1583,20 +1115,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vapeyou.com.au"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vapeyou.com.au/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vapeyou.com.au/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vapeyou.com.au/contact-us/"
         }
       ]
     },
@@ -1618,20 +1138,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://6thstreet.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://6thstreet.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://6thstreet.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://6thstreet.com/contact-us/"
         }
       ]
     },
@@ -1653,20 +1161,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://uae.sharafdg.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://uae.sharafdg.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://uae.sharafdg.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://uae.sharafdg.com/contact-us/"
         }
       ]
     },
@@ -1688,20 +1184,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.msi.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.msi.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.msi.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.msi.com/contact-us/"
         }
       ]
     },
@@ -1723,20 +1207,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://souqgifts.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://souqgifts.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://souqgifts.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://souqgifts.ae/contact-us/"
         }
       ]
     },
@@ -1758,20 +1230,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dubaicare.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.dubaicare.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dubaicare.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dubaicare.com/contact-us/"
         }
       ]
     },
@@ -1793,20 +1253,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.supercare.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.supercare.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.supercare.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.supercare.ae/contact-us/"
         }
       ]
     },
@@ -1829,20 +1277,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://kingscollegehospitaldubai.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://kingscollegehospitaldubai.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://kingscollegehospitaldubai.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://kingscollegehospitaldubai.com/contact-us/"
         }
       ]
     },
@@ -1865,20 +1301,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dubizzle.com/property-for-rent/residential/"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dubizzle.com/property-for-rent/residential/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dubizzle.com/property-for-rent/residential/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dubizzle.com/property-for-rent/residential/contact-us/"
         }
       ]
     },
@@ -1901,20 +1325,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.aquaproperties.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.aquaproperties.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.aquaproperties.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.aquaproperties.com/contact-us/"
         }
       ]
     },
@@ -1937,20 +1349,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dubaiholdingrealestate.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dubaiholdingrealestate.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dubaiholdingrealestate.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dubaiholdingrealestate.ae/contact-us/"
         }
       ]
     },
@@ -1973,20 +1373,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dubaided.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dubaided.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dubaided.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dubaided.gov.ae/contact-us/"
         }
       ]
     },
@@ -2009,20 +1397,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.citibank.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.citibank.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.citibank.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.citibank.ae/contact-us/"
         }
       ]
     },
@@ -2045,20 +1421,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.qicuae.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.qicuae.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.qicuae.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.qicuae.com/contact-us/"
         }
       ]
     },
@@ -2081,20 +1445,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.aud.edu"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.aud.edu/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.aud.edu/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.aud.edu/contact-us/"
         }
       ]
     },
@@ -2117,20 +1469,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.etihad.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.etihad.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.etihad.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.etihad.com/contact-us/"
         }
       ]
     },
@@ -2153,20 +1493,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.sixt.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.sixt.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.sixt.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.sixt.ae/contact-us/"
         }
       ]
     },
@@ -2189,20 +1517,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.automalluae.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.automalluae.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.automalluae.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.automalluae.com/contact-us/"
         }
       ]
     },
@@ -2225,20 +1541,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.justlife.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.justlife.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.justlife.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.justlife.com/contact-us/"
         }
       ]
     },
@@ -2260,20 +1564,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vapeking.ca"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vapeking.ca/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vapeking.ca/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vapeking.ca/contact-us/"
         }
       ]
     },
@@ -2295,20 +1587,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vapeescape.ca"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vapeescape.ca/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vapeescape.ca/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vapeescape.ca/contact-us/"
         }
       ]
     },
@@ -2330,20 +1610,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://mango.com/ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://mango.com/ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://mango.com/ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://mango.com/ae/contact-us/"
         }
       ]
     },
@@ -2365,20 +1633,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://consumer.huawei.com/ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://consumer.huawei.com/ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://consumer.huawei.com/ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://consumer.huawei.com/ae/contact-us/"
         }
       ]
     },
@@ -2400,20 +1656,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.choitrams.com/en_ae/"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.choitrams.com/en_ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.choitrams.com/en_ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.choitrams.com/en_ae/contact-us/"
         }
       ]
     },
@@ -2435,20 +1679,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://giftsandmore.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://giftsandmore.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://giftsandmore.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://giftsandmore.ae/contact-us/"
         }
       ]
     },
@@ -2470,20 +1702,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.medeorhospital.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.medeorhospital.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.medeorhospital.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.medeorhospital.com/contact-us/"
         }
       ]
     },
@@ -2505,20 +1725,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.damanhealth.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.damanhealth.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.damanhealth.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.damanhealth.ae/contact-us/"
         }
       ]
     },
@@ -2541,20 +1749,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://healthplusivf.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://healthplusivf.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://healthplusivf.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://healthplusivf.com/contact-us/"
         }
       ]
     },
@@ -2577,20 +1773,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.savills.me"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.savills.me/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.savills.me/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.savills.me/contact-us/"
         }
       ]
     },
@@ -2613,20 +1797,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.meraas.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.meraas.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.meraas.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.meraas.com/contact-us/"
         }
       ]
     },
@@ -2649,20 +1821,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.rta.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.rta.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.rta.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.rta.ae/contact-us/"
         }
       ]
     },
@@ -2685,20 +1845,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dib.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dib.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dib.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dib.ae/contact-us/"
         }
       ]
     },
@@ -2721,20 +1869,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.orientinsurance.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.orientinsurance.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.orientinsurance.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.orientinsurance.ae/contact-us/"
         }
       ]
     },
@@ -2757,20 +1893,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.nas.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.nas.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.nas.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.nas.ae/contact-us/"
         }
       ]
     },
@@ -2793,20 +1917,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.britishcouncil.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.britishcouncil.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.britishcouncil.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.britishcouncil.ae/contact-us/"
         }
       ]
     },
@@ -2829,20 +1941,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dhl.com/ae-en/home.html"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dhl.com/ae-en/home.html/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dhl.com/ae-en/home.html/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dhl.com/ae-en/home.html/contact-us/"
         }
       ]
     },
@@ -2865,20 +1965,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://en.nissan-dubai.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://en.nissan-dubai.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://en.nissan-dubai.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://en.nissan-dubai.com/contact-us/"
         }
       ]
     },
@@ -2901,20 +1989,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.nrdoshi.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.nrdoshi.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.nrdoshi.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.nrdoshi.ae/contact-us/"
         }
       ]
     },
@@ -2936,20 +2012,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://sourcemore.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://sourcemore.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://sourcemore.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://sourcemore.com/contact-us/"
         }
       ]
     },
@@ -2971,20 +2035,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vaperempire.com.au"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vaperempire.com.au/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vaperempire.com.au/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vaperempire.com.au/contact-us/"
         }
       ]
     },
@@ -3006,20 +2058,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://centrepointstores.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://centrepointstores.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://centrepointstores.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://centrepointstores.com/contact-us/"
         }
       ]
     },
@@ -3041,20 +2081,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.jumbo.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.jumbo.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.jumbo.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.jumbo.ae/contact-us/"
         }
       ]
     },
@@ -3076,20 +2104,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.luluhypermarket.com/en-ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.luluhypermarket.com/en-ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.luluhypermarket.com/en-ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.luluhypermarket.com/en-ae/contact-us/"
         }
       ]
     },
@@ -3111,20 +2127,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://dubai-gift.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://dubai-gift.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://dubai-gift.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://dubai-gift.com/contact-us/"
         }
       ]
     },
@@ -3146,20 +2150,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.lifeclinic.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.lifeclinic.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.lifeclinic.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.lifeclinic.ae/contact-us/"
         }
       ]
     },
@@ -3181,20 +2173,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.aha.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.aha.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.aha.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.aha.ae/contact-us/"
         }
       ]
     },
@@ -3217,20 +2197,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://valiantclinic.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://valiantclinic.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://valiantclinic.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://valiantclinic.com/contact-us/"
         }
       ]
     },
@@ -3253,20 +2221,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.providentestate.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.providentestate.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.providentestate.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.providentestate.com/contact-us/"
         }
       ]
     },
@@ -3289,20 +2245,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.sobharealty.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.sobharealty.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.sobharealty.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.sobharealty.com/contact-us/"
         }
       ]
     },
@@ -3325,20 +2269,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dubai.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dubai.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dubai.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dubai.ae/contact-us/"
         }
       ]
     },
@@ -3361,20 +2293,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dubaipolice.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dubaipolice.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dubaipolice.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dubaipolice.gov.ae/contact-us/"
         }
       ]
     },
@@ -3397,20 +2317,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.wio.io"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.wio.io/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.wio.io/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.wio.io/contact-us/"
         }
       ]
     },
@@ -3433,20 +2341,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dnirdubai.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dnirdubai.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dnirdubai.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dnirdubai.com/contact-us/"
         }
       ]
     },
@@ -3469,20 +2365,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.uowdubai.ac.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.uowdubai.ac.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.uowdubai.ac.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.uowdubai.ac.ae/contact-us/"
         }
       ]
     },
@@ -3505,20 +2389,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://visitabudhabi.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://visitabudhabi.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://visitabudhabi.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://visitabudhabi.ae/contact-us/"
         }
       ]
     },
@@ -3541,20 +2413,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.sellanycar.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.sellanycar.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.sellanycar.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.sellanycar.com/contact-us/"
         }
       ]
     },
@@ -3577,20 +2437,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.shuraa.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.shuraa.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.shuraa.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.shuraa.com/contact-us/"
         }
       ]
     },
@@ -3613,20 +2461,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.transguardgroup.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.transguardgroup.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.transguardgroup.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.transguardgroup.com/contact-us/"
         }
       ]
     },
@@ -3648,20 +2484,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vaporesso.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vaporesso.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vaporesso.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vaporesso.com/contact-us/"
         }
       ]
     },
@@ -3683,20 +2507,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://namshi.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://namshi.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://namshi.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://namshi.com/contact-us/"
         }
       ]
     },
@@ -3718,20 +2530,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://forever21.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://forever21.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://forever21.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://forever21.ae/contact-us/"
         }
       ]
     },
@@ -3753,20 +2553,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.apple.com/ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.apple.com/ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.apple.com/ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.apple.com/ae/contact-us/"
         }
       ]
     },
@@ -3788,20 +2576,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://sephora.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://sephora.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://sephora.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://sephora.ae/contact-us/"
         }
       ]
     },
@@ -3823,20 +2599,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.clevelandclinicabudhabi.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.clevelandclinicabudhabi.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.clevelandclinicabudhabi.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.clevelandclinicabudhabi.ae/contact-us/"
         }
       ]
     },
@@ -3858,20 +2622,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.medilife.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.medilife.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.medilife.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.medilife.ae/contact-us/"
         }
       ]
     },
@@ -3894,20 +2646,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.zulekhahospitals.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.zulekhahospitals.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.zulekhahospitals.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.zulekhahospitals.com/contact-us/"
         }
       ]
     },
@@ -3930,20 +2670,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.bayut.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.bayut.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.bayut.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.bayut.com/contact-us/"
         }
       ]
     },
@@ -3966,20 +2694,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.espace.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.espace.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.espace.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.espace.ae/contact-us/"
         }
       ]
     },
@@ -4002,20 +2718,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://ellingtonproperties.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://ellingtonproperties.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://ellingtonproperties.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://ellingtonproperties.ae/contact-us/"
         }
       ]
     },
@@ -4038,20 +2742,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dm.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dm.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dm.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dm.gov.ae/contact-us/"
         }
       ]
     },
@@ -4074,20 +2766,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.sc.com/ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.sc.com/ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.sc.com/ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.sc.com/ae/contact-us/"
         }
       ]
     },
@@ -4110,20 +2790,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.adamjeeinsurance.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.adamjeeinsurance.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.adamjeeinsurance.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.adamjeeinsurance.ae/contact-us/"
         }
       ]
     },
@@ -4146,20 +2814,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.ku.ac.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.ku.ac.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.ku.ac.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.ku.ac.ae/contact-us/"
         }
       ]
     },
@@ -4182,20 +2838,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.emirates.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.emirates.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.emirates.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.emirates.com/contact-us/"
         }
       ]
     },
@@ -4218,20 +2862,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://deliveroo.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://deliveroo.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://deliveroo.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://deliveroo.ae/contact-us/"
         }
       ]
     },
@@ -4254,20 +2886,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.libertyautomobiles.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.libertyautomobiles.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.libertyautomobiles.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.libertyautomobiles.com/contact-us/"
         }
       ]
     },
@@ -4290,20 +2910,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://mrusta.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://mrusta.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://mrusta.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://mrusta.com/contact-us/"
         }
       ]
     },
@@ -4325,20 +2933,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://canadavapes.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://canadavapes.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://canadavapes.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://canadavapes.com/contact-us/"
         }
       ]
     },
@@ -4360,20 +2956,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vapourium.nz"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vapourium.nz/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vapourium.nz/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vapourium.nz/contact-us/"
         }
       ]
     },
@@ -4395,20 +2979,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://lcwaikiki.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://lcwaikiki.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://lcwaikiki.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://lcwaikiki.ae/contact-us/"
         }
       ]
     },
@@ -4430,20 +3002,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.samsung.com/ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.samsung.com/ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.samsung.com/ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.samsung.com/ae/contact-us/"
         }
       ]
     },
@@ -4465,20 +3025,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.amazon.ae/"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.amazon.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.amazon.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.amazon.ae/contact-us/"
         }
       ]
     },
@@ -4500,20 +3048,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://perfumesdubai.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://perfumesdubai.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://perfumesdubai.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://perfumesdubai.ae/contact-us/"
         }
       ]
     },
@@ -4535,20 +3071,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.almoosa.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.almoosa.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.almoosa.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.almoosa.com/contact-us/"
         }
       ]
     },
@@ -4570,20 +3094,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.medlabs.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.medlabs.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.medlabs.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.medlabs.com/contact-us/"
         }
       ]
     },
@@ -4606,20 +3118,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://moorfields.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://moorfields.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://moorfields.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://moorfields.ae/contact-us/"
         }
       ]
     },
@@ -4642,20 +3142,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.chestertonsmena.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.chestertonsmena.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.chestertonsmena.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.chestertonsmena.com/contact-us/"
         }
       ]
     },
@@ -4678,20 +3166,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.wasl.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.wasl.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.wasl.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.wasl.ae/contact-us/"
         }
       ]
     },
@@ -4714,20 +3190,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.gdrfad.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.gdrfad.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.gdrfad.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.gdrfad.gov.ae/contact-us/"
         }
       ]
     },
@@ -4750,20 +3214,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.cbd.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.cbd.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.cbd.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.cbd.ae/contact-us/"
         }
       ]
     },
@@ -4786,20 +3238,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.sukoon.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.sukoon.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.sukoon.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.sukoon.com/contact-us/"
         }
       ]
     },
@@ -4822,20 +3262,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.nextcarehealth.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.nextcarehealth.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.nextcarehealth.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.nextcarehealth.com/contact-us/"
         }
       ]
     },
@@ -4858,20 +3286,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.hbmsu.ac.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.hbmsu.ac.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.hbmsu.ac.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.hbmsu.ac.ae/contact-us/"
         }
       ]
     },
@@ -4894,20 +3310,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://emiratespost.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://emiratespost.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://emiratespost.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://emiratespost.ae/contact-us/"
         }
       ]
     },
@@ -4930,20 +3334,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.toyota.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.toyota.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.toyota.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.toyota.ae/contact-us/"
         }
       ]
     },
@@ -4966,20 +3358,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.aurionuae.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.aurionuae.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.aurionuae.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.aurionuae.com/contact-us/"
         }
       ]
     },
@@ -5001,20 +3381,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://elementvape.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://elementvape.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://elementvape.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://elementvape.com/contact-us/"
         }
       ]
     },
@@ -5036,20 +3404,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://relxnow.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://relxnow.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://relxnow.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://relxnow.com/contact-us/"
         }
       ]
     },
@@ -5071,20 +3427,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://redtag-stores.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://redtag-stores.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://redtag-stores.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://redtag-stores.com/contact-us/"
         }
       ]
     },
@@ -5106,20 +3450,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.noon.com/uae-en/electronics/"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.noon.com/uae-en/electronics/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.noon.com/uae-en/electronics/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.noon.com/uae-en/electronics/contact-us/"
         }
       ]
     },
@@ -5141,20 +3473,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.spinneys.com/en-ae/"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.spinneys.com/en-ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.spinneys.com/en-ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.spinneys.com/en-ae/contact-us/"
         }
       ]
     },
@@ -5176,20 +3496,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://giftsandperfumes.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://giftsandperfumes.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://giftsandperfumes.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://giftsandperfumes.ae/contact-us/"
         }
       ]
     },
@@ -5211,20 +3519,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.alzahra.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.alzahra.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.alzahra.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.alzahra.com/contact-us/"
         }
       ]
     },
@@ -5246,20 +3542,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.mohap.gov.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.mohap.gov.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.mohap.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.mohap.gov.ae/contact-us/"
         }
       ]
     },
@@ -5282,20 +3566,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.iranianhospitaldubai.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.iranianhospitaldubai.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.iranianhospitaldubai.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.iranianhospitaldubai.com/contact-us/"
         }
       ]
     },
@@ -5318,20 +3590,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.betterhomes.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.betterhomes.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.betterhomes.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.betterhomes.com/contact-us/"
         }
       ]
     },
@@ -5354,20 +3614,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.aldar.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.aldar.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.aldar.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.aldar.com/contact-us/"
         }
       ]
     },
@@ -5390,20 +3638,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://u.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://u.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://u.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://u.ae/contact-us/"
         }
       ]
     },
@@ -5426,20 +3662,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.moe.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.moe.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.moe.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.moe.gov.ae/contact-us/"
         }
       ]
     },
@@ -5462,20 +3686,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.sib.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.sib.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.sib.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.sib.ae/contact-us/"
         }
       ]
     },
@@ -5498,20 +3710,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.hala.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.hala.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.hala.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.hala.com/contact-us/"
         }
       ]
     },
@@ -5534,20 +3734,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.mdx.ac.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.mdx.ac.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.mdx.ac.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.mdx.ac.ae/contact-us/"
         }
       ]
     },
@@ -5570,20 +3758,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.visitdubai.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.visitdubai.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.visitdubai.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.visitdubai.com/contact-us/"
         }
       ]
     },
@@ -5606,20 +3782,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dubicars.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.dubicars.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dubicars.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dubicars.com/contact-us/"
         }
       ]
     },
@@ -5642,20 +3806,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.cafu.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.cafu.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.cafu.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.cafu.com/contact-us/"
         }
       ]
     },
@@ -5678,20 +3830,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.imdaad.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.imdaad.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.imdaad.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.imdaad.ae/contact-us/"
         }
       ]
     },
@@ -5713,20 +3853,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vaped.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vaped.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vaped.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vaped.com/contact-us/"
         }
       ]
     },
@@ -5748,20 +3876,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://maxfashion.com/ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://maxfashion.com/ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://maxfashion.com/ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://maxfashion.com/ae/contact-us/"
         }
       ]
     },
@@ -5783,20 +3899,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://cottonon.com/ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://cottonon.com/ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://cottonon.com/ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://cottonon.com/ae/contact-us/"
         }
       ]
     },
@@ -5818,20 +3922,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dell.com/en-ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.dell.com/en-ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dell.com/en-ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dell.com/en-ae/contact-us/"
         }
       ]
     },
@@ -5853,20 +3945,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://arabianoudperfumes.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://arabianoudperfumes.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://arabianoudperfumes.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://arabianoudperfumes.com/contact-us/"
         }
       ]
     },
@@ -5888,20 +3968,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.healthcaremagic.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.healthcaremagic.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.healthcaremagic.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.healthcaremagic.com/contact-us/"
         }
       ]
     },
@@ -5923,20 +3991,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.alqassimi.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.alqassimi.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.alqassimi.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.alqassimi.ae/contact-us/"
         }
       ]
     },
@@ -5959,20 +4015,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.primehealth.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.primehealth.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.primehealth.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.primehealth.ae/contact-us/"
         }
       ]
     },
@@ -5995,20 +4039,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.propertyfinder.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.propertyfinder.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.propertyfinder.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.propertyfinder.ae/contact-us/"
         }
       ]
     },
@@ -6031,20 +4063,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.colliers.com/en-ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.colliers.com/en-ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.colliers.com/en-ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.colliers.com/en-ae/contact-us/"
         }
       ]
     },
@@ -6067,20 +4087,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://tigerproperties.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://tigerproperties.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://tigerproperties.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tigerproperties.ae/contact-us/"
         }
       ]
     },
@@ -6103,20 +4111,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.addc.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.addc.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.addc.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.addc.ae/contact-us/"
         }
       ]
     },
@@ -6139,20 +4135,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.hsbc.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.hsbc.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.hsbc.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.hsbc.ae/contact-us/"
         }
       ]
     },
@@ -6175,20 +4159,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.takaful-emarat.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.takaful-emarat.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.takaful-emarat.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.takaful-emarat.com/contact-us/"
         }
       ]
     },
@@ -6211,20 +4183,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://hct.ac.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://hct.ac.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://hct.ac.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://hct.ac.ae/contact-us/"
         }
       ]
     },
@@ -6247,20 +4207,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.adek.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.adek.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.adek.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.adek.gov.ae/contact-us/"
         }
       ]
     },
@@ -6283,20 +4231,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.talabat.com/uae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.talabat.com/uae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.talabat.com/uae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.talabat.com/uae/contact-us/"
         }
       ]
     },
@@ -6319,20 +4255,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.habtoormotors.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.habtoormotors.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.habtoormotors.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.habtoormotors.com/contact-us/"
         }
       ]
     },
@@ -6355,20 +4279,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.servicemarket.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.servicemarket.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.servicemarket.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.servicemarket.com/contact-us/"
         }
       ]
     },
@@ -6390,20 +4302,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vapeshoreditch.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vapeshoreditch.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vapeshoreditch.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vapeshoreditch.com/contact-us/"
         }
       ]
     },
@@ -6425,20 +4325,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vapelink.com.au"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vapelink.com.au/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vapelink.com.au/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vapelink.com.au/contact-us/"
         }
       ]
     },
@@ -6460,20 +4348,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://koton.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://koton.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://koton.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://koton.com/contact-us/"
         }
       ]
     },
@@ -6495,20 +4371,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.pluginsme.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.pluginsme.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.pluginsme.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.pluginsme.com/contact-us/"
         }
       ]
     },
@@ -6530,20 +4394,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://elgrocer.com/"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://elgrocer.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://elgrocer.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://elgrocer.com/contact-us/"
         }
       ]
     },
@@ -6565,20 +4417,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://giftsinuae.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://giftsinuae.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://giftsinuae.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://giftsinuae.ae/contact-us/"
         }
       ]
     },
@@ -6600,20 +4440,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.pharmacyfirst.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.pharmacyfirst.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.pharmacyfirst.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.pharmacyfirst.ae/contact-us/"
         }
       ]
     },
@@ -6635,20 +4463,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.albayanclinic.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.albayanclinic.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.albayanclinic.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.albayanclinic.ae/contact-us/"
         }
       ]
     },
@@ -6671,20 +4487,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.neurospinalhospital.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.neurospinalhospital.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.neurospinalhospital.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.neurospinalhospital.com/contact-us/"
         }
       ]
     },
@@ -6707,20 +4511,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.arabianestates.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.arabianestates.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.arabianestates.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.arabianestates.ae/contact-us/"
         }
       ]
     },
@@ -6743,20 +4535,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.unionproperties.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.unionproperties.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.unionproperties.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.unionproperties.com/contact-us/"
         }
       ]
     },
@@ -6779,20 +4559,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://icp.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://icp.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://icp.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://icp.gov.ae/contact-us/"
         }
       ]
     },
@@ -6815,20 +4583,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.bankfab.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.bankfab.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.bankfab.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.bankfab.com/contact-us/"
         }
       ]
     },
@@ -6851,20 +4607,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.beehive.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.beehive.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.beehive.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.beehive.ae/contact-us/"
         }
       ]
     },
@@ -6887,20 +4631,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://yallacompare.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://yallacompare.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://yallacompare.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://yallacompare.com/contact-us/"
         }
       ]
     },
@@ -6923,20 +4655,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.buid.ac.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.buid.ac.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.buid.ac.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.buid.ac.ae/contact-us/"
         }
       ]
     },
@@ -6959,20 +4679,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.aramex.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.aramex.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.aramex.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.aramex.com/contact-us/"
         }
       ]
     },
@@ -6995,20 +4703,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.agmc.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.agmc.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.agmc.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.agmc.ae/contact-us/"
         }
       ]
     },
@@ -7031,20 +4727,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.flyingcolour.net"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.flyingcolour.net/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.flyingcolour.net/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.flyingcolour.net/contact-us/"
         }
       ]
     },
@@ -7066,20 +4750,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vaporfi.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vaporfi.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vaporfi.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vaporfi.com/contact-us/"
         }
       ]
     },
@@ -7101,20 +4773,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vapetrader.ca"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vapetrader.ca/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vapetrader.ca/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vapetrader.ca/contact-us/"
         }
       ]
     },
@@ -7136,20 +4796,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://sivvi.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://sivvi.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://sivvi.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://sivvi.com/contact-us/"
         }
       ]
     }
@@ -7174,20 +4822,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shisha Products",
-          "url": "https://shishaseller.ae/collections/shisha/"
-        },
-        {
-          "label": "Vape Products",
-          "url": "https://shishaseller.ae/collections/vape/"
-        },
-        {
-          "label": "Accessories",
-          "url": "https://shishaseller.ae/collections/accessories/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://shishaseller.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://shishaseller.ae"
         }
       ]
     },
@@ -7210,20 +4846,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Shop",
-          "url": "https://rpodsdubai.ae/collections/all/"
-        },
-        {
-          "label": "Pods",
-          "url": "https://rpodsdubai.ae/collections/pods/"
-        },
-        {
-          "label": "Nic Salts",
-          "url": "https://rpodsdubai.ae/collections/nic-salts/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://rpodsdubai.ae/pages/contact-us/"
+          "label": "Official Website",
+          "url": "https://rpodsdubai.ae"
         }
       ]
     },
@@ -7286,20 +4910,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://uaedirectory.pages.dev/"
-        },
-        {
-          "label": "Services",
-          "url": "https://uaedirectory.pages.dev/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://uaedirectory.pages.dev/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://uaedirectory.pages.dev/contact-us/"
         }
       ]
     },
@@ -7322,20 +4934,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://tax.gov.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://tax.gov.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://tax.gov.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://tax.gov.ae/contact-us/"
         }
       ]
     },
@@ -7358,20 +4958,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.liv.me"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.liv.me/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.liv.me/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.liv.me/contact-us/"
         }
       ]
     },
@@ -7394,20 +4982,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.unioninsurance.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.unioninsurance.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.unioninsurance.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.unioninsurance.ae/contact-us/"
         }
       ]
     },
@@ -7430,20 +5006,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.bits-pilani.ac.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.bits-pilani.ac.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.bits-pilani.ac.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.bits-pilani.ac.ae/contact-us/"
         }
       ]
     },
@@ -7466,20 +5030,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.musafir.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.musafir.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.musafir.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.musafir.com/contact-us/"
         }
       ]
     },
@@ -7502,20 +5054,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.alfuttaimauto.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.alfuttaimauto.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.alfuttaimauto.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.alfuttaimauto.com/contact-us/"
         }
       ]
     },
@@ -7538,20 +5078,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.creativezone.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.creativezone.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.creativezone.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.creativezone.ae/contact-us/"
         }
       ]
     },
@@ -7574,20 +5102,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.serveu.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.serveu.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.serveu.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.serveu.ae/contact-us/"
         }
       ]
     },
@@ -7609,20 +5125,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://vapeyou.com.au"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://vapeyou.com.au/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://vapeyou.com.au/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://vapeyou.com.au/contact-us/"
         }
       ]
     },
@@ -7644,20 +5148,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://6thstreet.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://6thstreet.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://6thstreet.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://6thstreet.com/contact-us/"
         }
       ]
     },
@@ -7679,20 +5171,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://uae.sharafdg.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://uae.sharafdg.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://uae.sharafdg.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://uae.sharafdg.com/contact-us/"
         }
       ]
     },
@@ -7714,20 +5194,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.msi.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.msi.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.msi.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.msi.com/contact-us/"
         }
       ]
     },
@@ -7749,20 +5217,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://souqgifts.ae"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://souqgifts.ae/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://souqgifts.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://souqgifts.ae/contact-us/"
         }
       ]
     },
@@ -7784,20 +5240,8 @@ const SITE_DATA={
       ],
       "links": [
         {
-          "label": "Home Page",
+          "label": "Official Website",
           "url": "https://www.dubaicare.com"
-        },
-        {
-          "label": "Shop / Services",
-          "url": "https://www.dubaicare.com/collections/all/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.dubaicare.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.dubaicare.com/contact-us/"
         }
       ]
     }
