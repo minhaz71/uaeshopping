@@ -1010,38 +1010,110 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "uae-buyer-guide",
-      "name": "UAE Buyer Guide",
-      "url": "https://uaebuyerguide.vercel.app/",
+      "slug": "uae-shopping-guide-netlify",
+      "name": "UAE Shopping Guide Netlify",
+      "url": "https://uaeshoppingguide.netlify.app/",
       "isSubmittedSite": false,
       "isImportantGuide": true,
       "category": "Comparison Core",
-      "description": "Guide-style UAE buyer resource for comparing online stores, service websites, specialty shopping options, and useful local web resources.",
-      "whatTheyOffer": "publishes UAE-focused updates, business notes, local stories, or digital media content.",
+      "description": "Netlify-hosted UAE shopping guide resource for browsing useful shopping, service, and discovery pages.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "UAE Buyer Guide is treated as a buyer-lab entry with practical comparison context, pros, audience notes, and verification reminders.",
+      "platformNote": "UAE Shopping Guide Netlify is treated as a buyer-lab entry with practical comparison context, pros, audience notes, and verification reminders.",
       "strengths": [
-        "Buyer-guide format",
-        "UAE website discovery",
-        "Comparison-style content",
-        "Useful resource hub"
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
       ],
       "links": [
         {
           "label": "Home Page",
-          "url": "https://uaebuyerguide.vercel.app/"
+          "url": "https://uaeshoppingguide.netlify.app/"
         },
         {
-          "label": "Shopping Guides",
-          "url": "https://uaebuyerguide.vercel.app/guides/"
+          "label": "Services",
+          "url": "https://uaeshoppingguide.netlify.app/services/"
         },
         {
-          "label": "Best UAE Websites",
-          "url": "https://uaebuyerguide.vercel.app/best-uae-websites/"
+          "label": "About",
+          "url": "https://uaeshoppingguide.netlify.app/about-us/"
         },
         {
           "label": "Contact",
-          "url": "https://uaebuyerguide.vercel.app/contact/"
+          "url": "https://uaeshoppingguide.netlify.app/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "uae-shopping-render-guide",
+      "name": "UAE Shopping Render Guide",
+      "url": "https://uaeshopping.onrender.com/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Comparison Core",
+      "description": "Render-hosted UAE shopping guide resource with category paths, shopping hubs, and useful UAE website references.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "UAE Shopping Render Guide is treated as a buyer-lab entry with practical comparison context, pros, audience notes, and verification reminders.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://uaeshopping.onrender.com/"
+        },
+        {
+          "label": "Services",
+          "url": "https://uaeshopping.onrender.com/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://uaeshopping.onrender.com/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://uaeshopping.onrender.com/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "shopping-guide-uae-firebase",
+      "name": "Shopping Guide UAE Firebase",
+      "url": "https://shoppingguideuae.web.app/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Comparison Core",
+      "description": "Firebase-hosted UAE shopping guide resource with searchable cards, service hubs, and dedicated resource profile pages.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Shopping Guide UAE Firebase is treated as a buyer-lab entry with practical comparison context, pros, audience notes, and verification reminders.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://shoppingguideuae.web.app/"
+        },
+        {
+          "label": "Services",
+          "url": "https://shoppingguideuae.web.app/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://shoppingguideuae.web.app/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://shoppingguideuae.web.app/contact-us/"
         }
       ]
     },
@@ -7055,78 +7127,6 @@ const SITE_DATA={
         {
           "label": "Contact",
           "url": "https://www.hsbc.ae/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "ajman-bank",
-      "name": "Ajman Bank",
-      "url": "https://www.ajmanbank.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Service Checks",
-      "description": "Islamic bank offering personal, corporate, and digital banking services.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Ajman Bank is treated as a buyer-lab entry with practical comparison context, pros, audience notes, and verification reminders.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.ajmanbank.ae"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.ajmanbank.ae/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.ajmanbank.ae/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.ajmanbank.ae/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "sarwa",
-      "name": "Sarwa",
-      "url": "https://www.sarwa.co",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Service Checks",
-      "description": "Investment and savings platform serving UAE users with digital finance tools.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Sarwa is treated as a buyer-lab entry with practical comparison context, pros, audience notes, and verification reminders.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.sarwa.co"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.sarwa.co/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.sarwa.co/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.sarwa.co/contact-us/"
         }
       ]
     }
