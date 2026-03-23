@@ -1,7 +1,3 @@
-# Gulf Shopping Journal - AWS Amplify
+# Gulf Shopping Journal Disabled
 
-Static AWS Amplify website.
-
-- App type: static site
-- Build command: none
-- Artifact base directory: `.`
+This build is intentionally disabled and noindexed. Use the active platform branches instead.
