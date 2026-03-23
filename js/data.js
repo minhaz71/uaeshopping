@@ -3,10 +3,10 @@ const SITE_ITEMS=[
     "slug": "shishaseller-ae",
     "name": "shishaseller.ae",
     "url": "https://shishaseller.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Shisha Seller is a UAE-focused shisha and vape shopping destination for adult customers comparing devices, accessories, and everyday smoking essentials.",
-    "angle": "shishaseller.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "shishaseller.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Shisha Dubai",
@@ -15,17 +15,17 @@ const SITE_ITEMS=[
         "context": "shisha and adult specialty shopping"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "rpodsdubai-ae",
     "name": "rpodsdubai.ae",
     "url": "https://rpodsdubai.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "R Pods Dubai is positioned around pod systems, replacement pods, compact devices, and Dubai-focused online vape shopping.",
-    "angle": "rpodsdubai.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "rpodsdubai.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "RELX Dubai",
@@ -34,17 +34,17 @@ const SITE_ITEMS=[
         "context": "RELX pod comparison"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "podsvibe-ae",
     "name": "podsvibe.ae",
     "url": "https://podsvibe.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Pods Vibe is a UAE pod and vape store profile for shoppers looking at trending pod kits, flavors, and compact device options.",
-    "angle": "podsvibe.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "podsvibe.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "JUUL Dubai",
@@ -53,17 +53,17 @@ const SITE_ITEMS=[
         "context": "JUUL device and pod guidance"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "vozolxpress-ae",
     "name": "vozolxpress.ae",
     "url": "https://vozolxpress.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Vozol Xpress is a specialist listing for Vozol-style disposable vape products and quick adult-use product discovery in the UAE.",
-    "angle": "vozolxpress.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "vozolxpress.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Vape Dubai",
@@ -72,17 +72,17 @@ const SITE_ITEMS=[
         "context": "disposable vape selection"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "allheetsdubai-ae",
     "name": "allheetsdubai.ae",
     "url": "https://allheetsdubai.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "All HEETS Dubai is a heat-not-burn specialist profile for shoppers comparing HEETS, IQOS-compatible items, and Dubai delivery options.",
-    "angle": "allheetsdubai.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "allheetsdubai.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "HEETS Dubai",
@@ -91,17 +91,17 @@ const SITE_ITEMS=[
         "context": "HEETS storage and flavor care"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "whitefoxdubai-ae",
     "name": "whitefoxdubai.ae",
     "url": "https://whitefoxdubai.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "White Fox Dubai is a niche nicotine pouch listing for adult customers looking for pouch products and local Dubai availability.",
-    "angle": "whitefoxdubai.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "whitefoxdubai.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Nicotine Pouches Dubai",
@@ -110,17 +110,17 @@ const SITE_ITEMS=[
         "context": "nicotine pouch flavor comparison"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "vgodpod-ae",
     "name": "vgodpod.ae",
     "url": "https://vgodpod.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "VGOD Pod is a UAE listing for shoppers comparing VGOD products, pod devices, nic salts, and premium vape accessories.",
-    "angle": "vgodpod.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "vgodpod.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Vape Pod Dubai",
@@ -129,17 +129,17 @@ const SITE_ITEMS=[
         "context": "pod and device shopping"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "tereailumaabudhabi-ae",
     "name": "tereailumaabudhabi.ae",
     "url": "https://tereailumaabudhabi.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "TEREA Iluma Abu Dhabi is a profile for Abu Dhabi customers comparing Iluma-compatible TEREA products and related adult-use items.",
-    "angle": "tereailumaabudhabi.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "tereailumaabudhabi.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "IQOS Abu Dhabi",
@@ -148,17 +148,17 @@ const SITE_ITEMS=[
         "context": "IQOS ILUMA device comparison"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "tereaheetsdubai-ae",
     "name": "tereaheetsdubai.ae",
     "url": "https://tereaheetsdubai.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "TEREA HEETS Dubai is built around TEREA and HEETS-style product discovery for adult shoppers in Dubai.",
-    "angle": "tereaheetsdubai.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "tereaheetsdubai.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "TEREA Flavor Dubai",
@@ -167,17 +167,17 @@ const SITE_ITEMS=[
         "context": "TEREA flavor switching"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "podsaltnic-ae",
     "name": "podsaltnic.ae",
     "url": "https://podsaltnic.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Pod Salt Nic is a UAE profile for shoppers comparing pod salt flavors, nic salts, refillable kits, and related vape accessories.",
-    "angle": "podsaltnic.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "podsaltnic.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Nic Salt Dubai",
@@ -186,17 +186,17 @@ const SITE_ITEMS=[
         "context": "nic salt flavor research"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "podsxpress-ae",
     "name": "podsxpress.ae",
     "url": "https://podsxpress.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Pods Xpress is a fast-shopping UAE profile for trending pods, compact devices, vape accessories, and adult-use delivery discovery.",
-    "angle": "podsxpress.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "podsxpress.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "JUUL Dubai UAE",
@@ -205,17 +205,17 @@ const SITE_ITEMS=[
         "context": "JUUL 2 flavor pods"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "tereazone-ae",
     "name": "tereazone.ae",
     "url": "https://tereazone.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "TEREA Zone is a specialist heat-not-burn profile for TEREA products, IQOS-compatible accessories, and UAE delivery comparison.",
-    "angle": "tereazone.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "tereazone.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "TEREA Dubai",
@@ -224,34 +224,34 @@ const SITE_ITEMS=[
         "context": "TEREA flavor guidance"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "tereaxpress-ae",
     "name": "tereaxpress.ae",
     "url": "https://tereaxpress.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "TEREA Xpress is a fast ordering profile for TEREA sticks, Iluma-related products, and adult heat-not-burn shopping in the UAE.",
-    "angle": "tereaxpress.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "tereaxpress.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Official Website",
         "url": "https://tereaxpress.ae"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "nicotineshop-ae",
     "name": "nicotineshop.ae",
     "url": "https://nicotineshop.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Nicotine Shop is a broad adult nicotine product profile for customers comparing vape products, pouches, accessories, and UAE delivery options.",
-    "angle": "nicotineshop.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "nicotineshop.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Nicotine Dubai",
@@ -260,17 +260,17 @@ const SITE_ITEMS=[
         "context": "nicotine product browsing"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "vaphype-ae",
     "name": "vaphype.ae",
     "url": "https://vaphype.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Vap Hype is a UAE vape store profile for adult shoppers comparing products, accessories, and online ordering convenience.",
-    "angle": "vaphype.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "vaphype.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "IQOS Dubai",
@@ -279,17 +279,17 @@ const SITE_ITEMS=[
         "context": "IQOS ILUMA and TEREA selection"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "vaporkit-ae",
     "name": "vaporkit.ae",
     "url": "https://vaporkit.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Vapor Kit is a device-focused profile for customers researching vape kits, pod systems, and starter-friendly shopping paths.",
-    "angle": "vaporkit.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "vaporkit.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "IQOS ILUMA Dubai",
@@ -298,17 +298,17 @@ const SITE_ITEMS=[
         "context": "IQOS ILUMA compatible flavor options"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "tereapro-ae",
     "name": "tereapro.ae",
     "url": "https://tereapro.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "TEREA Pro is a specialist listing for TEREA and heat-not-burn products, with a profile aimed at UAE shoppers comparing official-site options.",
-    "angle": "tereapro.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "tereapro.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "TEREA UAE",
@@ -317,17 +317,17 @@ const SITE_ITEMS=[
         "context": "TEREA shopping"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "podseller-ae",
     "name": "podseller.ae",
     "url": "https://podseller.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Pod Seller is a UAE pod store profile for adult shoppers comparing pod devices, replacement pods, and vape accessories.",
-    "angle": "podseller.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "podseller.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "JUUL Pods Dubai",
@@ -336,17 +336,17 @@ const SITE_ITEMS=[
         "context": "JUUL pod flavor comparison"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "podshub-ae",
     "name": "podshub.ae",
     "url": "https://podshub.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Pods Hub is a pod-focused directory profile for discovering compact vape devices, pod accessories, and UAE online availability.",
-    "angle": "podshub.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "podshub.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Pods Dubai",
@@ -355,17 +355,17 @@ const SITE_ITEMS=[
         "context": "pod system discovery"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "tereahub-ae",
     "name": "tereahub.ae",
     "url": "https://tereahub.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "TEREA Hub is a heat-not-burn shopping profile for TEREA product discovery, IQOS-compatible accessories, and UAE delivery comparison.",
-    "angle": "tereahub.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "tereahub.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "TEREA Indonesia Dubai",
@@ -374,16 +374,16 @@ const SITE_ITEMS=[
         "context": "TEREA Indonesia product research"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "newsvista360-ae",
     "name": "newsvista360.ae",
     "url": "https://newsvista360.ae",
-    "category": "Owned Media Shelf",
+    "category": "Independent Media Listings",
     "description": "News Vista 360 is a UAE digital news profile for readers looking for local updates, business stories, and broad editorial coverage.",
-    "angle": "newsvista360.ae is included as an owned media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
+    "angle": "newsvista360.ae is included as an independent media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
@@ -393,16 +393,16 @@ const SITE_ITEMS=[
         "context": "UAE news reading"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "chroniclebyte-ae",
     "name": "chroniclebyte.ae",
     "url": "https://chroniclebyte.ae",
-    "category": "Owned Media Shelf",
+    "category": "Independent Media Listings",
     "description": "Chronicle Byte is presented as a UAE online media listing for business, community, technology, and regional news discovery.",
-    "angle": "chroniclebyte.ae is included as an owned media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
+    "angle": "chroniclebyte.ae is included as an independent media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
@@ -412,16 +412,16 @@ const SITE_ITEMS=[
         "context": "business and community updates"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "nexusreport-ae",
     "name": "nexusreport.ae",
     "url": "https://nexusreport.ae",
-    "category": "Owned Media Shelf",
+    "category": "Independent Media Listings",
     "description": "Nexus Report is a digital reporting profile for UAE readers comparing local information, business notes, and editorial updates.",
-    "angle": "nexusreport.ae is included as an owned media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
+    "angle": "nexusreport.ae is included as an independent media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
@@ -431,16 +431,16 @@ const SITE_ITEMS=[
         "context": "UAE reporting"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "pulsenarrative-ae",
     "name": "pulsenarrative.ae",
     "url": "https://pulsenarrative.ae",
-    "category": "Owned Media Shelf",
+    "category": "Independent Media Listings",
     "description": "Pulse Narrative is a modern editorial listing for UAE stories, local developments, opinion-style coverage, and business-adjacent updates.",
-    "angle": "pulsenarrative.ae is included as an owned media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
+    "angle": "pulsenarrative.ae is included as an independent media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
@@ -450,16 +450,16 @@ const SITE_ITEMS=[
         "context": "local editorial stories"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "lenshubnews-ae",
     "name": "lenshubnews.ae",
     "url": "https://lenshubnews.ae",
-    "category": "Owned Media Shelf",
+    "category": "Independent Media Listings",
     "description": "Lens Hub News is a UAE news and publishing profile for readers browsing local coverage, category updates, and digital media stories.",
-    "angle": "lenshubnews.ae is included as an owned media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
+    "angle": "lenshubnews.ae is included as an independent media resource for readers following UAE updates, business context, local stories, or digital publishing projects.",
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
@@ -469,7 +469,7 @@ const SITE_ITEMS=[
         "context": "digital news discovery"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
@@ -486,7 +486,7 @@ const SITE_ITEMS=[
         "url": "https://uaeshopping.pages.dev/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": true
   },
   {
@@ -503,7 +503,7 @@ const SITE_ITEMS=[
         "url": "https://uaedirectory.pages.dev/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": true
   },
   {
@@ -520,7 +520,7 @@ const SITE_ITEMS=[
         "url": "https://businesshub.pages.dev/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": true
   },
   {
@@ -537,7 +537,7 @@ const SITE_ITEMS=[
         "url": "https://uaeshoppingguide.netlify.app/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": true
   },
   {
@@ -554,7 +554,7 @@ const SITE_ITEMS=[
         "url": "https://uaeshopping.onrender.com/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": true
   },
   {
@@ -571,7 +571,7 @@ const SITE_ITEMS=[
         "url": "https://shoppingguideuae.web.app/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": true
   },
   {
@@ -588,7 +588,7 @@ const SITE_ITEMS=[
         "url": "https://uaebuyerguide.vercel.app/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": true
   },
   {
@@ -605,7 +605,7 @@ const SITE_ITEMS=[
         "url": "https://splashfashions.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -622,7 +622,7 @@ const SITE_ITEMS=[
         "url": "https://sephora.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -639,7 +639,7 @@ const SITE_ITEMS=[
         "url": "https://www.propertyfinder.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -656,7 +656,7 @@ const SITE_ITEMS=[
         "url": "https://www.dubai.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -673,7 +673,7 @@ const SITE_ITEMS=[
         "url": "https://www.carrefouruae.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -690,7 +690,7 @@ const SITE_ITEMS=[
         "url": "https://maxfashion.com/ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -707,7 +707,7 @@ const SITE_ITEMS=[
         "url": "https://www.altibbi.com/en"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -724,7 +724,7 @@ const SITE_ITEMS=[
         "url": "https://www.bayut.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -741,7 +741,7 @@ const SITE_ITEMS=[
         "url": "https://www.abudhabi.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -758,7 +758,7 @@ const SITE_ITEMS=[
         "url": "https://www.amazon.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -775,7 +775,7 @@ const SITE_ITEMS=[
         "url": "https://namshi.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -792,7 +792,7 @@ const SITE_ITEMS=[
         "url": "https://www.healthcaremagic.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -809,7 +809,7 @@ const SITE_ITEMS=[
         "url": "https://www.dubizzle.com/property-for-rent/residential/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -826,7 +826,7 @@ const SITE_ITEMS=[
         "url": "https://www.tamm.abudhabi"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -843,7 +843,7 @@ const SITE_ITEMS=[
         "url": "https://www.carrefouruae.com/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -860,7 +860,7 @@ const SITE_ITEMS=[
         "url": "https://6thstreet.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -877,7 +877,7 @@ const SITE_ITEMS=[
         "url": "https://www.clevelandclinicabudhabi.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -894,7 +894,7 @@ const SITE_ITEMS=[
         "url": "https://famproperties.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -911,7 +911,7 @@ const SITE_ITEMS=[
         "url": "https://www.dubaided.gov.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -928,7 +928,7 @@ const SITE_ITEMS=[
         "url": "https://www.talabat.com/uae/groceries"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -945,7 +945,7 @@ const SITE_ITEMS=[
         "url": "https://noon.com/fashion"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -962,7 +962,7 @@ const SITE_ITEMS=[
         "url": "https://www.dubaicare.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -979,7 +979,7 @@ const SITE_ITEMS=[
         "url": "https://www.hausandhaus.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -996,7 +996,7 @@ const SITE_ITEMS=[
         "url": "https://added.gov.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1013,7 +1013,7 @@ const SITE_ITEMS=[
         "url": "https://instashop.ae/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1030,7 +1030,7 @@ const SITE_ITEMS=[
         "url": "https://zara.com/ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1047,7 +1047,7 @@ const SITE_ITEMS=[
         "url": "https://www.medcare.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1064,7 +1064,7 @@ const SITE_ITEMS=[
         "url": "https://www.allsoppandallsopp.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1081,7 +1081,7 @@ const SITE_ITEMS=[
         "url": "https://www.moec.gov.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1098,7 +1098,7 @@ const SITE_ITEMS=[
         "url": "https://souqperfumes.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1115,7 +1115,7 @@ const SITE_ITEMS=[
         "url": "https://sivvi.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1132,7 +1132,7 @@ const SITE_ITEMS=[
         "url": "https://www.aed.pharmacy"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1149,7 +1149,7 @@ const SITE_ITEMS=[
         "url": "https://www.betterhomes.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1166,7 +1166,7 @@ const SITE_ITEMS=[
         "url": "https://tax.gov.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1183,7 +1183,7 @@ const SITE_ITEMS=[
         "url": "https://giftsandperfumes.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1200,7 +1200,7 @@ const SITE_ITEMS=[
         "url": "https://redtag-stores.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1217,7 +1217,7 @@ const SITE_ITEMS=[
         "url": "https://www.tawam.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1234,7 +1234,7 @@ const SITE_ITEMS=[
         "url": "https://www.providentestate.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1251,7 +1251,7 @@ const SITE_ITEMS=[
         "url": "https://www.emiratesnbd.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1268,7 +1268,7 @@ const SITE_ITEMS=[
         "url": "https://giftcentral.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1285,7 +1285,7 @@ const SITE_ITEMS=[
         "url": "https://centrepointstores.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1302,7 +1302,7 @@ const SITE_ITEMS=[
         "url": "https://www.alzahra.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1319,7 +1319,7 @@ const SITE_ITEMS=[
         "url": "https://www.axcapital.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1336,7 +1336,7 @@ const SITE_ITEMS=[
         "url": "https://www.adcb.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1353,7 +1353,7 @@ const SITE_ITEMS=[
         "url": "https://www.rta.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1370,7 +1370,7 @@ const SITE_ITEMS=[
         "url": "https://brandsforless.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1387,7 +1387,7 @@ const SITE_ITEMS=[
         "url": "https://www.lifeclinic.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1404,7 +1404,7 @@ const SITE_ITEMS=[
         "url": "https://www.drivenproperties.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1421,7 +1421,7 @@ const SITE_ITEMS=[
         "url": "https://www.bankfab.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1438,7 +1438,7 @@ const SITE_ITEMS=[
         "url": "https://www.emirates.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1455,7 +1455,7 @@ const SITE_ITEMS=[
         "url": "https://americanrag.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1472,7 +1472,7 @@ const SITE_ITEMS=[
         "url": "https://www.rashiddoc.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1489,7 +1489,7 @@ const SITE_ITEMS=[
         "url": "https://www.luxhabitat.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1506,7 +1506,7 @@ const SITE_ITEMS=[
         "url": "https://www.cbd.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1523,7 +1523,7 @@ const SITE_ITEMS=[
         "url": "https://www.etihad.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1540,7 +1540,7 @@ const SITE_ITEMS=[
         "url": "https://alldaystores.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1557,7 +1557,7 @@ const SITE_ITEMS=[
         "url": "https://www.seha.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1574,7 +1574,7 @@ const SITE_ITEMS=[
         "url": "https://www.arabianestates.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1591,7 +1591,7 @@ const SITE_ITEMS=[
         "url": "https://www.dib.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1608,7 +1608,7 @@ const SITE_ITEMS=[
         "url": "https://www.flydubai.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1625,7 +1625,7 @@ const SITE_ITEMS=[
         "url": "https://koton.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1642,7 +1642,7 @@ const SITE_ITEMS=[
         "url": "https://www.healthpoint.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1659,7 +1659,7 @@ const SITE_ITEMS=[
         "url": "https://www.chestertonsmena.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1676,7 +1676,7 @@ const SITE_ITEMS=[
         "url": "https://www.mashreq.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1693,7 +1693,7 @@ const SITE_ITEMS=[
         "url": "https://www.airarabia.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1710,7 +1710,7 @@ const SITE_ITEMS=[
         "url": "https://lcwaikiki.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1727,7 +1727,7 @@ const SITE_ITEMS=[
         "url": "https://www.pharmacyfirst.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1744,7 +1744,7 @@ const SITE_ITEMS=[
         "url": "https://www.savills.me"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1761,7 +1761,7 @@ const SITE_ITEMS=[
         "url": "https://www.rakbank.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1778,7 +1778,7 @@ const SITE_ITEMS=[
         "url": "https://www.dnata.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1795,7 +1795,7 @@ const SITE_ITEMS=[
         "url": "https://mango.com/ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1812,7 +1812,7 @@ const SITE_ITEMS=[
         "url": "https://www.almoosa.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1829,7 +1829,7 @@ const SITE_ITEMS=[
         "url": "https://www.knightfrank.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1846,7 +1846,7 @@ const SITE_ITEMS=[
         "url": "https://www.adib.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1863,7 +1863,7 @@ const SITE_ITEMS=[
         "url": "https://www.visitdubai.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1880,7 +1880,7 @@ const SITE_ITEMS=[
         "url": "https://reebok.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1897,7 +1897,7 @@ const SITE_ITEMS=[
         "url": "https://www.medeorhospital.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1914,7 +1914,7 @@ const SITE_ITEMS=[
         "url": "https://www.cbre.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1931,7 +1931,7 @@ const SITE_ITEMS=[
         "url": "https://www.hsbc.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1948,7 +1948,7 @@ const SITE_ITEMS=[
         "url": "https://visitabudhabi.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1965,7 +1965,7 @@ const SITE_ITEMS=[
         "url": "https://athleisure.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1982,7 +1982,7 @@ const SITE_ITEMS=[
         "url": "https://www.dubaihealthauthority.gov.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -1999,7 +1999,7 @@ const SITE_ITEMS=[
         "url": "https://www.jll-mena.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2016,7 +2016,7 @@ const SITE_ITEMS=[
         "url": "https://www.sc.com/ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2033,7 +2033,7 @@ const SITE_ITEMS=[
         "url": "https://www.musafir.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2050,7 +2050,7 @@ const SITE_ITEMS=[
         "url": "https://bossini.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2067,7 +2067,7 @@ const SITE_ITEMS=[
         "url": "https://www.pharmacylib.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2084,7 +2084,7 @@ const SITE_ITEMS=[
         "url": "https://www.colliers.com/en-ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2101,7 +2101,7 @@ const SITE_ITEMS=[
         "url": "https://www.citibank.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2118,7 +2118,7 @@ const SITE_ITEMS=[
         "url": "https://www.almosafer.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2135,7 +2135,7 @@ const SITE_ITEMS=[
         "url": "https://cottonon.com/ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2152,7 +2152,7 @@ const SITE_ITEMS=[
         "url": "https://www.nmc.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2169,7 +2169,7 @@ const SITE_ITEMS=[
         "url": "https://www.espace.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2186,7 +2186,7 @@ const SITE_ITEMS=[
         "url": "https://www.emiratesislamic.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2203,7 +2203,7 @@ const SITE_ITEMS=[
         "url": "https://www.cleartrip.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2220,7 +2220,7 @@ const SITE_ITEMS=[
         "url": "https://forever21.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2237,7 +2237,7 @@ const SITE_ITEMS=[
         "url": "https://www.alqassimi.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2254,7 +2254,7 @@ const SITE_ITEMS=[
         "url": "https://www.aquaproperties.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2271,7 +2271,7 @@ const SITE_ITEMS=[
         "url": "https://www.alhilalbank.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2288,7 +2288,7 @@ const SITE_ITEMS=[
         "url": "https://www.aramex.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2305,7 +2305,7 @@ const SITE_ITEMS=[
         "url": "https://uae.sharafdg.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2322,7 +2322,7 @@ const SITE_ITEMS=[
         "url": "https://www.medilife.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2339,7 +2339,7 @@ const SITE_ITEMS=[
         "url": "https://www.damacproperties.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2356,7 +2356,7 @@ const SITE_ITEMS=[
         "url": "https://www.ajmanbank.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2373,7 +2373,7 @@ const SITE_ITEMS=[
         "url": "https://emiratespost.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2390,7 +2390,7 @@ const SITE_ITEMS=[
         "url": "https://www.emaxme.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2407,7 +2407,7 @@ const SITE_ITEMS=[
         "url": "https://www.supercare.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2424,7 +2424,7 @@ const SITE_ITEMS=[
         "url": "https://www.nakheel.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2441,7 +2441,7 @@ const SITE_ITEMS=[
         "url": "https://www.sib.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2458,7 +2458,7 @@ const SITE_ITEMS=[
         "url": "https://www.fedex.com/en-ae/home.html"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2475,7 +2475,7 @@ const SITE_ITEMS=[
         "url": "https://www.noon.com/uae-en/electronics/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2492,7 +2492,7 @@ const SITE_ITEMS=[
         "url": "https://www.mediclinic.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2509,7 +2509,7 @@ const SITE_ITEMS=[
         "url": "https://www.aldar.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2526,7 +2526,7 @@ const SITE_ITEMS=[
         "url": "https://www.wio.io"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2543,7 +2543,7 @@ const SITE_ITEMS=[
         "url": "https://www.ups.com/ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2560,7 +2560,7 @@ const SITE_ITEMS=[
         "url": "https://www.jumbo.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2577,7 +2577,7 @@ const SITE_ITEMS=[
         "url": "https://www.alzahrahospitals.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2594,7 +2594,7 @@ const SITE_ITEMS=[
         "url": "https://www.sobharealty.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2611,7 +2611,7 @@ const SITE_ITEMS=[
         "url": "https://www.liv.me"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2628,7 +2628,7 @@ const SITE_ITEMS=[
         "url": "https://www.talabat.com/uae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   }
 ];
@@ -2637,10 +2637,10 @@ const SITE_HOME=[
     "slug": "shishaseller-ae",
     "name": "shishaseller.ae",
     "url": "https://shishaseller.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "Shisha Seller is a UAE-focused shisha and vape shopping destination for adult customers comparing devices, accessories, and everyday smoking essentials.",
-    "angle": "shishaseller.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "shishaseller.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "Shisha Dubai",
@@ -2649,17 +2649,17 @@ const SITE_HOME=[
         "context": "shisha and adult specialty shopping"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
     "slug": "rpodsdubai-ae",
     "name": "rpodsdubai.ae",
     "url": "https://rpodsdubai.ae",
-    "category": "Owned Specialty Shelf",
+    "category": "Independent Specialty Listings",
     "description": "R Pods Dubai is positioned around pod systems, replacement pods, compact devices, and Dubai-focused online vape shopping.",
-    "angle": "rpodsdubai.ae is listed as a specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
-    "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
+    "angle": "rpodsdubai.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
+    "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
         "label": "RELX Dubai",
@@ -2668,7 +2668,7 @@ const SITE_HOME=[
         "context": "RELX pod comparison"
       }
     ],
-    "isOwned": true,
+    "isSubmitted": true,
     "isGuide": false
   },
   {
@@ -2685,7 +2685,7 @@ const SITE_HOME=[
         "url": "https://uaeshopping.pages.dev/"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": true
   },
   {
@@ -2702,7 +2702,7 @@ const SITE_HOME=[
         "url": "https://splashfashions.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2719,7 +2719,7 @@ const SITE_HOME=[
         "url": "https://sephora.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2736,7 +2736,7 @@ const SITE_HOME=[
         "url": "https://www.propertyfinder.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2753,7 +2753,7 @@ const SITE_HOME=[
         "url": "https://www.dubai.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2770,7 +2770,7 @@ const SITE_HOME=[
         "url": "https://www.carrefouruae.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2787,7 +2787,7 @@ const SITE_HOME=[
         "url": "https://maxfashion.com/ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2804,7 +2804,7 @@ const SITE_HOME=[
         "url": "https://www.altibbi.com/en"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2821,7 +2821,7 @@ const SITE_HOME=[
         "url": "https://www.bayut.com"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   },
   {
@@ -2838,7 +2838,7 @@ const SITE_HOME=[
         "url": "https://www.abudhabi.ae"
       }
     ],
-    "isOwned": false,
+    "isSubmitted": false,
     "isGuide": false
   }
 ];
