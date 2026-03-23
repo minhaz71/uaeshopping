@@ -9,8 +9,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://shishaseller.ae"
+        "label": "Shisha Dubai",
+        "url": "https://shishaseller.ae",
+        "group": "shisha",
+        "context": "shisha and adult specialty shopping"
       }
     ],
     "isOwned": true,
@@ -26,8 +28,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://rpodsdubai.ae"
+        "label": "RELX Dubai",
+        "url": "https://rpodsdubai.ae/best-relx-pods-for-smooth-nicotine-hit-in-uae/",
+        "group": "relx",
+        "context": "RELX pod comparison"
       }
     ],
     "isOwned": true,
@@ -43,8 +47,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://podsvibe.ae"
+        "label": "JUUL Dubai",
+        "url": "https://podsvibe.ae/fix-weak-juul-hit-airflow-seal-pod-tips-uae/",
+        "group": "juul",
+        "context": "JUUL device and pod guidance"
       }
     ],
     "isOwned": true,
@@ -60,8 +66,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://vozolxpress.ae"
+        "label": "Vape Dubai",
+        "url": "https://vozolxpress.ae/vozol-disposable-vape-uae-high-puffs-flavors-reliability-explained/",
+        "group": "vape",
+        "context": "disposable vape selection"
       }
     ],
     "isOwned": true,
@@ -77,8 +85,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://allheetsdubai.ae"
+        "label": "HEETS Dubai",
+        "url": "https://allheetsdubai.ae/heets-storage-tips-in-dubai/",
+        "group": "heets",
+        "context": "HEETS storage and flavor care"
       }
     ],
     "isOwned": true,
@@ -94,8 +104,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://whitefoxdubai.ae"
+        "label": "Nicotine Pouches Dubai",
+        "url": "https://whitefoxdubai.ae/white-fox-nicotine-pouch-flavors-review/",
+        "group": "nicotine-pouches",
+        "context": "nicotine pouch flavor comparison"
       }
     ],
     "isOwned": true,
@@ -111,8 +123,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://vgodpod.ae"
+        "label": "Vape Pod Dubai",
+        "url": "https://vgodpod.ae",
+        "group": "pods",
+        "context": "pod and device shopping"
       }
     ],
     "isOwned": true,
@@ -128,8 +142,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://tereailumaabudhabi.ae"
+        "label": "IQOS Abu Dhabi",
+        "url": "https://tereailumaabudhabi.ae/iqos-iluma-i-vs-previous-models-key-differences-you-should-know/",
+        "group": "iqos",
+        "context": "IQOS ILUMA device comparison"
       }
     ],
     "isOwned": true,
@@ -145,8 +161,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://tereaheetsdubai.ae"
+        "label": "TEREA Flavor Dubai",
+        "url": "https://tereaheetsdubai.ae/the-psychology-of-flavor-switching-why-users-keep-changing-terea-flavors/",
+        "group": "terea",
+        "context": "TEREA flavor switching"
       }
     ],
     "isOwned": true,
@@ -162,8 +180,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://podsaltnic.ae"
+        "label": "Nic Salt Dubai",
+        "url": "https://podsaltnic.ae/top-5-pod-salt-flavors-ranked-by-real-users-in-dubai/",
+        "group": "nic-salt",
+        "context": "nic salt flavor research"
       }
     ],
     "isOwned": true,
@@ -179,8 +199,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://podsxpress.ae"
+        "label": "JUUL Dubai UAE",
+        "url": "https://podsxpress.ae/juul-2-flavor-pods-explained-strength-taste-and-availability-in-uae/",
+        "group": "juul",
+        "context": "JUUL 2 flavor pods"
       }
     ],
     "isOwned": true,
@@ -196,8 +218,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://tereazone.ae"
+        "label": "TEREA Dubai",
+        "url": "https://tereazone.ae/best-terea-flavors-for-iqos-iluma-users/",
+        "group": "terea",
+        "context": "TEREA flavor guidance"
       }
     ],
     "isOwned": true,
@@ -230,8 +254,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://nicotineshop.ae"
+        "label": "Nicotine Dubai",
+        "url": "https://nicotineshop.ae",
+        "group": "nicotine",
+        "context": "nicotine product browsing"
       }
     ],
     "isOwned": true,
@@ -247,8 +273,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://vaphype.ae"
+        "label": "IQOS Dubai",
+        "url": "https://vaphype.ae/iqos-iluma-flavor-guide-choosing-the-best-terea-sticks/",
+        "group": "iqos",
+        "context": "IQOS ILUMA and TEREA selection"
       }
     ],
     "isOwned": true,
@@ -264,8 +292,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://vaporkit.ae"
+        "label": "IQOS ILUMA Dubai",
+        "url": "https://vaporkit.ae/iqos-terea-amber-kazakhstan/",
+        "group": "iqos",
+        "context": "IQOS ILUMA compatible flavor options"
       }
     ],
     "isOwned": true,
@@ -281,8 +311,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://tereapro.ae"
+        "label": "TEREA UAE",
+        "url": "https://tereapro.ae/shop/",
+        "group": "terea",
+        "context": "TEREA shopping"
       }
     ],
     "isOwned": true,
@@ -298,8 +330,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://podseller.ae"
+        "label": "JUUL Pods Dubai",
+        "url": "https://podseller.ae/juul-fruit-pods-vs-tobacco-pods/",
+        "group": "juul",
+        "context": "JUUL pod flavor comparison"
       }
     ],
     "isOwned": true,
@@ -315,8 +349,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://podshub.ae"
+        "label": "Pods Dubai",
+        "url": "https://podshub.ae",
+        "group": "pods",
+        "context": "pod system discovery"
       }
     ],
     "isOwned": true,
@@ -332,8 +368,10 @@ const SITE_ITEMS=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://tereahub.ae"
+        "label": "TEREA Indonesia Dubai",
+        "url": "https://tereahub.ae/product/iqos-terea-blue-indonesia",
+        "group": "terea",
+        "context": "TEREA Indonesia product research"
       }
     ],
     "isOwned": true,
@@ -349,8 +387,10 @@ const SITE_ITEMS=[
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://newsvista360.ae"
+        "label": "UAE News Dubai",
+        "url": "https://newsvista360.ae",
+        "group": "media",
+        "context": "UAE news reading"
       }
     ],
     "isOwned": true,
@@ -366,8 +406,10 @@ const SITE_ITEMS=[
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://chroniclebyte.ae"
+        "label": "Business News Dubai",
+        "url": "https://chroniclebyte.ae",
+        "group": "media",
+        "context": "business and community updates"
       }
     ],
     "isOwned": true,
@@ -383,8 +425,10 @@ const SITE_ITEMS=[
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://nexusreport.ae"
+        "label": "UAE Report Dubai",
+        "url": "https://nexusreport.ae",
+        "group": "media",
+        "context": "UAE reporting"
       }
     ],
     "isOwned": true,
@@ -400,8 +444,10 @@ const SITE_ITEMS=[
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://pulsenarrative.ae"
+        "label": "Local Stories Dubai",
+        "url": "https://pulsenarrative.ae",
+        "group": "media",
+        "context": "local editorial stories"
       }
     ],
     "isOwned": true,
@@ -417,8 +463,10 @@ const SITE_ITEMS=[
     "fit": "Readers and businesses following UAE-focused publishing, updates, and local information.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://lenshubnews.ae"
+        "label": "Digital News Dubai",
+        "url": "https://lenshubnews.ae",
+        "group": "media",
+        "context": "digital news discovery"
       }
     ],
     "isOwned": true,
@@ -2595,8 +2643,10 @@ const SITE_HOME=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://shishaseller.ae"
+        "label": "Shisha Dubai",
+        "url": "https://shishaseller.ae",
+        "group": "shisha",
+        "context": "shisha and adult specialty shopping"
       }
     ],
     "isOwned": true,
@@ -2612,8 +2662,10 @@ const SITE_HOME=[
     "fit": "Adults comparing UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "Official Website",
-        "url": "https://rpodsdubai.ae"
+        "label": "RELX Dubai",
+        "url": "https://rpodsdubai.ae/best-relx-pods-for-smooth-nicotine-hit-in-uae/",
+        "group": "relx",
+        "context": "RELX pod comparison"
       }
     ],
     "isOwned": true,
