@@ -692,17 +692,17 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "sephora-uae",
-    "name": "Sephora UAE",
-    "url": "https://sephora.ae",
+    "slug": "altibbi",
+    "name": "Altibbi",
+    "url": "https://www.altibbi.com/en",
     "category": "Care & Wellness",
-    "description": "Beauty and perfume retailer with international brands, fragrance gifts, and skincare.",
-    "angle": "Sephora UAE is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Digital health platform for telemedicine, doctor consultations, and health information.",
+    "angle": "Altibbi is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://sephora.ae"
+        "url": "https://www.altibbi.com/en"
       }
     ],
     "isSubmitted": false,
@@ -726,17 +726,17 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "dubai-government",
-    "name": "Dubai Government",
-    "url": "https://www.dubai.ae",
+    "slug": "tamm-abu-dhabi",
+    "name": "TAMM Abu Dhabi",
+    "url": "https://www.tamm.abudhabi",
     "category": "Money & Business",
-    "description": "Official Dubai portal for city services, permits, payments, and public information.",
-    "angle": "Dubai Government supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "Abu Dhabi government services portal for residents, citizens, businesses, and visitors.",
+    "angle": "TAMM Abu Dhabi supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.dubai.ae"
+        "url": "https://www.tamm.abudhabi"
       }
     ],
     "isSubmitted": false,
@@ -760,102 +760,17 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "max-fashion-uae",
-    "name": "Max Fashion UAE",
-    "url": "https://maxfashion.com/ae",
+    "slug": "6thstreet",
+    "name": "6thStreet",
+    "url": "https://6thstreet.com",
     "category": "Daily Shopping Shelf",
-    "description": "Value-focused fashion destination for family clothing, shoes, and accessories.",
-    "angle": "Max Fashion UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "Multi-brand fashion platform for clothing, footwear, accessories, and family shopping.",
+    "angle": "6thStreet belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://maxfashion.com/ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "altibbi",
-    "name": "Altibbi",
-    "url": "https://www.altibbi.com/en",
-    "category": "Care & Wellness",
-    "description": "Digital health platform for telemedicine, doctor consultations, and health information.",
-    "angle": "Altibbi is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
-    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.altibbi.com/en"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "bayut",
-    "name": "Bayut",
-    "url": "https://www.bayut.com",
-    "category": "Homes & Property",
-    "description": "UAE real estate portal for apartments, villas, commercial properties, and market guides.",
-    "angle": "Bayut helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
-    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.bayut.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "abu-dhabi-government",
-    "name": "Abu Dhabi Government",
-    "url": "https://www.abudhabi.ae",
-    "category": "Money & Business",
-    "description": "Official Abu Dhabi portal for government services, residents, businesses, and visitors.",
-    "angle": "Abu Dhabi Government supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
-    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.abudhabi.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "amazon-uae-electronics",
-    "name": "Amazon UAE Electronics",
-    "url": "https://www.amazon.ae",
-    "category": "Travel & City Movement",
-    "description": "Large marketplace for electronics selection, price comparison, and quick delivery.",
-    "angle": "Amazon UAE Electronics fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
-    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.amazon.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "namshi",
-    "name": "Namshi",
-    "url": "https://namshi.com",
-    "category": "Daily Shopping Shelf",
-    "description": "Popular UAE fashion marketplace for urban clothing, sneakers, beauty, and lifestyle brands.",
-    "angle": "Namshi belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
-    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://namshi.com"
+        "url": "https://6thstreet.com"
       }
     ],
     "isSubmitted": false,
@@ -896,51 +811,51 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "tamm-abu-dhabi",
-    "name": "TAMM Abu Dhabi",
-    "url": "https://www.tamm.abudhabi",
+    "slug": "abu-dhabi-ded",
+    "name": "Abu Dhabi DED",
+    "url": "https://added.gov.ae",
     "category": "Money & Business",
-    "description": "Abu Dhabi government services portal for residents, citizens, businesses, and visitors.",
-    "angle": "TAMM Abu Dhabi supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "Abu Dhabi business licensing, economic development, and investor service portal.",
+    "angle": "Abu Dhabi DED supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.tamm.abudhabi"
+        "url": "https://added.gov.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "carrefour-uae",
-    "name": "Carrefour UAE",
-    "url": "https://www.carrefouruae.com/",
+    "slug": "amazon-uae-electronics",
+    "name": "Amazon UAE Electronics",
+    "url": "https://www.amazon.ae",
     "category": "Travel & City Movement",
-    "description": "Leading UAE hypermarket for groceries, household goods, fresh food, and essentials.",
-    "angle": "Carrefour UAE fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Large marketplace for electronics selection, price comparison, and quick delivery.",
+    "angle": "Amazon UAE Electronics fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.carrefouruae.com/"
+        "url": "https://www.amazon.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "6thstreet",
-    "name": "6thStreet",
-    "url": "https://6thstreet.com",
+    "slug": "noon-fashion",
+    "name": "Noon Fashion",
+    "url": "https://noon.com/fashion",
     "category": "Daily Shopping Shelf",
-    "description": "Multi-brand fashion platform for clothing, footwear, accessories, and family shopping.",
-    "angle": "6thStreet belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "Fashion category from Noon with apparel, accessories, shoes, and regular deals.",
+    "angle": "Noon Fashion belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://6thstreet.com"
+        "url": "https://noon.com/fashion"
       }
     ],
     "isSubmitted": false,
@@ -981,119 +896,34 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "dubai-economy",
-    "name": "Dubai Economy",
-    "url": "https://www.dubaided.gov.ae",
+    "slug": "ministry-of-economy",
+    "name": "Ministry of Economy",
+    "url": "https://www.moec.gov.ae",
     "category": "Money & Business",
-    "description": "Dubai business licensing and economic services portal.",
-    "angle": "Dubai Economy supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "UAE Ministry of Economy portal for business, trade, consumer, and economic services.",
+    "angle": "Ministry of Economy supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.dubaided.gov.ae"
+        "url": "https://www.moec.gov.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "talabat-mart",
-    "name": "Talabat Mart",
-    "url": "https://www.talabat.com/uae/groceries",
+    "slug": "carrefour-uae",
+    "name": "Carrefour UAE",
+    "url": "https://www.carrefouruae.com/",
     "category": "Travel & City Movement",
-    "description": "On-demand grocery delivery option for quick baskets, urgent essentials, and snacks.",
-    "angle": "Talabat Mart fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Leading UAE hypermarket for groceries, household goods, fresh food, and essentials.",
+    "angle": "Carrefour UAE fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.talabat.com/uae/groceries"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "noon-fashion",
-    "name": "Noon Fashion",
-    "url": "https://noon.com/fashion",
-    "category": "Daily Shopping Shelf",
-    "description": "Fashion category from Noon with apparel, accessories, shoes, and regular deals.",
-    "angle": "Noon Fashion belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
-    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://noon.com/fashion"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "dubai-care",
-    "name": "Dubai Care",
-    "url": "https://www.dubaicare.com",
-    "category": "Care & Wellness",
-    "description": "Home healthcare and medical equipment provider profile.",
-    "angle": "Dubai Care is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
-    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.dubaicare.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "haus-haus",
-    "name": "haus & haus",
-    "url": "https://www.hausandhaus.com",
-    "category": "Homes & Property",
-    "description": "Dubai property agency for residential sales, leasing, holiday homes, and advisory.",
-    "angle": "haus & haus helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
-    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.hausandhaus.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "abu-dhabi-ded",
-    "name": "Abu Dhabi DED",
-    "url": "https://added.gov.ae",
-    "category": "Money & Business",
-    "description": "Abu Dhabi business licensing, economic development, and investor service portal.",
-    "angle": "Abu Dhabi DED supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
-    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://added.gov.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "instashop",
-    "name": "Instashop",
-    "url": "https://instashop.ae/",
-    "category": "Travel & City Movement",
-    "description": "Fast local delivery platform connecting shoppers with supermarkets and nearby stores.",
-    "angle": "Instashop fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
-    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://instashop.ae/"
+        "url": "https://www.carrefouruae.com/"
       }
     ],
     "isSubmitted": false,
@@ -1134,102 +964,17 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "allsopp-allsopp",
-    "name": "Allsopp & Allsopp",
-    "url": "https://www.allsoppandallsopp.com",
+    "slug": "haus-haus",
+    "name": "haus & haus",
+    "url": "https://www.hausandhaus.com",
     "category": "Homes & Property",
-    "description": "Dubai real estate brokerage for sales, leasing, mortgages, and property management.",
-    "angle": "Allsopp & Allsopp helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai property agency for residential sales, leasing, holiday homes, and advisory.",
+    "angle": "haus & haus helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.allsoppandallsopp.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "ministry-of-economy",
-    "name": "Ministry of Economy",
-    "url": "https://www.moec.gov.ae",
-    "category": "Money & Business",
-    "description": "UAE Ministry of Economy portal for business, trade, consumer, and economic services.",
-    "angle": "Ministry of Economy supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
-    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.moec.gov.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "souq-perfumes",
-    "name": "Souq Perfumes",
-    "url": "https://souqperfumes.ae",
-    "category": "Travel & City Movement",
-    "description": "Fragrance destination with authentic perfumes, gift options, and UAE delivery.",
-    "angle": "Souq Perfumes fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
-    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://souqperfumes.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "sivvi",
-    "name": "Sivvi",
-    "url": "https://sivvi.com",
-    "category": "Daily Shopping Shelf",
-    "description": "Trendy fast-fashion store for UAE shoppers comparing casual and youth styles.",
-    "angle": "Sivvi belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
-    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://sivvi.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "aed-pharmacy",
-    "name": "AED Pharmacy",
-    "url": "https://www.aed.pharmacy",
-    "category": "Care & Wellness",
-    "description": "Online pharmacy profile for medicines, supplements, and wellness products.",
-    "angle": "AED Pharmacy is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
-    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.aed.pharmacy"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "betterhomes",
-    "name": "Betterhomes",
-    "url": "https://www.betterhomes.com",
-    "category": "Homes & Property",
-    "description": "UAE real estate agency for property sales, leasing, management, and advisory.",
-    "angle": "Betterhomes helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
-    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.betterhomes.com"
+        "url": "https://www.hausandhaus.com"
       }
     ],
     "isSubmitted": false,
@@ -1253,187 +998,17 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "gifts-perfumes",
-    "name": "Gifts & Perfumes",
-    "url": "https://giftsandperfumes.ae",
+    "slug": "talabat-mart",
+    "name": "Talabat Mart",
+    "url": "https://www.talabat.com/uae/groceries",
     "category": "Travel & City Movement",
-    "description": "Curated selection of luxury gifts and perfume sets with UAE delivery.",
-    "angle": "Gifts & Perfumes fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "On-demand grocery delivery option for quick baskets, urgent essentials, and snacks.",
+    "angle": "Talabat Mart fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://giftsandperfumes.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "redtag",
-    "name": "REDTAG",
-    "url": "https://redtag-stores.com",
-    "category": "Daily Shopping Shelf",
-    "description": "Family fashion and home decor retailer with UAE store and online presence.",
-    "angle": "REDTAG belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
-    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://redtag-stores.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "tawam-hospital",
-    "name": "Tawam Hospital",
-    "url": "https://www.tawam.ae",
-    "category": "Care & Wellness",
-    "description": "Specialized medical center profile for advanced patient care in Al Ain.",
-    "angle": "Tawam Hospital is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
-    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.tawam.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "provident-estate",
-    "name": "Provident Estate",
-    "url": "https://www.providentestate.com",
-    "category": "Homes & Property",
-    "description": "Dubai property brokerage for buying, selling, renting, and investment services.",
-    "angle": "Provident Estate helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
-    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.providentestate.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "emirates-nbd",
-    "name": "Emirates NBD",
-    "url": "https://www.emiratesnbd.com",
-    "category": "Money & Business",
-    "description": "UAE banking group offering personal banking, business banking, cards, loans, and digital services.",
-    "angle": "Emirates NBD supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
-    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.emiratesnbd.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "gift-central",
-    "name": "Gift Central",
-    "url": "https://giftcentral.ae",
-    "category": "Travel & City Movement",
-    "description": "Centralized gift site for perfumes, curated presents, and celebration delivery.",
-    "angle": "Gift Central fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
-    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://giftcentral.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "centrepoint",
-    "name": "Centrepoint",
-    "url": "https://centrepointstores.com",
-    "category": "Daily Shopping Shelf",
-    "description": "Fashion and lifestyle platform combining Splash, Shoemart, Babyshop, and Lifestyle.",
-    "angle": "Centrepoint belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
-    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://centrepointstores.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "al-zahra-hospital-dubai",
-    "name": "Al Zahra Hospital Dubai",
-    "url": "https://www.alzahra.com",
-    "category": "Care & Wellness",
-    "description": "Private hospital profile offering comprehensive healthcare services.",
-    "angle": "Al Zahra Hospital Dubai is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
-    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.alzahra.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "ax-capital",
-    "name": "AX CAPITAL",
-    "url": "https://www.axcapital.ae",
-    "category": "Homes & Property",
-    "description": "Dubai real estate agency focused on premium properties, rentals, and investments.",
-    "angle": "AX CAPITAL helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
-    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.axcapital.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "adcb",
-    "name": "ADCB",
-    "url": "https://www.adcb.com",
-    "category": "Money & Business",
-    "description": "Abu Dhabi Commercial Bank portal for retail, business, Islamic, and digital banking.",
-    "angle": "ADCB supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
-    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.adcb.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "rta-dubai",
-    "name": "RTA Dubai",
-    "url": "https://www.rta.ae",
-    "category": "Travel & City Movement",
-    "description": "Roads and Transport Authority portal for Dubai transport, licensing, roads, and mobility services.",
-    "angle": "RTA Dubai fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
-    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.rta.ae"
+        "url": "https://www.talabat.com/uae/groceries"
       }
     ],
     "isSubmitted": false,
@@ -1457,68 +1032,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "life-clinic",
-    "name": "Life Clinic",
-    "url": "https://www.lifeclinic.ae",
+    "slug": "aed-pharmacy",
+    "name": "AED Pharmacy",
+    "url": "https://www.aed.pharmacy",
     "category": "Care & Wellness",
-    "description": "Multi-specialty medical clinic with diagnostics and treatments.",
-    "angle": "Life Clinic is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Online pharmacy profile for medicines, supplements, and wellness products.",
+    "angle": "AED Pharmacy is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.lifeclinic.ae"
+        "url": "https://www.aed.pharmacy"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "driven-properties",
-    "name": "Driven Properties",
-    "url": "https://www.drivenproperties.com",
+    "slug": "allsopp-allsopp",
+    "name": "Allsopp & Allsopp",
+    "url": "https://www.allsoppandallsopp.com",
     "category": "Homes & Property",
-    "description": "Dubai real estate brokerage for residential, commercial, and investment property.",
-    "angle": "Driven Properties helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai real estate brokerage for sales, leasing, mortgages, and property management.",
+    "angle": "Allsopp & Allsopp helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.drivenproperties.com"
+        "url": "https://www.allsoppandallsopp.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "first-abu-dhabi-bank",
-    "name": "First Abu Dhabi Bank",
-    "url": "https://www.bankfab.com",
+    "slug": "emirates-nbd",
+    "name": "Emirates NBD",
+    "url": "https://www.emiratesnbd.com",
     "category": "Money & Business",
-    "description": "UAE banking group offering personal, corporate, investment, and digital financial services.",
-    "angle": "First Abu Dhabi Bank supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "UAE banking group offering personal banking, business banking, cards, loans, and digital services.",
+    "angle": "Emirates NBD supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.bankfab.com"
+        "url": "https://www.emiratesnbd.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "emirates",
-    "name": "Emirates",
-    "url": "https://www.emirates.com",
+    "slug": "instashop",
+    "name": "Instashop",
+    "url": "https://instashop.ae/",
     "category": "Travel & City Movement",
-    "description": "Dubai airline website for flights, booking, loyalty, travel management, and customer service.",
-    "angle": "Emirates fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Fast local delivery platform connecting shoppers with supermarkets and nearby stores.",
+    "angle": "Instashop fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.emirates.com"
+        "url": "https://instashop.ae/"
       }
     ],
     "isSubmitted": false,
@@ -1542,68 +1117,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "rashid-medical-center",
-    "name": "Rashid Medical Center",
-    "url": "https://www.rashiddoc.com",
+    "slug": "tawam-hospital",
+    "name": "Tawam Hospital",
+    "url": "https://www.tawam.ae",
     "category": "Care & Wellness",
-    "description": "Primary healthcare center profile with comprehensive medical services.",
-    "angle": "Rashid Medical Center is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Specialized medical center profile for advanced patient care in Al Ain.",
+    "angle": "Tawam Hospital is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.rashiddoc.com"
+        "url": "https://www.tawam.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "luxhabitat-sotheby-s",
-    "name": "Luxhabitat Sotheby's",
-    "url": "https://www.luxhabitat.ae",
+    "slug": "betterhomes",
+    "name": "Betterhomes",
+    "url": "https://www.betterhomes.com",
     "category": "Homes & Property",
-    "description": "Luxury real estate agency for premium UAE homes, villas, and high-end property.",
-    "angle": "Luxhabitat Sotheby's helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "UAE real estate agency for property sales, leasing, management, and advisory.",
+    "angle": "Betterhomes helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.luxhabitat.ae"
+        "url": "https://www.betterhomes.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "commercial-bank-of-dubai",
-    "name": "Commercial Bank of Dubai",
-    "url": "https://www.cbd.ae",
+    "slug": "adcb",
+    "name": "ADCB",
+    "url": "https://www.adcb.com",
     "category": "Money & Business",
-    "description": "Dubai bank offering personal accounts, business banking, cards, loans, and digital services.",
-    "angle": "Commercial Bank of Dubai supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "Abu Dhabi Commercial Bank portal for retail, business, Islamic, and digital banking.",
+    "angle": "ADCB supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.cbd.ae"
+        "url": "https://www.adcb.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "etihad-airways",
-    "name": "Etihad Airways",
-    "url": "https://www.etihad.com",
+    "slug": "souq-perfumes",
+    "name": "Souq Perfumes",
+    "url": "https://souqperfumes.ae",
     "category": "Travel & City Movement",
-    "description": "Abu Dhabi airline website for booking, travel information, loyalty, and customer support.",
-    "angle": "Etihad Airways fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Fragrance destination with authentic perfumes, gift options, and UAE delivery.",
+    "angle": "Souq Perfumes fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.etihad.com"
+        "url": "https://souqperfumes.ae"
       }
     ],
     "isSubmitted": false,
@@ -1627,68 +1202,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "seha",
-    "name": "SEHA",
-    "url": "https://www.seha.ae",
+    "slug": "rashid-medical-center",
+    "name": "Rashid Medical Center",
+    "url": "https://www.rashiddoc.com",
     "category": "Care & Wellness",
-    "description": "Abu Dhabi Health Services Company for public hospitals, clinics, and healthcare information.",
-    "angle": "SEHA is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Primary healthcare center profile with comprehensive medical services.",
+    "angle": "Rashid Medical Center is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.seha.ae"
+        "url": "https://www.rashiddoc.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "arabian-estates",
-    "name": "Arabian Estates",
-    "url": "https://www.arabianestates.ae",
+    "slug": "provident-estate",
+    "name": "Provident Estate",
+    "url": "https://www.providentestate.com",
     "category": "Homes & Property",
-    "description": "Dubai real estate agency for residential property, leasing, and sales advisory.",
-    "angle": "Arabian Estates helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai property brokerage for buying, selling, renting, and investment services.",
+    "angle": "Provident Estate helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.arabianestates.ae"
+        "url": "https://www.providentestate.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "dubai-islamic-bank",
-    "name": "Dubai Islamic Bank",
-    "url": "https://www.dib.ae",
+    "slug": "first-abu-dhabi-bank",
+    "name": "First Abu Dhabi Bank",
+    "url": "https://www.bankfab.com",
     "category": "Money & Business",
-    "description": "Islamic banking portal for personal finance, cards, accounts, and business services.",
-    "angle": "Dubai Islamic Bank supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "UAE banking group offering personal, corporate, investment, and digital financial services.",
+    "angle": "First Abu Dhabi Bank supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.dib.ae"
+        "url": "https://www.bankfab.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "flydubai",
-    "name": "flydubai",
-    "url": "https://www.flydubai.com",
+    "slug": "gift-central",
+    "name": "Gift Central",
+    "url": "https://giftcentral.ae",
     "category": "Travel & City Movement",
-    "description": "Dubai airline website for regional flights, booking, offers, and travel services.",
-    "angle": "flydubai fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Centralized gift site for perfumes, curated presents, and celebration delivery.",
+    "angle": "Gift Central fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.flydubai.com"
+        "url": "https://giftcentral.ae"
       }
     ],
     "isSubmitted": false,
@@ -1712,153 +1287,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "healthpoint",
-    "name": "Healthpoint",
-    "url": "https://www.healthpoint.ae",
+    "slug": "seha",
+    "name": "SEHA",
+    "url": "https://www.seha.ae",
     "category": "Care & Wellness",
-    "description": "Multi-specialty hospital profile offering advanced treatments in Abu Dhabi.",
-    "angle": "Healthpoint is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Abu Dhabi Health Services Company for public hospitals, clinics, and healthcare information.",
+    "angle": "SEHA is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.healthpoint.ae"
+        "url": "https://www.seha.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "chestertons-mena",
-    "name": "Chestertons MENA",
-    "url": "https://www.chestertonsmena.com",
+    "slug": "ax-capital",
+    "name": "AX CAPITAL",
+    "url": "https://www.axcapital.ae",
     "category": "Homes & Property",
-    "description": "Regional real estate advisory company for property sales, leasing, and valuation.",
-    "angle": "Chestertons MENA helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai real estate agency focused on premium properties, rentals, and investments.",
+    "angle": "AX CAPITAL helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.chestertonsmena.com"
+        "url": "https://www.axcapital.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "mashreq",
-    "name": "Mashreq",
-    "url": "https://www.mashreq.com",
+    "slug": "dubai-islamic-bank",
+    "name": "Dubai Islamic Bank",
+    "url": "https://www.dib.ae",
     "category": "Money & Business",
-    "description": "UAE bank offering personal banking, corporate banking, digital accounts, and cards.",
-    "angle": "Mashreq supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "Islamic banking portal for personal finance, cards, accounts, and business services.",
+    "angle": "Dubai Islamic Bank supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.mashreq.com"
+        "url": "https://www.dib.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "air-arabia",
-    "name": "Air Arabia",
-    "url": "https://www.airarabia.com",
+    "slug": "rta-dubai",
+    "name": "RTA Dubai",
+    "url": "https://www.rta.ae",
     "category": "Travel & City Movement",
-    "description": "Sharjah-based airline website for low-cost flights, booking, and travel services.",
-    "angle": "Air Arabia fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Roads and Transport Authority portal for Dubai transport, licensing, roads, and mobility services.",
+    "angle": "RTA Dubai fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.airarabia.com"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "lc-waikiki-uae",
-    "name": "LC Waikiki UAE",
-    "url": "https://lcwaikiki.ae",
-    "category": "Daily Shopping Shelf",
-    "description": "Affordable family fashion retailer with broad clothing selection.",
-    "angle": "LC Waikiki UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
-    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://lcwaikiki.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "pharmacy-first",
-    "name": "Pharmacy First",
-    "url": "https://www.pharmacyfirst.ae",
-    "category": "Care & Wellness",
-    "description": "Online and retail pharmacy serving UAE customers with health products.",
-    "angle": "Pharmacy First is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
-    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.pharmacyfirst.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "savills-middle-east",
-    "name": "Savills Middle East",
-    "url": "https://www.savills.me",
-    "category": "Homes & Property",
-    "description": "Property consultancy offering UAE real estate advisory, leasing, sales, and valuation.",
-    "angle": "Savills Middle East helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
-    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.savills.me"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "rakbank",
-    "name": "RAKBANK",
-    "url": "https://www.rakbank.ae",
-    "category": "Money & Business",
-    "description": "UAE bank serving individuals and businesses with banking, cards, finance, and digital tools.",
-    "angle": "RAKBANK supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
-    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.rakbank.ae"
-      }
-    ],
-    "isSubmitted": false,
-    "isGuide": false
-  },
-  {
-    "slug": "dnata",
-    "name": "dnata",
-    "url": "https://www.dnata.com",
-    "category": "Travel & City Movement",
-    "description": "UAE aviation and travel services company for ground handling, cargo, catering, and travel.",
-    "angle": "dnata fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
-    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
-    "links": [
-      {
-        "label": "Official Website",
-        "url": "https://www.dnata.com"
+        "url": "https://www.rta.ae"
       }
     ],
     "isSubmitted": false,
@@ -1882,68 +1372,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "al-moosa-specialist-hospital",
-    "name": "Al Moosa Specialist Hospital",
-    "url": "https://www.almoosa.com",
+    "slug": "healthpoint",
+    "name": "Healthpoint",
+    "url": "https://www.healthpoint.ae",
     "category": "Care & Wellness",
-    "description": "Comprehensive healthcare provider with specialized medical services.",
-    "angle": "Al Moosa Specialist Hospital is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Multi-specialty hospital profile offering advanced treatments in Abu Dhabi.",
+    "angle": "Healthpoint is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.almoosa.com"
+        "url": "https://www.healthpoint.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "knight-frank-uae",
-    "name": "Knight Frank UAE",
-    "url": "https://www.knightfrank.ae",
+    "slug": "driven-properties",
+    "name": "Driven Properties",
+    "url": "https://www.drivenproperties.com",
     "category": "Homes & Property",
-    "description": "Real estate consultancy for UAE residential, commercial, research, and advisory services.",
-    "angle": "Knight Frank UAE helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai real estate brokerage for residential, commercial, and investment property.",
+    "angle": "Driven Properties helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.knightfrank.ae"
+        "url": "https://www.drivenproperties.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "abu-dhabi-islamic-bank",
-    "name": "Abu Dhabi Islamic Bank",
-    "url": "https://www.adib.ae",
+    "slug": "mashreq",
+    "name": "Mashreq",
+    "url": "https://www.mashreq.com",
     "category": "Money & Business",
-    "description": "Islamic banking provider offering accounts, cards, finance, and business services.",
-    "angle": "Abu Dhabi Islamic Bank supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "UAE bank offering personal banking, corporate banking, digital accounts, and cards.",
+    "angle": "Mashreq supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.adib.ae"
+        "url": "https://www.mashreq.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "visit-dubai",
-    "name": "Visit Dubai",
-    "url": "https://www.visitdubai.com",
+    "slug": "flydubai",
+    "name": "flydubai",
+    "url": "https://www.flydubai.com",
     "category": "Travel & City Movement",
-    "description": "Official Dubai tourism portal for attractions, hotels, events, and travel planning.",
-    "angle": "Visit Dubai fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Dubai airline website for regional flights, booking, offers, and travel services.",
+    "angle": "flydubai fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.visitdubai.com"
+        "url": "https://www.flydubai.com"
       }
     ],
     "isSubmitted": false,
@@ -1984,51 +1474,51 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "cbre-uae",
-    "name": "CBRE UAE",
-    "url": "https://www.cbre.ae",
+    "slug": "luxhabitat-sotheby-s",
+    "name": "Luxhabitat Sotheby's",
+    "url": "https://www.luxhabitat.ae",
     "category": "Homes & Property",
-    "description": "Commercial real estate consultancy for property services, research, and advisory.",
-    "angle": "CBRE UAE helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Luxury real estate agency for premium UAE homes, villas, and high-end property.",
+    "angle": "Luxhabitat Sotheby's helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.cbre.ae"
+        "url": "https://www.luxhabitat.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "hsbc-uae",
-    "name": "HSBC UAE",
-    "url": "https://www.hsbc.ae",
+    "slug": "rakbank",
+    "name": "RAKBANK",
+    "url": "https://www.rakbank.ae",
     "category": "Money & Business",
-    "description": "International bank website for UAE personal banking, wealth, cards, and services.",
-    "angle": "HSBC UAE supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "UAE bank serving individuals and businesses with banking, cards, finance, and digital tools.",
+    "angle": "RAKBANK supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.hsbc.ae"
+        "url": "https://www.rakbank.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "visit-abu-dhabi",
-    "name": "Visit Abu Dhabi",
-    "url": "https://visitabudhabi.ae",
+    "slug": "air-arabia",
+    "name": "Air Arabia",
+    "url": "https://www.airarabia.com",
     "category": "Travel & City Movement",
-    "description": "Official Abu Dhabi tourism portal for experiences, attractions, culture, and trip planning.",
-    "angle": "Visit Abu Dhabi fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Sharjah-based airline website for low-cost flights, booking, and travel services.",
+    "angle": "Air Arabia fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://visitabudhabi.ae"
+        "url": "https://www.airarabia.com"
       }
     ],
     "isSubmitted": false,
@@ -2069,51 +1559,51 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "jll-mena",
-    "name": "JLL MENA",
-    "url": "https://www.jll-mena.com",
+    "slug": "arabian-estates",
+    "name": "Arabian Estates",
+    "url": "https://www.arabianestates.ae",
     "category": "Homes & Property",
-    "description": "Real estate advisory company covering UAE property, investment, and commercial services.",
-    "angle": "JLL MENA helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai real estate agency for residential property, leasing, and sales advisory.",
+    "angle": "Arabian Estates helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.jll-mena.com"
+        "url": "https://www.arabianestates.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "standard-chartered-uae",
-    "name": "Standard Chartered UAE",
-    "url": "https://www.sc.com/ae",
+    "slug": "abu-dhabi-islamic-bank",
+    "name": "Abu Dhabi Islamic Bank",
+    "url": "https://www.adib.ae",
     "category": "Money & Business",
-    "description": "International banking portal for UAE accounts, wealth, cards, and business services.",
-    "angle": "Standard Chartered UAE supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "Islamic banking provider offering accounts, cards, finance, and business services.",
+    "angle": "Abu Dhabi Islamic Bank supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.sc.com/ae"
+        "url": "https://www.adib.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "musafir",
-    "name": "Musafir",
-    "url": "https://www.musafir.com",
+    "slug": "dnata",
+    "name": "dnata",
+    "url": "https://www.dnata.com",
     "category": "Travel & City Movement",
-    "description": "UAE travel website for flights, hotels, holidays, visas, and corporate travel.",
-    "angle": "Musafir fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "UAE aviation and travel services company for ground handling, cargo, catering, and travel.",
+    "angle": "dnata fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.musafir.com"
+        "url": "https://www.dnata.com"
       }
     ],
     "isSubmitted": false,
@@ -2154,17 +1644,187 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "colliers-uae",
-    "name": "Colliers UAE",
-    "url": "https://www.colliers.com/en-ae",
+    "slug": "chestertons-mena",
+    "name": "Chestertons MENA",
+    "url": "https://www.chestertonsmena.com",
     "category": "Homes & Property",
-    "description": "Real estate services firm for valuation, brokerage, advisory, and property research.",
-    "angle": "Colliers UAE helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Regional real estate advisory company for property sales, leasing, and valuation.",
+    "angle": "Chestertons MENA helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.colliers.com/en-ae"
+        "url": "https://www.chestertonsmena.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "hsbc-uae",
+    "name": "HSBC UAE",
+    "url": "https://www.hsbc.ae",
+    "category": "Money & Business",
+    "description": "International bank website for UAE personal banking, wealth, cards, and services.",
+    "angle": "HSBC UAE supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.hsbc.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "visit-abu-dhabi",
+    "name": "Visit Abu Dhabi",
+    "url": "https://visitabudhabi.ae",
+    "category": "Travel & City Movement",
+    "description": "Official Abu Dhabi tourism portal for experiences, attractions, culture, and trip planning.",
+    "angle": "Visit Abu Dhabi fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://visitabudhabi.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "emax",
+    "name": "Emax",
+    "url": "https://www.emaxme.com",
+    "category": "Daily Shopping Shelf",
+    "description": "UAE electronics store for gadgets, smartphones, gaming, appliances, and accessories.",
+    "angle": "Emax belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.emaxme.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "nmc-healthcare",
+    "name": "NMC Healthcare",
+    "url": "https://www.nmc.ae",
+    "category": "Care & Wellness",
+    "description": "Private healthcare network with hospitals, clinics, pharmacies, and specialist care.",
+    "angle": "NMC Healthcare is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.nmc.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "savills-middle-east",
+    "name": "Savills Middle East",
+    "url": "https://www.savills.me",
+    "category": "Homes & Property",
+    "description": "Property consultancy offering UAE real estate advisory, leasing, sales, and valuation.",
+    "angle": "Savills Middle East helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.savills.me"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "standard-chartered-uae",
+    "name": "Standard Chartered UAE",
+    "url": "https://www.sc.com/ae",
+    "category": "Money & Business",
+    "description": "International banking portal for UAE accounts, wealth, cards, and business services.",
+    "angle": "Standard Chartered UAE supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.sc.com/ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "musafir",
+    "name": "Musafir",
+    "url": "https://www.musafir.com",
+    "category": "Travel & City Movement",
+    "description": "UAE travel website for flights, hotels, holidays, visas, and corporate travel.",
+    "angle": "Musafir fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.musafir.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "jumbo-electronics",
+    "name": "Jumbo Electronics",
+    "url": "https://www.jumbo.ae",
+    "category": "Daily Shopping Shelf",
+    "description": "Long-running electronics retailer with consumer tech, appliances, and support.",
+    "angle": "Jumbo Electronics belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.jumbo.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "mediclinic-middle-east",
+    "name": "Mediclinic Middle East",
+    "url": "https://www.mediclinic.ae",
+    "category": "Care & Wellness",
+    "description": "Private hospital and clinic group offering specialist care and diagnostics.",
+    "angle": "Mediclinic Middle East is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.mediclinic.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "knight-frank-uae",
+    "name": "Knight Frank UAE",
+    "url": "https://www.knightfrank.ae",
+    "category": "Homes & Property",
+    "description": "Real estate consultancy for UAE residential, commercial, research, and advisory services.",
+    "angle": "Knight Frank UAE helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.knightfrank.ae"
       }
     ],
     "isSubmitted": false,
@@ -2205,51 +1865,51 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "cotton-on-uae",
-    "name": "Cotton On UAE",
-    "url": "https://cottonon.com/ae",
+    "slug": "jacky-s-electronics",
+    "name": "Jacky's Electronics",
+    "url": "https://www.jackys.com",
     "category": "Daily Shopping Shelf",
-    "description": "Youthful fashion destination for basics, denim, and everyday accessories.",
-    "angle": "Cotton On UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "Consumer electronics retailer with a variety of devices and accessories.",
+    "angle": "Jacky's Electronics belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://cottonon.com/ae"
+        "url": "https://www.jackys.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "nmc-healthcare",
-    "name": "NMC Healthcare",
-    "url": "https://www.nmc.ae",
+    "slug": "al-zahra-hospitals",
+    "name": "Al Zahra Hospitals",
+    "url": "https://www.alzahrahospitals.ae",
     "category": "Care & Wellness",
-    "description": "Private healthcare network with hospitals, clinics, pharmacies, and specialist care.",
-    "angle": "NMC Healthcare is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Hospital group profile providing comprehensive medical care in the UAE.",
+    "angle": "Al Zahra Hospitals is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.nmc.ae"
+        "url": "https://www.alzahrahospitals.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "espace-real-estate",
-    "name": "Espace Real Estate",
-    "url": "https://www.espace.ae",
+    "slug": "cbre-uae",
+    "name": "CBRE UAE",
+    "url": "https://www.cbre.ae",
     "category": "Homes & Property",
-    "description": "Dubai real estate agency offering residential sales, leasing, and property guidance.",
-    "angle": "Espace Real Estate helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Commercial real estate consultancy for property services, research, and advisory.",
+    "angle": "CBRE UAE helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.espace.ae"
+        "url": "https://www.cbre.ae"
       }
     ],
     "isSubmitted": false,
@@ -2290,51 +1950,51 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "forever-21-uae",
-    "name": "Forever 21 UAE",
-    "url": "https://forever21.ae",
+    "slug": "lulu-electronics",
+    "name": "LuLu Electronics",
+    "url": "https://www.luluhypermarket.com/en-ae/electronics/c/HY00116441",
     "category": "Daily Shopping Shelf",
-    "description": "Trend-focused clothing website for teens and young adults.",
-    "angle": "Forever 21 UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "LuLu electronics category for home appliances, gadgets, and tech products.",
+    "angle": "LuLu Electronics belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://forever21.ae"
+        "url": "https://www.luluhypermarket.com/en-ae/electronics/c/HY00116441"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "al-qassimi-hospital",
-    "name": "Al Qassimi Hospital",
-    "url": "https://www.alqassimi.ae",
+    "slug": "olive-healthcare",
+    "name": "Olive Healthcare",
+    "url": "https://www.olivehealthcare.ae",
     "category": "Care & Wellness",
-    "description": "Government hospital profile providing specialized healthcare services in Sharjah.",
-    "angle": "Al Qassimi Hospital is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Home healthcare and medical equipment service provider profile.",
+    "angle": "Olive Healthcare is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.alqassimi.ae"
+        "url": "https://www.olivehealthcare.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "aqua-properties",
-    "name": "Aqua Properties",
-    "url": "https://www.aquaproperties.com",
+    "slug": "jll-mena",
+    "name": "JLL MENA",
+    "url": "https://www.jll-mena.com",
     "category": "Homes & Property",
-    "description": "Dubai real estate agency for brokerage, development advisory, leasing, and sales.",
-    "angle": "Aqua Properties helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Real estate advisory company covering UAE property, investment, and commercial services.",
+    "angle": "JLL MENA helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.aquaproperties.com"
+        "url": "https://www.jll-mena.com"
       }
     ],
     "isSubmitted": false,
@@ -2358,68 +2018,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "aramex",
-    "name": "Aramex",
-    "url": "https://www.aramex.com",
+    "slug": "fedex-uae",
+    "name": "FedEx UAE",
+    "url": "https://www.fedex.com/en-ae/home.html",
     "category": "Travel & City Movement",
-    "description": "Logistics company website for courier, freight, ecommerce, and delivery services.",
-    "angle": "Aramex fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Shipping and courier platform for UAE parcels, freight, and tracking.",
+    "angle": "FedEx UAE fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.aramex.com"
+        "url": "https://www.fedex.com/en-ae/home.html"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "sharaf-dg",
-    "name": "Sharaf DG",
-    "url": "https://uae.sharafdg.com",
+    "slug": "gadgetby",
+    "name": "Gadgetby",
+    "url": "https://gadgetby.com",
     "category": "Daily Shopping Shelf",
-    "description": "Major UAE electronics retailer for phones, laptops, appliances, gaming, and smart devices.",
-    "angle": "Sharaf DG belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "Specialized electronics store for smartphones, accessories, and audio gadgets.",
+    "angle": "Gadgetby belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://uae.sharafdg.com"
+        "url": "https://gadgetby.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "medilife",
-    "name": "MediLife",
-    "url": "https://www.medilife.ae",
+    "slug": "bliss-wellness-center",
+    "name": "Bliss Wellness Center",
+    "url": "https://www.blisscenter.ae",
     "category": "Care & Wellness",
-    "description": "Pharmacy chain and medical supplies provider profile.",
-    "angle": "MediLife is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Wellness and holistic health center profile in Dubai.",
+    "angle": "Bliss Wellness Center is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.medilife.ae"
+        "url": "https://www.blisscenter.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "damac-properties",
-    "name": "Damac Properties",
-    "url": "https://www.damacproperties.com",
+    "slug": "colliers-uae",
+    "name": "Colliers UAE",
+    "url": "https://www.colliers.com/en-ae",
     "category": "Homes & Property",
-    "description": "Dubai property developer offering branded residences, luxury projects, and communities.",
-    "angle": "Damac Properties helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Real estate services firm for valuation, brokerage, advisory, and property research.",
+    "angle": "Colliers UAE helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.damacproperties.com"
+        "url": "https://www.colliers.com/en-ae"
       }
     ],
     "isSubmitted": false,
@@ -2443,68 +2103,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "emirates-post",
-    "name": "Emirates Post",
-    "url": "https://emiratespost.ae",
+    "slug": "ups-uae",
+    "name": "UPS UAE",
+    "url": "https://www.ups.com/ae",
     "category": "Travel & City Movement",
-    "description": "UAE postal and courier services portal for mail, parcels, and customer services.",
-    "angle": "Emirates Post fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Logistics and shipping website for UAE parcel delivery, freight, and tracking.",
+    "angle": "UPS UAE fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://emiratespost.ae"
+        "url": "https://www.ups.com/ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "emax",
-    "name": "Emax",
-    "url": "https://www.emaxme.com",
+    "slug": "plugins-me",
+    "name": "Plugins ME",
+    "url": "https://www.pluginsme.com",
     "category": "Daily Shopping Shelf",
-    "description": "UAE electronics store for gadgets, smartphones, gaming, appliances, and accessories.",
-    "angle": "Emax belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "Electronics and appliance retailer with brand-focused product selection.",
+    "angle": "Plugins ME belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.emaxme.com"
+        "url": "https://www.pluginsme.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "supercare-pharmacy",
-    "name": "SuperCare Pharmacy",
-    "url": "https://www.supercare.ae",
+    "slug": "city-clinic-dubai",
+    "name": "City Clinic Dubai",
+    "url": "https://www.cityclinic.ae",
     "category": "Care & Wellness",
-    "description": "Pharmacy retailer with medicines, wellness products, and online ordering.",
-    "angle": "SuperCare Pharmacy is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "General medical and specialist clinic profile for Dubai residents.",
+    "angle": "City Clinic Dubai is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.supercare.ae"
+        "url": "https://www.cityclinic.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "nakheel",
-    "name": "Nakheel",
-    "url": "https://www.nakheel.com",
+    "slug": "espace-real-estate",
+    "name": "Espace Real Estate",
+    "url": "https://www.espace.ae",
     "category": "Homes & Property",
-    "description": "Dubai developer known for master communities, waterfront projects, and retail destinations.",
-    "angle": "Nakheel helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai real estate agency offering residential sales, leasing, and property guidance.",
+    "angle": "Espace Real Estate helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.nakheel.com"
+        "url": "https://www.espace.ae"
       }
     ],
     "isSubmitted": false,
@@ -2528,68 +2188,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "fedex-uae",
-    "name": "FedEx UAE",
-    "url": "https://www.fedex.com/en-ae/home.html",
+    "slug": "talabat-uae",
+    "name": "Talabat UAE",
+    "url": "https://www.talabat.com/uae",
     "category": "Travel & City Movement",
-    "description": "Shipping and courier platform for UAE parcels, freight, and tracking.",
-    "angle": "FedEx UAE fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "Delivery platform for food, groceries, restaurants, and local ordering services.",
+    "angle": "Talabat UAE fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.fedex.com/en-ae/home.html"
+        "url": "https://www.talabat.com/uae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "noon-electronics",
-    "name": "Noon Electronics",
-    "url": "https://www.noon.com/uae-en/electronics/",
+    "slug": "samsung-uae",
+    "name": "Samsung UAE",
+    "url": "https://www.samsung.com/ae",
     "category": "Daily Shopping Shelf",
-    "description": "UAE marketplace category for phones, computers, appliances, accessories, and deals.",
-    "angle": "Noon Electronics belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "Official Samsung destination for Galaxy devices, TVs, appliances, and accessories.",
+    "angle": "Samsung UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.noon.com/uae-en/electronics/"
+        "url": "https://www.samsung.com/ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "mediclinic-middle-east",
-    "name": "Mediclinic Middle East",
-    "url": "https://www.mediclinic.ae",
+    "slug": "health-hub",
+    "name": "Health Hub",
+    "url": "https://www.healthhub.ae",
     "category": "Care & Wellness",
-    "description": "Private hospital and clinic group offering specialist care and diagnostics.",
-    "angle": "Mediclinic Middle East is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Integrated healthcare services and digital health solutions profile.",
+    "angle": "Health Hub is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.mediclinic.ae"
+        "url": "https://www.healthhub.ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "aldar",
-    "name": "Aldar",
-    "url": "https://www.aldar.com",
+    "slug": "damac-properties",
+    "name": "Damac Properties",
+    "url": "https://www.damacproperties.com",
     "category": "Homes & Property",
-    "description": "Abu Dhabi property developer focused on communities, homes, retail, and investment assets.",
-    "angle": "Aldar helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai property developer offering branded residences, luxury projects, and communities.",
+    "angle": "Damac Properties helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.aldar.com"
+        "url": "https://www.damacproperties.com"
       }
     ],
     "isSubmitted": false,
@@ -2613,68 +2273,68 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "ups-uae",
-    "name": "UPS UAE",
-    "url": "https://www.ups.com/ae",
+    "slug": "yallamotor",
+    "name": "YallaMotor",
+    "url": "https://www.yallamotor.com",
     "category": "Travel & City Movement",
-    "description": "Logistics and shipping website for UAE parcel delivery, freight, and tracking.",
-    "angle": "UPS UAE fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "UAE automotive portal for new cars, used cars, prices, reviews, and car news.",
+    "angle": "YallaMotor fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.ups.com/ae"
+        "url": "https://www.yallamotor.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "jumbo-electronics",
-    "name": "Jumbo Electronics",
-    "url": "https://www.jumbo.ae",
+    "slug": "huawei-uae",
+    "name": "Huawei UAE",
+    "url": "https://consumer.huawei.com/ae",
     "category": "Daily Shopping Shelf",
-    "description": "Long-running electronics retailer with consumer tech, appliances, and support.",
-    "angle": "Jumbo Electronics belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "Official Huawei site for smartphones, wearables, laptops, and accessories.",
+    "angle": "Huawei UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.jumbo.ae"
+        "url": "https://consumer.huawei.com/ae"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "al-zahra-hospitals",
-    "name": "Al Zahra Hospitals",
-    "url": "https://www.alzahrahospitals.ae",
+    "slug": "medlabs",
+    "name": "MedLabs",
+    "url": "https://www.medlabs.com",
     "category": "Care & Wellness",
-    "description": "Hospital group profile providing comprehensive medical care in the UAE.",
-    "angle": "Al Zahra Hospitals is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Diagnostic laboratory services profile for medical testing.",
+    "angle": "MedLabs is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.alzahrahospitals.ae"
+        "url": "https://www.medlabs.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "sobha-realty",
-    "name": "Sobha Realty",
-    "url": "https://www.sobharealty.com",
+    "slug": "nakheel",
+    "name": "Nakheel",
+    "url": "https://www.nakheel.com",
     "category": "Homes & Property",
-    "description": "Luxury property developer with residential projects and communities in Dubai.",
-    "angle": "Sobha Realty helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Dubai developer known for master communities, waterfront projects, and retail destinations.",
+    "angle": "Nakheel helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.sobharealty.com"
+        "url": "https://www.nakheel.com"
       }
     ],
     "isSubmitted": false,
@@ -2698,17 +2358,357 @@ const SITE_ITEMS=[
     "isGuide": false
   },
   {
-    "slug": "talabat-uae",
-    "name": "Talabat UAE",
-    "url": "https://www.talabat.com/uae",
+    "slug": "carswitch",
+    "name": "CarSwitch",
+    "url": "https://carswitch.com",
     "category": "Travel & City Movement",
-    "description": "Delivery platform for food, groceries, restaurants, and local ordering services.",
-    "angle": "Talabat UAE fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "description": "UAE used car buying and selling platform with inspection and support services.",
+    "angle": "CarSwitch fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
     "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.talabat.com/uae"
+        "url": "https://carswitch.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "sony-middle-east",
+    "name": "Sony Middle East",
+    "url": "https://www.sony-mea.com",
+    "category": "Daily Shopping Shelf",
+    "description": "Official Sony site for TVs, cameras, audio, gaming, and support.",
+    "angle": "Sony Middle East belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.sony-mea.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "daman-health",
+    "name": "Daman Health",
+    "url": "https://www.damanhealth.ae",
+    "category": "Care & Wellness",
+    "description": "Health insurance provider profile with medical service network.",
+    "angle": "Daman Health is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.damanhealth.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "aldar",
+    "name": "Aldar",
+    "url": "https://www.aldar.com",
+    "category": "Homes & Property",
+    "description": "Abu Dhabi property developer focused on communities, homes, retail, and investment assets.",
+    "angle": "Aldar helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.aldar.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "noqodi",
+    "name": "Noqodi",
+    "url": "https://www.noqodi.com",
+    "category": "Money & Business",
+    "description": "UAE digital payment platform for businesses, government payments, and online services.",
+    "angle": "Noqodi supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.noqodi.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "dubicars",
+    "name": "DubiCars",
+    "url": "https://www.dubicars.com",
+    "category": "Travel & City Movement",
+    "description": "UAE car marketplace for new cars, used cars, dealers, and automotive search.",
+    "angle": "DubiCars fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.dubicars.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "lg-uae",
+    "name": "LG UAE",
+    "url": "https://www.lg.com/ae",
+    "category": "Daily Shopping Shelf",
+    "description": "Official LG site for appliances, televisions, monitors, and home electronics.",
+    "angle": "LG UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.lg.com/ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "burjeel-hospital",
+    "name": "Burjeel Hospital",
+    "url": "https://burjeel.com",
+    "category": "Care & Wellness",
+    "description": "UAE healthcare network with hospitals, clinics, specialty care, and patient services.",
+    "angle": "Burjeel Hospital is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://burjeel.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "sobha-realty",
+    "name": "Sobha Realty",
+    "url": "https://www.sobharealty.com",
+    "category": "Homes & Property",
+    "description": "Luxury property developer with residential projects and communities in Dubai.",
+    "angle": "Sobha Realty helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.sobharealty.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "sarwa",
+    "name": "Sarwa",
+    "url": "https://www.sarwa.co",
+    "category": "Money & Business",
+    "description": "Investment and savings platform serving UAE users with digital finance tools.",
+    "angle": "Sarwa supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.sarwa.co"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "sellanycar",
+    "name": "SellAnyCar",
+    "url": "https://www.sellanycar.com",
+    "category": "Travel & City Movement",
+    "description": "UAE platform for selling cars quickly with inspection, valuation, and purchase services.",
+    "angle": "SellAnyCar fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.sellanycar.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "hp-uae",
+    "name": "HP UAE",
+    "url": "https://www.hp.com/ae-en/home.html",
+    "category": "Daily Shopping Shelf",
+    "description": "Official HP site for laptops, printers, accessories, and support.",
+    "angle": "HP UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.hp.com/ae-en/home.html"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "aster-hospitals-uae",
+    "name": "Aster Hospitals UAE",
+    "url": "https://www.asterhospitals.ae",
+    "category": "Care & Wellness",
+    "description": "Hospital network offering multi-specialty medical care and patient support in the UAE.",
+    "angle": "Aster Hospitals UAE is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.asterhospitals.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "danube-properties",
+    "name": "Danube Properties",
+    "url": "https://danubeproperties.ae",
+    "category": "Homes & Property",
+    "description": "Dubai developer offering residential projects, payment plans, and property launches.",
+    "angle": "Danube Properties helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://danubeproperties.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "beehive",
+    "name": "Beehive",
+    "url": "https://www.beehive.ae",
+    "category": "Money & Business",
+    "description": "UAE peer-to-peer business finance platform for SME funding and investors.",
+    "angle": "Beehive supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.beehive.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "al-nabooda-automobiles",
+    "name": "Al Nabooda Automobiles",
+    "url": "https://www.alnabooda-auto.com",
+    "category": "Travel & City Movement",
+    "description": "UAE automotive dealer website for premium car brands, service, and ownership.",
+    "angle": "Al Nabooda Automobiles fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.alnabooda-auto.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "dell-uae",
+    "name": "Dell UAE",
+    "url": "https://www.dell.com/en-ae",
+    "category": "Daily Shopping Shelf",
+    "description": "Official Dell site for laptops, desktops, monitors, servers, and support.",
+    "angle": "Dell UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.dell.com/en-ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "thumbay-healthcare",
+    "name": "Thumbay Healthcare",
+    "url": "https://thumbay.com",
+    "category": "Care & Wellness",
+    "description": "Healthcare group with hospitals, clinics, education, wellness, and medical services.",
+    "angle": "Thumbay Healthcare is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://thumbay.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "deyaar",
+    "name": "Deyaar",
+    "url": "https://www.deyaar.ae",
+    "category": "Homes & Property",
+    "description": "Dubai developer and real estate services company for residential and commercial property.",
+    "angle": "Deyaar helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.deyaar.ae"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "qic-uae",
+    "name": "QIC UAE",
+    "url": "https://www.qicuae.com",
+    "category": "Money & Business",
+    "description": "Insurance provider offering car, home, travel, and personal insurance products.",
+    "angle": "QIC UAE supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.qicuae.com"
+      }
+    ],
+    "isSubmitted": false,
+    "isGuide": false
+  },
+  {
+    "slug": "al-futtaim-toyota",
+    "name": "Al-Futtaim Toyota",
+    "url": "https://www.toyota.ae",
+    "category": "Travel & City Movement",
+    "description": "Official Toyota UAE website for models, offers, service, and ownership support.",
+    "angle": "Al-Futtaim Toyota fits city movement needs such as travel, transport, delivery, logistics, mobility, automotive, or route planning.",
+    "fit": "Residents and visitors planning UAE transport, travel, delivery, or city movement.",
+    "links": [
+      {
+        "label": "Official Website",
+        "url": "https://www.toyota.ae"
       }
     ],
     "isSubmitted": false,
@@ -2793,17 +2793,17 @@ const SITE_HOME=[
     "isGuide": false
   },
   {
-    "slug": "sephora-uae",
-    "name": "Sephora UAE",
-    "url": "https://sephora.ae",
+    "slug": "altibbi",
+    "name": "Altibbi",
+    "url": "https://www.altibbi.com/en",
     "category": "Care & Wellness",
-    "description": "Beauty and perfume retailer with international brands, fragrance gifts, and skincare.",
-    "angle": "Sephora UAE is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Digital health platform for telemedicine, doctor consultations, and health information.",
+    "angle": "Altibbi is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://sephora.ae"
+        "url": "https://www.altibbi.com/en"
       }
     ],
     "isSubmitted": false,
@@ -2827,17 +2827,17 @@ const SITE_HOME=[
     "isGuide": false
   },
   {
-    "slug": "dubai-government",
-    "name": "Dubai Government",
-    "url": "https://www.dubai.ae",
+    "slug": "tamm-abu-dhabi",
+    "name": "TAMM Abu Dhabi",
+    "url": "https://www.tamm.abudhabi",
     "category": "Money & Business",
-    "description": "Official Dubai portal for city services, permits, payments, and public information.",
-    "angle": "Dubai Government supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "Abu Dhabi government services portal for residents, citizens, businesses, and visitors.",
+    "angle": "TAMM Abu Dhabi supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.dubai.ae"
+        "url": "https://www.tamm.abudhabi"
       }
     ],
     "isSubmitted": false,
@@ -2861,68 +2861,68 @@ const SITE_HOME=[
     "isGuide": false
   },
   {
-    "slug": "max-fashion-uae",
-    "name": "Max Fashion UAE",
-    "url": "https://maxfashion.com/ae",
+    "slug": "6thstreet",
+    "name": "6thStreet",
+    "url": "https://6thstreet.com",
     "category": "Daily Shopping Shelf",
-    "description": "Value-focused fashion destination for family clothing, shoes, and accessories.",
-    "angle": "Max Fashion UAE belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
+    "description": "Multi-brand fashion platform for clothing, footwear, accessories, and family shopping.",
+    "angle": "6thStreet belongs on the daily shopping shelf for UAE users comparing stores, groceries, gifts, electronics, fashion, or useful shopping resources.",
     "fit": "UAE shoppers comparing everyday online stores and useful shopping destinations.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://maxfashion.com/ae"
+        "url": "https://6thstreet.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "altibbi",
-    "name": "Altibbi",
-    "url": "https://www.altibbi.com/en",
+    "slug": "healthcare-magic",
+    "name": "Healthcare Magic",
+    "url": "https://www.healthcaremagic.com",
     "category": "Care & Wellness",
-    "description": "Digital health platform for telemedicine, doctor consultations, and health information.",
-    "angle": "Altibbi is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
+    "description": "Online consultation platform connecting patients with doctors worldwide.",
+    "angle": "Healthcare Magic is useful for people comparing healthcare, pharmacy, clinic, wellness, or patient-support resources in the UAE.",
     "fit": "Patients, families, residents, and visitors researching UAE healthcare and wellness options.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.altibbi.com/en"
+        "url": "https://www.healthcaremagic.com"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "bayut",
-    "name": "Bayut",
-    "url": "https://www.bayut.com",
+    "slug": "dubizzle-property",
+    "name": "Dubizzle Property",
+    "url": "https://www.dubizzle.com/property-for-rent/residential/",
     "category": "Homes & Property",
-    "description": "UAE real estate portal for apartments, villas, commercial properties, and market guides.",
-    "angle": "Bayut helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
+    "description": "Property classifieds platform for UAE rentals, sales, and real estate listings.",
+    "angle": "Dubizzle Property helps renters, buyers, investors, or residents compare UAE property resources, developers, brokerage services, or community information.",
     "fit": "Renters, buyers, investors, and residents comparing UAE property resources.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.bayut.com"
+        "url": "https://www.dubizzle.com/property-for-rent/residential/"
       }
     ],
     "isSubmitted": false,
     "isGuide": false
   },
   {
-    "slug": "abu-dhabi-government",
-    "name": "Abu Dhabi Government",
-    "url": "https://www.abudhabi.ae",
+    "slug": "abu-dhabi-ded",
+    "name": "Abu Dhabi DED",
+    "url": "https://added.gov.ae",
     "category": "Money & Business",
-    "description": "Official Abu Dhabi portal for government services, residents, businesses, and visitors.",
-    "angle": "Abu Dhabi Government supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
+    "description": "Abu Dhabi business licensing, economic development, and investor service portal.",
+    "angle": "Abu Dhabi DED supports users comparing UAE finance, insurance, business setup, legal, accounting, payment, or company-service resources.",
     "fit": "Entrepreneurs, finance users, companies, and residents comparing service providers.",
     "links": [
       {
         "label": "Official Website",
-        "url": "https://www.abudhabi.ae"
+        "url": "https://added.gov.ae"
       }
     ],
     "isSubmitted": false,
