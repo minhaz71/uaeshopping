@@ -902,42 +902,6 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "uae-shopping-guide",
-      "name": "UAE Shopping Guide",
-      "url": "https://uaeshopping.pages.dev/",
-      "isSubmittedSite": false,
-      "isImportantGuide": true,
-      "category": "Fast Picks",
-      "description": "UAE shopping resource website for browsing useful online stores, shopping categories, and local retail links.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "UAE Shopping Guide appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://uaeshopping.pages.dev/"
-        },
-        {
-          "label": "Services",
-          "url": "https://uaeshopping.pages.dev/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://uaeshopping.pages.dev/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://uaeshopping.pages.dev/contact-us/"
-        }
-      ]
-    },
-    {
       "slug": "uae-directory",
       "name": "UAE Directory",
       "url": "https://uaedirectory.pages.dev/",
@@ -1006,6 +970,114 @@ const SITE_DATA={
         {
           "label": "Contact",
           "url": "https://businesshub.pages.dev/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "uae-shopping-guide-netlify",
+      "name": "UAE Shopping Guide Netlify",
+      "url": "https://uaeshoppingguide.netlify.app/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Fast Picks",
+      "description": "Netlify-hosted UAE shopping guide resource for browsing useful shopping, service, and discovery pages.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "UAE Shopping Guide Netlify appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://uaeshoppingguide.netlify.app/"
+        },
+        {
+          "label": "Services",
+          "url": "https://uaeshoppingguide.netlify.app/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://uaeshoppingguide.netlify.app/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://uaeshoppingguide.netlify.app/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "uae-shopping-render-guide",
+      "name": "UAE Shopping Render Guide",
+      "url": "https://uaeshopping.onrender.com/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Fast Picks",
+      "description": "Render-hosted UAE shopping guide resource with category paths, shopping hubs, and useful UAE website references.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "UAE Shopping Render Guide appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://uaeshopping.onrender.com/"
+        },
+        {
+          "label": "Services",
+          "url": "https://uaeshopping.onrender.com/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://uaeshopping.onrender.com/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://uaeshopping.onrender.com/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "shopping-guide-uae-firebase",
+      "name": "Shopping Guide UAE Firebase",
+      "url": "https://shoppingguideuae.web.app/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Fast Picks",
+      "description": "Firebase-hosted UAE shopping guide resource with searchable cards, service hubs, and dedicated resource profile pages.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Shopping Guide UAE Firebase appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://shoppingguideuae.web.app/"
+        },
+        {
+          "label": "Services",
+          "url": "https://shoppingguideuae.web.app/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://shoppingguideuae.web.app/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://shoppingguideuae.web.app/contact-us/"
         }
       ]
     },
@@ -6999,78 +7071,6 @@ const SITE_DATA={
           "url": "https://www.aquaproperties.com/contact-us/"
         }
       ]
-    },
-    {
-      "slug": "emaar-properties",
-      "name": "Emaar Properties",
-      "url": "https://www.emaar.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Trusted Providers",
-      "description": "UAE master developer behind residential communities, malls, hospitality, and lifestyle projects.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Emaar Properties appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.emaar.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.emaar.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.emaar.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.emaar.com/contact-us/"
-        }
-      ]
-    },
-    {
-      "slug": "damac-properties",
-      "name": "Damac Properties",
-      "url": "https://www.damacproperties.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Trusted Providers",
-      "description": "Dubai property developer offering branded residences, luxury projects, and communities.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Damac Properties appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://www.damacproperties.com"
-        },
-        {
-          "label": "Services",
-          "url": "https://www.damacproperties.com/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://www.damacproperties.com/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://www.damacproperties.com/contact-us/"
-        }
-      ]
     }
   ],
   "homeItems": [
@@ -7147,42 +7147,6 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "uae-shopping-guide",
-      "name": "UAE Shopping Guide",
-      "url": "https://uaeshopping.pages.dev/",
-      "isSubmittedSite": false,
-      "isImportantGuide": true,
-      "category": "Fast Picks",
-      "description": "UAE shopping resource website for browsing useful online stores, shopping categories, and local retail links.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "UAE Shopping Guide appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Home Page",
-          "url": "https://uaeshopping.pages.dev/"
-        },
-        {
-          "label": "Services",
-          "url": "https://uaeshopping.pages.dev/services/"
-        },
-        {
-          "label": "About",
-          "url": "https://uaeshopping.pages.dev/about-us/"
-        },
-        {
-          "label": "Contact",
-          "url": "https://uaeshopping.pages.dev/contact-us/"
-        }
-      ]
-    },
-    {
       "slug": "uae-directory",
       "name": "UAE Directory",
       "url": "https://uaedirectory.pages.dev/",
@@ -7215,6 +7179,42 @@ const SITE_DATA={
         {
           "label": "Contact",
           "url": "https://uaedirectory.pages.dev/contact-us/"
+        }
+      ]
+    },
+    {
+      "slug": "business-hub",
+      "name": "Business Hub",
+      "url": "https://businesshub.pages.dev/",
+      "isSubmittedSite": false,
+      "isImportantGuide": true,
+      "category": "Fast Picks",
+      "description": "Business hub website for exploring UAE business links, service resources, and category-based discovery.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Business Hub appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Home Page",
+          "url": "https://businesshub.pages.dev/"
+        },
+        {
+          "label": "Services",
+          "url": "https://businesshub.pages.dev/services/"
+        },
+        {
+          "label": "About",
+          "url": "https://businesshub.pages.dev/about-us/"
+        },
+        {
+          "label": "Contact",
+          "url": "https://businesshub.pages.dev/contact-us/"
         }
       ]
     },
