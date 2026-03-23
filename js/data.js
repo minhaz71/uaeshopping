@@ -941,16 +941,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "spinneys",
-      "name": "Spinneys",
-      "url": "https://www.spinneys.com/en-ae/",
+      "slug": "gifts-shopping",
+      "name": "Gifts Shopping",
+      "url": "https://giftsshopping.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "Premium supermarket choice for fresh produce, imported groceries, and quality pantry products.",
+      "description": "Gift idea and perfume website for occasions across the UAE.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Spinneys is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Gifts Shopping is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -959,67 +959,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.spinneys.com/en-ae/"
+          "url": "https://giftsshopping.ae"
         }
       ]
     },
     {
-      "slug": "arabian-oud-perfumes",
-      "name": "Arabian Oud Perfumes",
-      "url": "https://arabianoudperfumes.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Arabic perfume specialist with oud, luxury scent profiles, and gift collections.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Arabian Oud Perfumes is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://arabianoudperfumes.com"
-        }
-      ]
-    },
-    {
-      "slug": "gifts-in-uae",
-      "name": "Gifts in UAE",
-      "url": "https://giftsinuae.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Personalized gifts and fragrance sets tailored for UAE customers.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Gifts in UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://giftsinuae.ae"
-        }
-      ]
-    },
-    {
-      "slug": "tawam-hospital",
-      "name": "Tawam Hospital",
-      "url": "https://www.tawam.ae",
+      "slug": "seha",
+      "name": "SEHA",
+      "url": "https://www.seha.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Specialized medical center profile for advanced patient care in Al Ain.",
+      "description": "Abu Dhabi Health Services Company for public hospitals, clinics, and healthcare information.",
       "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
       "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Tawam Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "SEHA is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -1028,30 +982,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.tawam.ae"
-        }
-      ]
-    },
-    {
-      "slug": "nmc-healthcare",
-      "name": "NMC Healthcare",
-      "url": "https://www.nmc.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Private healthcare network with hospitals, clinics, pharmacies, and specialist care.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "NMC Healthcare is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.nmc.ae"
+          "url": "https://www.seha.ae"
         }
       ]
     },
@@ -1075,2130 +1006,6 @@ const SITE_DATA={
         {
           "label": "Official Website",
           "url": "https://www.healthhub.ae"
-        }
-      ]
-    },
-    {
-      "slug": "al-jalila-children-s-hospital",
-      "name": "Al Jalila Children's Hospital",
-      "url": "https://aljalilachildrens.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Specialist children's hospital in Dubai focused on pediatric care and family support.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Al Jalila Children's Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://aljalilachildrens.ae"
-        }
-      ]
-    },
-    {
-      "slug": "international-modern-hospital",
-      "name": "International Modern Hospital",
-      "url": "https://www.imh.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai hospital offering medical specialties, emergency care, surgery, and diagnostics.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "International Modern Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.imh.ae"
-        }
-      ]
-    },
-    {
-      "slug": "driven-properties",
-      "name": "Driven Properties",
-      "url": "https://www.drivenproperties.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai real estate brokerage for residential, commercial, and investment property.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Driven Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.drivenproperties.com"
-        }
-      ]
-    },
-    {
-      "slug": "emaar-properties",
-      "name": "Emaar Properties",
-      "url": "https://www.emaar.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE master developer behind residential communities, malls, hospitality, and lifestyle projects.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Emaar Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.emaar.com"
-        }
-      ]
-    },
-    {
-      "slug": "select-group",
-      "name": "Select Group",
-      "url": "https://select-group.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Real estate developer focused on premium residential and mixed-use projects.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Select Group is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://select-group.ae"
-        }
-      ]
-    },
-    {
-      "slug": "abu-dhabi-government",
-      "name": "Abu Dhabi Government",
-      "url": "https://www.abudhabi.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Official Abu Dhabi portal for government services, residents, businesses, and visitors.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Abu Dhabi Government is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.abudhabi.ae"
-        }
-      ]
-    },
-    {
-      "slug": "dubai-economy",
-      "name": "Dubai Economy",
-      "url": "https://www.dubaided.gov.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai business licensing and economic services portal.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Dubai Economy is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.dubaided.gov.ae"
-        }
-      ]
-    },
-    {
-      "slug": "dubai-islamic-bank",
-      "name": "Dubai Islamic Bank",
-      "url": "https://www.dib.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Islamic banking portal for personal finance, cards, accounts, and business services.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Dubai Islamic Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.dib.ae"
-        }
-      ]
-    },
-    {
-      "slug": "wio-bank",
-      "name": "Wio Bank",
-      "url": "https://www.wio.io",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Digital banking platform for UAE individuals, freelancers, and businesses.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Wio Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.wio.io"
-        }
-      ]
-    },
-    {
-      "slug": "adamjee-insurance-uae",
-      "name": "Adamjee Insurance UAE",
-      "url": "https://www.adamjeeinsurance.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Insurance provider for motor, medical, travel, property, and business cover.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Adamjee Insurance UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.adamjeeinsurance.ae"
-        }
-      ]
-    },
-    {
-      "slug": "nextcare",
-      "name": "NEXtCARE",
-      "url": "https://www.nextcarehealth.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Health insurance administration and medical network services in the region.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "NEXtCARE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.nextcarehealth.com"
-        }
-      ]
-    },
-    {
-      "slug": "middlesex-university-dubai",
-      "name": "Middlesex University Dubai",
-      "url": "https://www.mdx.ac.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai university offering UK degrees, admissions, student services, and programs.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Middlesex University Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.mdx.ac.ae"
-        }
-      ]
-    },
-    {
-      "slug": "abu-dhabi-department-of-education-and-knowledge",
-      "name": "Abu Dhabi Department of Education and Knowledge",
-      "url": "https://www.adek.gov.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Abu Dhabi education authority portal for schools, higher education, and services.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Abu Dhabi Department of Education and Knowledge is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.adek.gov.ae"
-        }
-      ]
-    },
-    {
-      "slug": "aramex",
-      "name": "Aramex",
-      "url": "https://www.aramex.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Logistics company website for courier, freight, ecommerce, and delivery services.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Aramex is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.aramex.com"
-        }
-      ]
-    },
-    {
-      "slug": "carswitch",
-      "name": "CarSwitch",
-      "url": "https://carswitch.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE used car buying and selling platform with inspection and support services.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "CarSwitch is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://carswitch.com"
-        }
-      ]
-    },
-    {
-      "slug": "mercedes-benz-uae",
-      "name": "Mercedes-Benz UAE",
-      "url": "https://www.mercedesbenzme.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Mercedes-Benz regional website for models, services, offers, and ownership information.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Mercedes-Benz UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.mercedesbenzme.com"
-        }
-      ]
-    },
-    {
-      "slug": "commitbiz",
-      "name": "Commitbiz",
-      "url": "https://www.commitbiz.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Business setup and corporate advisory website for UAE entrepreneurs and companies.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Commitbiz is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.commitbiz.com"
-        }
-      ]
-    },
-    {
-      "slug": "hitches-glitches",
-      "name": "Hitches & Glitches",
-      "url": "https://www.hitchesglitches.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE maintenance company for home repair, cleaning, and annual maintenance contracts.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Hitches & Glitches is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.hitchesglitches.com"
-        }
-      ]
-    },
-    {
-      "slug": "ozvapour-com",
-      "name": "ozvapour.com",
-      "url": "https://ozvapour.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Specialty Finds",
-      "description": "Australian vaping review and recommendation website for product research.",
-      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "ozvapour.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://ozvapour.com"
-        }
-      ]
-    },
-    {
-      "slug": "vapeempire-com",
-      "name": "vapeempire.com",
-      "url": "https://vapeempire.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Specialty Finds",
-      "description": "Online vape shop for mods, coils, disposables, and adult vape accessories.",
-      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
-      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "vapeempire.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://vapeempire.com"
-        }
-      ]
-    },
-    {
-      "slug": "vapemall-com-au",
-      "name": "vapemall.com.au",
-      "url": "https://vapemall.com.au",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Specialty Finds",
-      "description": "Australian e-liquid and vape accessories store for adult shoppers.",
-      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
-      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "vapemall.com.au is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://vapemall.com.au"
-        }
-      ]
-    },
-    {
-      "slug": "brands-for-less",
-      "name": "Brands For Less",
-      "url": "https://brandsforless.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Discount fashion and lifestyle retailer for branded finds and savings.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Brands For Less is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://brandsforless.com"
-        }
-      ]
-    },
-    {
-      "slug": "sharaf-dg",
-      "name": "Sharaf DG",
-      "url": "https://uae.sharafdg.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Major UAE electronics retailer for phones, laptops, appliances, gaming, and smart devices.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Sharaf DG is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://uae.sharafdg.com"
-        }
-      ]
-    },
-    {
-      "slug": "huawei-uae",
-      "name": "Huawei UAE",
-      "url": "https://consumer.huawei.com/ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Official Huawei site for smartphones, wearables, laptops, and accessories.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Huawei UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://consumer.huawei.com/ae"
-        }
-      ]
-    },
-    {
-      "slug": "lulu-hypermarket",
-      "name": "LuLu Hypermarket",
-      "url": "https://www.luluhypermarket.com/en-ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Large hypermarket platform for groceries, fresh food, household essentials, and family shopping.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "LuLu Hypermarket is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.luluhypermarket.com/en-ae"
-        }
-      ]
-    },
-    {
-      "slug": "sephora-uae",
-      "name": "Sephora UAE",
-      "url": "https://sephora.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Beauty and perfume retailer with international brands, fragrance gifts, and skincare.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Sephora UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://sephora.ae"
-        }
-      ]
-    },
-    {
-      "slug": "perfumes-dubai",
-      "name": "Perfumes Dubai",
-      "url": "https://perfumesdubai.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Perfume store profile for international and regional fragrance brands.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Perfumes Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://perfumesdubai.ae"
-        }
-      ]
-    },
-    {
-      "slug": "al-zahra-hospital-dubai",
-      "name": "Al Zahra Hospital Dubai",
-      "url": "https://www.alzahra.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Private hospital profile offering comprehensive healthcare services.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Al Zahra Hospital Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.alzahra.com"
-        }
-      ]
-    },
-    {
-      "slug": "al-qassimi-hospital",
-      "name": "Al Qassimi Hospital",
-      "url": "https://www.alqassimi.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Government hospital profile providing specialized healthcare services in Sharjah.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Al Qassimi Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.alqassimi.ae"
-        }
-      ]
-    },
-    {
-      "slug": "al-bayan-clinic",
-      "name": "Al Bayan Clinic",
-      "url": "https://www.albayanclinic.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Multi-specialty medical center profile with modern facilities.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Al Bayan Clinic is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.albayanclinic.ae"
-        }
-      ]
-    },
-    {
-      "slug": "fakeeh-university-hospital",
-      "name": "Fakeeh University Hospital",
-      "url": "https://www.fakeeh.care",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai hospital offering medical specialties, smart healthcare, and patient services.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Fakeeh University Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.fakeeh.care"
-        }
-      ]
-    },
-    {
-      "slug": "adam-vital-hospital",
-      "name": "Adam Vital Hospital",
-      "url": "https://adamvitalhospital.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai hospital focused on orthopedic, rehabilitation, specialty care, and patient services.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Adam Vital Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://adamvitalhospital.com"
-        }
-      ]
-    },
-    {
-      "slug": "luxhabitat-sotheby-s",
-      "name": "Luxhabitat Sotheby's",
-      "url": "https://www.luxhabitat.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Luxury real estate agency for premium UAE homes, villas, and high-end property.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Luxhabitat Sotheby's is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.luxhabitat.ae"
-        }
-      ]
-    },
-    {
-      "slug": "damac-properties",
-      "name": "Damac Properties",
-      "url": "https://www.damacproperties.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai property developer offering branded residences, luxury projects, and communities.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Damac Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.damacproperties.com"
-        }
-      ]
-    },
-    {
-      "slug": "omniyat",
-      "name": "Omniyat",
-      "url": "https://www.omniyat.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Luxury Dubai developer for high-end residences, offices, and branded real estate.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Omniyat is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.omniyat.com"
-        }
-      ]
-    },
-    {
-      "slug": "tamm-abu-dhabi",
-      "name": "TAMM Abu Dhabi",
-      "url": "https://www.tamm.abudhabi",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Abu Dhabi government services portal for residents, citizens, businesses, and visitors.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "TAMM Abu Dhabi is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.tamm.abudhabi"
-        }
-      ]
-    },
-    {
-      "slug": "abu-dhabi-ded",
-      "name": "Abu Dhabi DED",
-      "url": "https://added.gov.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Abu Dhabi business licensing, economic development, and investor service portal.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Abu Dhabi DED is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://added.gov.ae"
-        }
-      ]
-    },
-    {
-      "slug": "mashreq",
-      "name": "Mashreq",
-      "url": "https://www.mashreq.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE bank offering personal banking, corporate banking, digital accounts, and cards.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Mashreq is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.mashreq.com"
-        }
-      ]
-    },
-    {
-      "slug": "liv-bank",
-      "name": "Liv Bank",
-      "url": "https://www.liv.me",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Digital banking platform by Emirates NBD for mobile-first banking services.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Liv Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.liv.me"
-        }
-      ]
-    },
-    {
-      "slug": "qic-uae",
-      "name": "QIC UAE",
-      "url": "https://www.qicuae.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Insurance provider offering car, home, travel, and personal insurance products.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "QIC UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.qicuae.com"
-        }
-      ]
-    },
-    {
-      "slug": "nas-insurance-services",
-      "name": "NAS Insurance Services",
-      "url": "https://www.nas.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE health insurance administration platform and medical network services.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "NAS Insurance Services is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.nas.ae"
-        }
-      ]
-    },
-    {
-      "slug": "university-of-wollongong-in-dubai",
-      "name": "University of Wollongong in Dubai",
-      "url": "https://www.uowdubai.ac.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai university offering business, engineering, IT, and postgraduate programs.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "University of Wollongong in Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.uowdubai.ac.ae"
-        }
-      ]
-    },
-    {
-      "slug": "emirates",
-      "name": "Emirates",
-      "url": "https://www.emirates.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai airline website for flights, booking, loyalty, travel management, and customer service.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Emirates is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.emirates.com"
-        }
-      ]
-    },
-    {
-      "slug": "emirates-post",
-      "name": "Emirates Post",
-      "url": "https://emiratespost.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE postal and courier services portal for mail, parcels, and customer services.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Emirates Post is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://emiratespost.ae"
-        }
-      ]
-    },
-    {
-      "slug": "dubicars",
-      "name": "DubiCars",
-      "url": "https://www.dubicars.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE car marketplace for new cars, used cars, dealers, and automotive search.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "DubiCars is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.dubicars.com"
-        }
-      ]
-    },
-    {
-      "slug": "al-habtoor-motors",
-      "name": "Al Habtoor Motors",
-      "url": "https://www.habtoormotors.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE automotive dealer group for Mitsubishi, Bentley, Bugatti, and service support.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Al Habtoor Motors is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.habtoormotors.com"
-        }
-      ]
-    },
-    {
-      "slug": "flying-colour",
-      "name": "Flying Colour",
-      "url": "https://www.flyingcolour.net",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE business setup, accounting, tax, and corporate services provider.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Flying Colour is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.flyingcolour.net"
-        }
-      ]
-    },
-    {
-      "slug": "farnek",
-      "name": "Farnek",
-      "url": "https://www.farnek.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE facilities management company offering cleaning, maintenance, security, and sustainability services.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Farnek is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.farnek.com"
-        }
-      ]
-    },
-    {
-      "slug": "vape360-com",
-      "name": "vape360.com",
-      "url": "https://vape360.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Specialty Finds",
-      "description": "Canadian vape store with premium hardware and e-liquid options.",
-      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
-      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "vape360.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://vape360.com"
-        }
-      ]
-    },
-    {
-      "slug": "thevapeboutique-com-au",
-      "name": "thevapeboutique.com.au",
-      "url": "https://thevapeboutique.com.au",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Specialty Finds",
-      "description": "Australian vape boutique with curated gear and accessory options.",
-      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
-      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "thevapeboutique.com.au is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://thevapeboutique.com.au"
-        }
-      ]
-    },
-    {
-      "slug": "thevapory-com",
-      "name": "thevapory.com",
-      "url": "https://thevapory.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Specialty Finds",
-      "description": "Canadian vape shop profile for pods, devices, and accessories.",
-      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
-      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "thevapory.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://thevapory.com"
-        }
-      ]
-    },
-    {
-      "slug": "american-rag",
-      "name": "American Rag",
-      "url": "https://americanrag.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Urban fashion brand profile with a premium casual style focus.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "American Rag is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://americanrag.com"
-        }
-      ]
-    },
-    {
-      "slug": "carrefour-uae-electronics",
-      "name": "Carrefour UAE Electronics",
-      "url": "https://www.carrefouruae.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Retail option for televisions, smartphones, appliances, and everyday electronics.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Carrefour UAE Electronics is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.carrefouruae.com"
-        }
-      ]
-    },
-    {
-      "slug": "sony-middle-east",
-      "name": "Sony Middle East",
-      "url": "https://www.sony-mea.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Official Sony site for TVs, cameras, audio, gaming, and support.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Sony Middle East is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.sony-mea.com"
-        }
-      ]
-    },
-    {
-      "slug": "union-coop",
-      "name": "Union Coop",
-      "url": "https://www.unioncoop.ae/en/",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Cooperative supermarket with grocery selection, promotions, and essential shopping options.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Union Coop is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.unioncoop.ae/en/"
-        }
-      ]
-    },
-    {
-      "slug": "souq-gifts",
-      "name": "Souq Gifts",
-      "url": "https://souqgifts.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Gift store profile with luxury gifts, perfumes, and beauty products.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Souq Gifts is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://souqgifts.ae"
-        }
-      ]
-    },
-    {
-      "slug": "gifts-more",
-      "name": "Gifts & More",
-      "url": "https://giftsandmore.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Gift boxes, perfumes, and personalized present website.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Gifts & More is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://giftsandmore.ae"
-        }
-      ]
-    },
-    {
-      "slug": "life-clinic",
-      "name": "Life Clinic",
-      "url": "https://www.lifeclinic.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Multi-specialty medical clinic with diagnostics and treatments.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Life Clinic is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.lifeclinic.ae"
-        }
-      ]
-    },
-    {
-      "slug": "medilife",
-      "name": "MediLife",
-      "url": "https://www.medilife.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Pharmacy chain and medical supplies provider profile.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "MediLife is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.medilife.ae"
-        }
-      ]
-    },
-    {
-      "slug": "medlabs",
-      "name": "MedLabs",
-      "url": "https://www.medlabs.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Diagnostic laboratory services profile for medical testing.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "MedLabs is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.medlabs.com"
-        }
-      ]
-    },
-    {
-      "slug": "iranian-hospital-dubai",
-      "name": "Iranian Hospital Dubai",
-      "url": "https://www.iranianhospitaldubai.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai hospital providing medical, surgical, emergency, and specialty care.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Iranian Hospital Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.iranianhospitaldubai.com"
-        }
-      ]
-    },
-    {
-      "slug": "property-finder-uae",
-      "name": "Property Finder UAE",
-      "url": "https://www.propertyfinder.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Property portal for UAE rentals, sales, communities, brokers, and real estate search.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Property Finder UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.propertyfinder.ae"
-        }
-      ]
-    },
-    {
-      "slug": "arabian-estates",
-      "name": "Arabian Estates",
-      "url": "https://www.arabianestates.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai real estate agency for residential property, leasing, and sales advisory.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Arabian Estates is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.arabianestates.ae"
-        }
-      ]
-    },
-    {
-      "slug": "nakheel",
-      "name": "Nakheel",
-      "url": "https://www.nakheel.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai developer known for master communities, waterfront projects, and retail destinations.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Nakheel is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.nakheel.com"
-        }
-      ]
-    },
-    {
-      "slug": "mag",
-      "name": "MAG",
-      "url": "https://mag.global",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE developer with residential, wellness, and community-focused property projects.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "MAG is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://mag.global"
-        }
-      ]
-    },
-    {
-      "slug": "mohre",
-      "name": "MOHRE",
-      "url": "https://www.mohre.gov.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE Ministry of Human Resources and Emiratisation portal for labor and employment services.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "MOHRE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.mohre.gov.ae"
-        }
-      ]
-    },
-    {
-      "slug": "ministry-of-economy",
-      "name": "Ministry of Economy",
-      "url": "https://www.moec.gov.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE Ministry of Economy portal for business, trade, consumer, and economic services.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Ministry of Economy is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.moec.gov.ae"
-        }
-      ]
-    },
-    {
-      "slug": "rakbank",
-      "name": "RAKBANK",
-      "url": "https://www.rakbank.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE bank serving individuals and businesses with banking, cards, finance, and digital tools.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "RAKBANK is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.rakbank.ae"
-        }
-      ]
-    },
-    {
-      "slug": "noqodi",
-      "name": "Noqodi",
-      "url": "https://www.noqodi.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE digital payment platform for businesses, government payments, and online services.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Noqodi is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.noqodi.com"
-        }
-      ]
-    },
-    {
-      "slug": "afia-insurance",
-      "name": "AFIA Insurance",
-      "url": "https://www.afia.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Insurance broker helping UAE customers compare motor, health, travel, and business cover.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "AFIA Insurance is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.afia.ae"
-        }
-      ]
-    },
-    {
-      "slug": "inayah-tpa",
-      "name": "Inayah TPA",
-      "url": "https://www.inayah.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Third-party administration services for medical insurance and healthcare networks.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Inayah TPA is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.inayah.com"
-        }
-      ]
-    },
-    {
-      "slug": "bits-pilani-dubai",
-      "name": "BITS Pilani Dubai",
-      "url": "https://www.bits-pilani.ac.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Engineering and technology university campus in Dubai with academic programs.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "BITS Pilani Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.bits-pilani.ac.ae"
-        }
-      ]
-    },
-    {
-      "slug": "etihad-airways",
-      "name": "Etihad Airways",
-      "url": "https://www.etihad.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Abu Dhabi airline website for booking, travel information, loyalty, and customer support.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Etihad Airways is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.etihad.com"
-        }
-      ]
-    },
-    {
-      "slug": "dhl-uae",
-      "name": "DHL UAE",
-      "url": "https://www.dhl.com/ae-en/home.html",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Courier and logistics website for UAE shipping, tracking, and business delivery services.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "DHL UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.dhl.com/ae-en/home.html"
-        }
-      ]
-    },
-    {
-      "slug": "sellanycar",
-      "name": "SellAnyCar",
-      "url": "https://www.sellanycar.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE platform for selling cars quickly with inspection, valuation, and purchase services.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "SellAnyCar is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.sellanycar.com"
-        }
-      ]
-    },
-    {
-      "slug": "liberty-automobiles",
-      "name": "Liberty Automobiles",
-      "url": "https://www.libertyautomobiles.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE automotive dealer for brands, servicing, offers, and customer support.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Liberty Automobiles is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.libertyautomobiles.com"
-        }
-      ]
-    },
-    {
-      "slug": "aurion-uae",
-      "name": "Aurion UAE",
-      "url": "https://www.aurionuae.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Company formation consultant for UAE free zone, offshore, and mainland setup.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Aurion UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.aurionuae.com"
-        }
-      ]
-    },
-    {
-      "slug": "imdaad",
-      "name": "Imdaad",
-      "url": "https://www.imdaad.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Integrated facilities management company providing maintenance, waste, and support services.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Imdaad is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.imdaad.ae"
-        }
-      ]
-    },
-    {
-      "slug": "vapeshoreditch-com",
-      "name": "vapeshoreditch.com",
-      "url": "https://vapeshoreditch.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Specialty Finds",
-      "description": "Affordable UK and Canada vape juice destination with delivery-focused positioning.",
-      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
-      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "vapeshoreditch.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://vapeshoreditch.com"
-        }
-      ]
-    },
-    {
-      "slug": "vapetrader-ca",
-      "name": "vapetrader.ca",
-      "url": "https://vapetrader.ca",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Specialty Finds",
-      "description": "Canadian vape marketplace profile for adult product browsing.",
-      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
-      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "vapetrader.ca is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://vapetrader.ca"
-        }
-      ]
-    },
-    {
-      "slug": "splash-fashions",
-      "name": "Splash Fashions",
-      "url": "https://splashfashions.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Regional fashion brand for trend-led menswear, womenswear, and accessible everyday looks.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Splash Fashions is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://splashfashions.com"
-        }
-      ]
-    },
-    {
-      "slug": "all-day-stores",
-      "name": "All Day Stores",
-      "url": "https://alldaystores.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Everyday basics and lifestyle essentials destination for UAE shoppers.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "All Day Stores is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://alldaystores.com"
-        }
-      ]
-    },
-    {
-      "slug": "emax",
-      "name": "Emax",
-      "url": "https://www.emaxme.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "UAE electronics store for gadgets, smartphones, gaming, appliances, and accessories.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Emax is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.emaxme.com"
-        }
-      ]
-    },
-    {
-      "slug": "lg-uae",
-      "name": "LG UAE",
-      "url": "https://www.lg.com/ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Official LG site for appliances, televisions, monitors, and home electronics.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "LG UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.lg.com/ae"
-        }
-      ]
-    },
-    {
-      "slug": "talabat-mart",
-      "name": "Talabat Mart",
-      "url": "https://www.talabat.com/uae/groceries",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "On-demand grocery delivery option for quick baskets, urgent essentials, and snacks.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Talabat Mart is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.talabat.com/uae/groceries"
-        }
-      ]
-    },
-    {
-      "slug": "gifts-dubai",
-      "name": "Gifts Dubai",
-      "url": "https://giftsdubai.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Customized gifts and perfume sets for UAE occasions and celebrations.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Gifts Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://giftsdubai.ae"
-        }
-      ]
-    },
-    {
-      "slug": "perfumes-online",
-      "name": "Perfumes Online",
-      "url": "https://perfumesonline.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Online perfume and gift set store with UAE shipping focus.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Perfumes Online is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://perfumesonline.ae"
-        }
-      ]
-    },
-    {
-      "slug": "rashid-medical-center",
-      "name": "Rashid Medical Center",
-      "url": "https://www.rashiddoc.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Primary healthcare center profile with comprehensive medical services.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Rashid Medical Center is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.rashiddoc.com"
-        }
-      ]
-    },
-    {
-      "slug": "supercare-pharmacy",
-      "name": "SuperCare Pharmacy",
-      "url": "https://www.supercare.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Pharmacy retailer with medicines, wellness products, and online ordering.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "SuperCare Pharmacy is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.supercare.ae"
-        }
-      ]
-    },
-    {
-      "slug": "daman-health",
-      "name": "Daman Health",
-      "url": "https://www.damanhealth.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Health insurance provider profile with medical service network.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Daman Health is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.damanhealth.ae"
         }
       ]
     },
@@ -3227,16 +1034,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "bayut",
-      "name": "Bayut",
-      "url": "https://www.bayut.com",
+      "slug": "haus-haus",
+      "name": "haus & haus",
+      "url": "https://www.hausandhaus.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE real estate portal for apartments, villas, commercial properties, and market guides.",
+      "description": "Dubai property agency for residential sales, leasing, holiday homes, and advisory.",
       "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
       "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Bayut is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "haus & haus is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3246,21 +1053,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.bayut.com"
+          "url": "https://www.hausandhaus.com"
         }
       ]
     },
     {
-      "slug": "chestertons-mena",
-      "name": "Chestertons MENA",
-      "url": "https://www.chestertonsmena.com",
+      "slug": "cbre-uae",
+      "name": "CBRE UAE",
+      "url": "https://www.cbre.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Regional real estate advisory company for property sales, leasing, and valuation.",
+      "description": "Commercial real estate consultancy for property services, research, and advisory.",
       "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
       "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Chestertons MENA is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "CBRE UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3270,21 +1077,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.chestertonsmena.com"
+          "url": "https://www.cbre.ae"
         }
       ]
     },
     {
-      "slug": "aldar",
-      "name": "Aldar",
-      "url": "https://www.aldar.com",
+      "slug": "union-properties",
+      "name": "Union Properties",
+      "url": "https://www.unionproperties.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Abu Dhabi property developer focused on communities, homes, retail, and investment assets.",
+      "description": "UAE developer behind residential, commercial, and mixed-use real estate projects.",
       "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
       "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Aldar is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Union Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3294,45 +1101,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.aldar.com"
+          "url": "https://www.unionproperties.com"
         }
       ]
     },
     {
-      "slug": "tiger-properties",
-      "name": "Tiger Properties",
-      "url": "https://tigerproperties.ae",
+      "slug": "tamm-abu-dhabi",
+      "name": "TAMM Abu Dhabi",
+      "url": "https://www.tamm.abudhabi",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Developer with residential towers, communities, and property projects in the UAE.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Tiger Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://tigerproperties.ae"
-        }
-      ]
-    },
-    {
-      "slug": "icp-uae",
-      "name": "ICP UAE",
-      "url": "https://icp.gov.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Federal authority portal for identity, citizenship, residency, passports, and immigration services.",
+      "description": "Abu Dhabi government services portal for residents, citizens, businesses, and visitors.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "ICP UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "TAMM Abu Dhabi is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3342,21 +1125,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://icp.gov.ae"
+          "url": "https://www.tamm.abudhabi"
         }
       ]
     },
     {
-      "slug": "ministry-of-foreign-affairs",
-      "name": "Ministry of Foreign Affairs",
-      "url": "https://www.mofa.gov.ae",
+      "slug": "ministry-of-economy",
+      "name": "Ministry of Economy",
+      "url": "https://www.moec.gov.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE foreign affairs portal for consular, attestation, and diplomatic services.",
+      "description": "UAE Ministry of Economy portal for business, trade, consumer, and economic services.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Ministry of Foreign Affairs is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Ministry of Economy is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3366,7 +1149,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.mofa.gov.ae"
+          "url": "https://www.moec.gov.ae"
         }
       ]
     },
@@ -3419,16 +1202,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "policybazaar-uae",
-      "name": "Policybazaar UAE",
-      "url": "https://www.policybazaar.ae",
+      "slug": "union-insurance",
+      "name": "Union Insurance",
+      "url": "https://www.unioninsurance.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Insurance comparison platform for UAE motor, health, life, and travel policies.",
+      "description": "UAE insurance company offering motor, health, life, and business insurance.",
       "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
       "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Policybazaar UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Union Insurance is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3438,21 +1221,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.policybazaar.ae"
+          "url": "https://www.unioninsurance.ae"
         }
       ]
     },
     {
-      "slug": "united-arab-emirates-university",
-      "name": "United Arab Emirates University",
-      "url": "https://www.uaeu.ac.ae",
+      "slug": "american-university-in-dubai",
+      "name": "American University in Dubai",
+      "url": "https://www.aud.edu",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE national university website for admissions, academics, research, and student services.",
+      "description": "Dubai university offering undergraduate, graduate, and professional academic programs.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "United Arab Emirates University is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "American University in Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3462,21 +1245,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.uaeu.ac.ae"
+          "url": "https://www.aud.edu"
         }
       ]
     },
     {
-      "slug": "rit-dubai",
-      "name": "RIT Dubai",
-      "url": "https://www.rit.edu/dubai",
+      "slug": "taaleem",
+      "name": "Taaleem",
+      "url": "https://www.taaleem.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Dubai campus offering technology, engineering, business, and professional programs.",
+      "description": "UAE school group with admissions, curricula, school information, and parent resources.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "RIT Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Taaleem is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3486,21 +1269,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.rit.edu/dubai"
+          "url": "https://www.taaleem.ae"
         }
       ]
     },
     {
-      "slug": "flydubai",
-      "name": "flydubai",
-      "url": "https://www.flydubai.com",
+      "slug": "ups-uae",
+      "name": "UPS UAE",
+      "url": "https://www.ups.com/ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Dubai airline website for regional flights, booking, offers, and travel services.",
+      "description": "Logistics and shipping website for UAE parcel delivery, freight, and tracking.",
       "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "flydubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "UPS UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3510,21 +1293,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.flydubai.com"
+          "url": "https://www.ups.com/ae"
         }
       ]
     },
     {
-      "slug": "fedex-uae",
-      "name": "FedEx UAE",
-      "url": "https://www.fedex.com/en-ae/home.html",
+      "slug": "al-futtaim-toyota",
+      "name": "Al-Futtaim Toyota",
+      "url": "https://www.toyota.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Shipping and courier platform for UAE parcels, freight, and tracking.",
+      "description": "Official Toyota UAE website for models, offers, service, and ownership support.",
       "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "FedEx UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Al-Futtaim Toyota is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3534,93 +1317,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.fedex.com/en-ae/home.html"
+          "url": "https://www.toyota.ae"
         }
       ]
     },
     {
-      "slug": "al-futtaim-automotive",
-      "name": "Al-Futtaim Automotive",
-      "url": "https://www.alfuttaimauto.com",
+      "slug": "shuraa",
+      "name": "Shuraa",
+      "url": "https://www.shuraa.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Automotive group website for car brands, service, finance, and ownership support.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Al-Futtaim Automotive is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.alfuttaimauto.com"
-        }
-      ]
-    },
-    {
-      "slug": "automall-uae",
-      "name": "Automall UAE",
-      "url": "https://www.automalluae.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Used car retailer website for buying, selling, and comparing vehicles in UAE.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Automall UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.automalluae.com"
-        }
-      ]
-    },
-    {
-      "slug": "n-r-doshi-partners",
-      "name": "N R Doshi & Partners",
-      "url": "https://www.nrdoshi.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE accounting, audit, tax, and business advisory services firm.",
-      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "N R Doshi & Partners is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.nrdoshi.ae"
-        }
-      ]
-    },
-    {
-      "slug": "transguard-group",
-      "name": "Transguard Group",
-      "url": "https://www.transguardgroup.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE business services company for security, facilities management, cash, and workforce solutions.",
+      "description": "UAE business setup consultant website for company formation and licensing services.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Transguard Group is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Shuraa is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3630,21 +1341,45 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.transguardgroup.com"
+          "url": "https://www.shuraa.com"
         }
       ]
     },
     {
-      "slug": "canadavapes-com",
-      "name": "canadavapes.com",
-      "url": "https://canadavapes.com",
+      "slug": "mrusta",
+      "name": "MrUsta",
+      "url": "https://mrusta.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Home and business services platform for maintenance, repairs, and local professionals.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "MrUsta is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://mrusta.com"
+        }
+      ]
+    },
+    {
+      "slug": "sourcemore-com",
+      "name": "sourcemore.com",
+      "url": "https://sourcemore.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Specialty Finds",
-      "description": "Canadian vape shop with a long-running retail history and online ordering.",
+      "description": "Budget-friendly vape supplier with worldwide shipping and broad device selection.",
       "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
       "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "canadavapes.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "sourcemore.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -3653,21 +1388,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://canadavapes.com"
+          "url": "https://sourcemore.com"
         }
       ]
     },
     {
-      "slug": "relxnow-com",
-      "name": "relxnow.com",
-      "url": "https://relxnow.com",
+      "slug": "thevapeboutique-com-au",
+      "name": "thevapeboutique.com.au",
+      "url": "https://thevapeboutique.com.au",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Specialty Finds",
-      "description": "Global RELX pod brand website for devices, pods, and product information.",
+      "description": "Australian vape boutique with curated gear and accessory options.",
       "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
       "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "relxnow.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "thevapeboutique.com.au is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -3676,21 +1411,44 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://relxnow.com"
+          "url": "https://thevapeboutique.com.au"
         }
       ]
     },
     {
-      "slug": "max-fashion-uae",
-      "name": "Max Fashion UAE",
-      "url": "https://maxfashion.com/ae",
+      "slug": "thevapory-com",
+      "name": "thevapory.com",
+      "url": "https://thevapory.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Canadian vape shop profile for pods, devices, and accessories.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "thevapory.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://thevapory.com"
+        }
+      ]
+    },
+    {
+      "slug": "athleisure-uae",
+      "name": "Athleisure UAE",
+      "url": "https://athleisure.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "Value-focused fashion destination for family clothing, shoes, and accessories.",
+      "description": "Casual fashion and sport-inspired apparel store for UAE shoppers.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Max Fashion UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Athleisure UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -3699,21 +1457,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://maxfashion.com/ae"
+          "url": "https://athleisure.ae"
         }
       ]
     },
     {
-      "slug": "koton",
-      "name": "Koton",
-      "url": "https://koton.com",
+      "slug": "huawei-uae",
+      "name": "Huawei UAE",
+      "url": "https://consumer.huawei.com/ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "Turkish fashion brand with stylish menswear, womenswear, and seasonal collections.",
+      "description": "Official Huawei site for smartphones, wearables, laptops, and accessories.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Koton is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Huawei UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -3722,44 +1480,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://koton.com"
+          "url": "https://consumer.huawei.com/ae"
         }
       ]
     },
     {
-      "slug": "amazon-uae-electronics",
-      "name": "Amazon UAE Electronics",
-      "url": "https://www.amazon.ae",
+      "slug": "union-coop",
+      "name": "Union Coop",
+      "url": "https://www.unioncoop.ae/en/",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "Large marketplace for electronics selection, price comparison, and quick delivery.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Amazon UAE Electronics is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.amazon.ae"
-        }
-      ]
-    },
-    {
-      "slug": "hp-uae",
-      "name": "HP UAE",
-      "url": "https://www.hp.com/ae-en/home.html",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Official HP site for laptops, printers, accessories, and support.",
+      "description": "Cooperative supermarket with grocery selection, promotions, and essential shopping options.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "HP UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Union Coop is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -3768,44 +1503,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.hp.com/ae-en/home.html"
+          "url": "https://www.unioncoop.ae/en/"
         }
       ]
     },
     {
-      "slug": "instashop",
-      "name": "Instashop",
-      "url": "https://instashop.ae/",
+      "slug": "perfumes-uae",
+      "name": "Perfumes UAE",
+      "url": "https://perfumesuae.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "Fast local delivery platform connecting shoppers with supermarkets and nearby stores.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Instashop is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://instashop.ae/"
-        }
-      ]
-    },
-    {
-      "slug": "arabian-perfumes",
-      "name": "Arabian Perfumes",
-      "url": "https://arabianperfumes.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Arabic and international perfume store with gift-ready options.",
+      "description": "Online perfume store for branded fragrances and gift-ready scent options.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Arabian Perfumes is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Perfumes UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -3814,44 +1526,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://arabianperfumes.ae"
+          "url": "https://perfumesuae.ae"
         }
       ]
     },
     {
-      "slug": "gift-central",
-      "name": "Gift Central",
-      "url": "https://giftcentral.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Centralized gift site for perfumes, curated presents, and celebration delivery.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Gift Central is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://giftcentral.ae"
-        }
-      ]
-    },
-    {
-      "slug": "seha",
-      "name": "SEHA",
-      "url": "https://www.seha.ae",
+      "slug": "tawam-hospital",
+      "name": "Tawam Hospital",
+      "url": "https://www.tawam.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Abu Dhabi Health Services Company for public hospitals, clinics, and healthcare information.",
+      "description": "Specialized medical center profile for advanced patient care in Al Ain.",
       "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
       "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "SEHA is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Tawam Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -3860,21 +1549,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.seha.ae"
+          "url": "https://www.tawam.ae"
         }
       ]
     },
     {
-      "slug": "mediclinic-middle-east",
-      "name": "Mediclinic Middle East",
-      "url": "https://www.mediclinic.ae",
+      "slug": "bliss-wellness-center",
+      "name": "Bliss Wellness Center",
+      "url": "https://www.blisscenter.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Private hospital and clinic group offering specialist care and diagnostics.",
+      "description": "Wellness and holistic health center profile in Dubai.",
       "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
       "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Mediclinic Middle East is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Bliss Wellness Center is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -3883,21 +1572,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.mediclinic.ae"
+          "url": "https://www.blisscenter.ae"
         }
       ]
     },
     {
-      "slug": "burjeel-hospital",
-      "name": "Burjeel Hospital",
-      "url": "https://burjeel.com",
+      "slug": "al-jalila-children-s-hospital",
+      "name": "Al Jalila Children's Hospital",
+      "url": "https://aljalilachildrens.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE healthcare network with hospitals, clinics, specialty care, and patient services.",
+      "description": "Specialist children's hospital in Dubai focused on pediatric care and family support.",
       "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
       "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Burjeel Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Al Jalila Children's Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -3907,31 +1596,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://burjeel.com"
-        }
-      ]
-    },
-    {
-      "slug": "saudi-german-hospital-uae",
-      "name": "Saudi German Hospital UAE",
-      "url": "https://saudigerman.com/uae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Hospital network offering multi-specialty healthcare and patient support in UAE.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Saudi German Hospital UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://saudigerman.com/uae"
+          "url": "https://aljalilachildrens.ae"
         }
       ]
     },
@@ -3984,16 +1649,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "sobha-realty",
-      "name": "Sobha Realty",
-      "url": "https://www.sobharealty.com",
+      "slug": "danube-properties",
+      "name": "Danube Properties",
+      "url": "https://danubeproperties.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Luxury property developer with residential projects and communities in Dubai.",
+      "description": "Dubai developer offering residential projects, payment plans, and property launches.",
       "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
       "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Sobha Realty is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Danube Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4003,21 +1668,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.sobharealty.com"
+          "url": "https://danubeproperties.ae"
         }
       ]
     },
     {
-      "slug": "ellington-properties",
-      "name": "Ellington Properties",
-      "url": "https://ellingtonproperties.ae",
+      "slug": "binghatti",
+      "name": "Binghatti",
+      "url": "https://www.binghatti.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Dubai design-led developer focused on premium residences and lifestyle communities.",
+      "description": "Dubai developer known for residential towers, branded projects, and modern architecture.",
       "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
       "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Ellington Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Binghatti is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4027,21 +1692,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://ellingtonproperties.ae"
+          "url": "https://www.binghatti.com"
         }
       ]
     },
     {
-      "slug": "gdrfa-dubai",
-      "name": "GDRFA Dubai",
-      "url": "https://www.gdrfad.gov.ae",
+      "slug": "dubai-municipality",
+      "name": "Dubai Municipality",
+      "url": "https://www.dm.gov.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Dubai immigration and residency authority portal for visa and entry services.",
+      "description": "Dubai Municipality portal for city services, permits, planning, and public resources.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "GDRFA Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Dubai Municipality is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4051,45 +1716,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.gdrfad.gov.ae"
+          "url": "https://www.dm.gov.ae"
         }
       ]
     },
     {
-      "slug": "ministry-of-education",
-      "name": "Ministry of Education",
-      "url": "https://www.moe.gov.ae",
+      "slug": "mashreq",
+      "name": "Mashreq",
+      "url": "https://www.mashreq.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE education authority portal for schools, higher education, and policies.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Ministry of Education is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.moe.gov.ae"
-        }
-      ]
-    },
-    {
-      "slug": "hsbc-uae",
-      "name": "HSBC UAE",
-      "url": "https://www.hsbc.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "International bank website for UAE personal banking, wealth, cards, and services.",
+      "description": "UAE bank offering personal banking, corporate banking, digital accounts, and cards.",
       "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "HSBC UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Mashreq is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4099,21 +1740,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.hsbc.ae"
+          "url": "https://www.mashreq.com"
         }
       ]
     },
     {
-      "slug": "beehive",
-      "name": "Beehive",
-      "url": "https://www.beehive.ae",
+      "slug": "liv-bank",
+      "name": "Liv Bank",
+      "url": "https://www.liv.me",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE peer-to-peer business finance platform for SME funding and investors.",
+      "description": "Digital banking platform by Emirates NBD for mobile-first banking services.",
       "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Beehive is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Liv Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4123,7 +1764,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.beehive.ae"
+          "url": "https://www.liv.me"
         }
       ]
     },
@@ -4152,16 +1793,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "zayed-university",
-      "name": "Zayed University",
-      "url": "https://www.zu.ac.ae",
+      "slug": "higher-colleges-of-technology",
+      "name": "Higher Colleges of Technology",
+      "url": "https://hct.ac.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE university portal for academic programs, admissions, research, and campus services.",
+      "description": "Applied higher education institution with campuses and academic programs across the UAE.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Zayed University is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Higher Colleges of Technology is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4171,7 +1812,574 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.zu.ac.ae"
+          "url": "https://hct.ac.ae"
+        }
+      ]
+    },
+    {
+      "slug": "hamdan-bin-mohammed-smart-university",
+      "name": "Hamdan Bin Mohammed Smart University",
+      "url": "https://www.hbmsu.ac.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Smart learning university offering online and blended academic programs.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Hamdan Bin Mohammed Smart University is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.hbmsu.ac.ae"
+        }
+      ]
+    },
+    {
+      "slug": "cleartrip-uae",
+      "name": "Cleartrip UAE",
+      "url": "https://www.cleartrip.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Online travel platform for UAE flights, hotels, and trip booking.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Cleartrip UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.cleartrip.ae"
+        }
+      ]
+    },
+    {
+      "slug": "al-nabooda-automobiles",
+      "name": "Al Nabooda Automobiles",
+      "url": "https://www.alnabooda-auto.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE automotive dealer website for premium car brands, service, and ownership.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Al Nabooda Automobiles is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.alnabooda-auto.com"
+        }
+      ]
+    },
+    {
+      "slug": "udrive",
+      "name": "Udrive",
+      "url": "https://www.udrive.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE car sharing platform for short-term mobility and self-drive rentals.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Udrive is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.udrive.ae"
+        }
+      ]
+    },
+    {
+      "slug": "al-tamimi-company",
+      "name": "Al Tamimi & Company",
+      "url": "https://www.tamimi.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Regional law firm website for UAE legal services and business advisory.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Al Tamimi & Company is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.tamimi.com"
+        }
+      ]
+    },
+    {
+      "slug": "eightvape-com",
+      "name": "eightvape.com",
+      "url": "https://eightvape.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "USA-based vape store offering discounts on popular adult vape brands and accessories.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "eightvape.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://eightvape.com"
+        }
+      ]
+    },
+    {
+      "slug": "vaporesso-com",
+      "name": "vaporesso.com",
+      "url": "https://vaporesso.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Global vape brand website for devices, pods, coils, and official product information.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "vaporesso.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://vaporesso.com"
+        }
+      ]
+    },
+    {
+      "slug": "vapeescape-ca",
+      "name": "vapeescape.ca",
+      "url": "https://vapeescape.ca",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Canadian online vape retailer with affordability and product discovery focus.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "vapeescape.ca is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://vapeescape.ca"
+        }
+      ]
+    },
+    {
+      "slug": "mango-uae",
+      "name": "Mango UAE",
+      "url": "https://mango.com/ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Contemporary fashion store with polished clothing and accessories.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Mango UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://mango.com/ae"
+        }
+      ]
+    },
+    {
+      "slug": "plugins-me",
+      "name": "Plugins ME",
+      "url": "https://www.pluginsme.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Electronics and appliance retailer with brand-focused product selection.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Plugins ME is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.pluginsme.com"
+        }
+      ]
+    },
+    {
+      "slug": "spinneys",
+      "name": "Spinneys",
+      "url": "https://www.spinneys.com/en-ae/",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Premium supermarket choice for fresh produce, imported groceries, and quality pantry products.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Spinneys is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.spinneys.com/en-ae/"
+        }
+      ]
+    },
+    {
+      "slug": "gifts-dubai",
+      "name": "Gifts Dubai",
+      "url": "https://giftsdubai.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Customized gifts and perfume sets for UAE occasions and celebrations.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Gifts Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://giftsdubai.ae"
+        }
+      ]
+    },
+    {
+      "slug": "medcare",
+      "name": "Medcare",
+      "url": "https://www.medcare.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Private healthcare network with hospitals, clinics, specialists, and diagnostics.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Medcare is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.medcare.ae"
+        }
+      ]
+    },
+    {
+      "slug": "al-zahra-hospitals",
+      "name": "Al Zahra Hospitals",
+      "url": "https://www.alzahrahospitals.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Hospital group profile providing comprehensive medical care in the UAE.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Al Zahra Hospitals is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.alzahrahospitals.ae"
+        }
+      ]
+    },
+    {
+      "slug": "king-s-college-hospital-dubai",
+      "name": "King's College Hospital Dubai",
+      "url": "https://kingscollegehospitaldubai.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai hospital connected with King's College Hospital expertise and specialty care.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "King's College Hospital Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://kingscollegehospitaldubai.com"
+        }
+      ]
+    },
+    {
+      "slug": "adam-vital-hospital",
+      "name": "Adam Vital Hospital",
+      "url": "https://adamvitalhospital.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai hospital focused on orthopedic, rehabilitation, specialty care, and patient services.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Adam Vital Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://adamvitalhospital.com"
+        }
+      ]
+    },
+    {
+      "slug": "arabian-estates",
+      "name": "Arabian Estates",
+      "url": "https://www.arabianestates.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai real estate agency for residential property, leasing, and sales advisory.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Arabian Estates is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.arabianestates.ae"
+        }
+      ]
+    },
+    {
+      "slug": "aldar",
+      "name": "Aldar",
+      "url": "https://www.aldar.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Abu Dhabi property developer focused on communities, homes, retail, and investment assets.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Aldar is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.aldar.com"
+        }
+      ]
+    },
+    {
+      "slug": "nshama",
+      "name": "Nshama",
+      "url": "https://www.nshama.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai developer known for Town Square and family-focused residential communities.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Nshama is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.nshama.ae"
+        }
+      ]
+    },
+    {
+      "slug": "etihad-water-and-electricity",
+      "name": "Etihad Water and Electricity",
+      "url": "https://www.etihadwe.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Federal utility provider portal for water and electricity services.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Etihad Water and Electricity is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.etihadwe.ae"
+        }
+      ]
+    },
+    {
+      "slug": "first-abu-dhabi-bank",
+      "name": "First Abu Dhabi Bank",
+      "url": "https://www.bankfab.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE banking group offering personal, corporate, investment, and digital financial services.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "First Abu Dhabi Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.bankfab.com"
+        }
+      ]
+    },
+    {
+      "slug": "sharjah-islamic-bank",
+      "name": "Sharjah Islamic Bank",
+      "url": "https://www.sib.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Islamic banking website for accounts, finance, cards, and business banking.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Sharjah Islamic Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.sib.ae"
+        }
+      ]
+    },
+    {
+      "slug": "afia-insurance",
+      "name": "AFIA Insurance",
+      "url": "https://www.afia.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Insurance broker helping UAE customers compare motor, health, travel, and business cover.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "AFIA Insurance is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.afia.ae"
+        }
+      ]
+    },
+    {
+      "slug": "united-arab-emirates-university",
+      "name": "United Arab Emirates University",
+      "url": "https://www.uaeu.ac.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE national university website for admissions, academics, research, and student services.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "United Arab Emirates University is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.uaeu.ac.ae"
         }
       ]
     },
@@ -4200,16 +2408,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "air-arabia",
-      "name": "Air Arabia",
-      "url": "https://www.airarabia.com",
+      "slug": "musafir",
+      "name": "Musafir",
+      "url": "https://www.musafir.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Sharjah-based airline website for low-cost flights, booking, and travel services.",
+      "description": "UAE travel website for flights, hotels, holidays, visas, and corporate travel.",
       "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Air Arabia is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Musafir is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4219,21 +2427,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.airarabia.com"
+          "url": "https://www.musafir.com"
         }
       ]
     },
     {
-      "slug": "ups-uae",
-      "name": "UPS UAE",
-      "url": "https://www.ups.com/ae",
+      "slug": "dubicars",
+      "name": "DubiCars",
+      "url": "https://www.dubicars.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Logistics and shipping website for UAE parcel delivery, freight, and tracking.",
+      "description": "UAE car marketplace for new cars, used cars, dealers, and automotive search.",
       "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "UPS UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "DubiCars is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4243,31 +2451,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.ups.com/ae"
-        }
-      ]
-    },
-    {
-      "slug": "al-nabooda-automobiles",
-      "name": "Al Nabooda Automobiles",
-      "url": "https://www.alnabooda-auto.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "UAE automotive dealer website for premium car brands, service, and ownership.",
-      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Al Nabooda Automobiles is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.alnabooda-auto.com"
+          "url": "https://www.dubicars.com"
         }
       ]
     },
@@ -4344,16 +2528,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "vapeking-ca",
-      "name": "vapeking.ca",
-      "url": "https://vapeking.ca",
+      "slug": "directvapor-com",
+      "name": "directvapor.com",
+      "url": "https://directvapor.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Specialty Finds",
-      "description": "Canada-focused vape and pod system retailer for adult shoppers.",
+      "description": "Online vape shop known for hardware, accessories, and adult product deals.",
       "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
       "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
-      "platformNote": "vapeking.ca is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "directvapor.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -4362,7 +2546,1143 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://vapeking.ca"
+          "url": "https://directvapor.com"
+        }
+      ]
+    },
+    {
+      "slug": "vapelink-com-au",
+      "name": "vapelink.com.au",
+      "url": "https://vapelink.com.au",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Australian online vape store with authentic brands and accessories.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "vapelink.com.au is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://vapelink.com.au"
+        }
+      ]
+    },
+    {
+      "slug": "all-day-stores",
+      "name": "All Day Stores",
+      "url": "https://alldaystores.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Everyday basics and lifestyle essentials destination for UAE shoppers.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "All Day Stores is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://alldaystores.com"
+        }
+      ]
+    },
+    {
+      "slug": "lulu-electronics",
+      "name": "LuLu Electronics",
+      "url": "https://www.luluhypermarket.com/en-ae/electronics/c/HY00116441",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "LuLu electronics category for home appliances, gadgets, and tech products.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "LuLu Electronics is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.luluhypermarket.com/en-ae/electronics/c/HY00116441"
+        }
+      ]
+    },
+    {
+      "slug": "al-falak-electronics",
+      "name": "Al-Falak Electronics",
+      "url": "https://www.alfalakelectronics.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Electronics retailer profile for consumer technology and accessories.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Al-Falak Electronics is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.alfalakelectronics.com"
+        }
+      ]
+    },
+    {
+      "slug": "souq-perfumes",
+      "name": "Souq Perfumes",
+      "url": "https://souqperfumes.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Fragrance destination with authentic perfumes, gift options, and UAE delivery.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Souq Perfumes is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://souqperfumes.ae"
+        }
+      ]
+    },
+    {
+      "slug": "healthcare-magic",
+      "name": "Healthcare Magic",
+      "url": "https://www.healthcaremagic.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Online consultation platform connecting patients with doctors worldwide.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Healthcare Magic is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.healthcaremagic.com"
+        }
+      ]
+    },
+    {
+      "slug": "nmc-healthcare",
+      "name": "NMC Healthcare",
+      "url": "https://www.nmc.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Private healthcare network with hospitals, clinics, pharmacies, and specialist care.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "NMC Healthcare is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.nmc.ae"
+        }
+      ]
+    },
+    {
+      "slug": "thumbay-healthcare",
+      "name": "Thumbay Healthcare",
+      "url": "https://thumbay.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Healthcare group with hospitals, clinics, education, wellness, and medical services.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Thumbay Healthcare is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://thumbay.com"
+        }
+      ]
+    },
+    {
+      "slug": "fakih-ivf",
+      "name": "Fakih IVF",
+      "url": "https://fakihivf.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Fertility clinic group offering IVF, reproductive medicine, and patient support.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Fakih IVF is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://fakihivf.com"
+        }
+      ]
+    },
+    {
+      "slug": "driven-properties",
+      "name": "Driven Properties",
+      "url": "https://www.drivenproperties.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai real estate brokerage for residential, commercial, and investment property.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Driven Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.drivenproperties.com"
+        }
+      ]
+    },
+    {
+      "slug": "damac-properties",
+      "name": "Damac Properties",
+      "url": "https://www.damacproperties.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai property developer offering branded residences, luxury projects, and communities.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Damac Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.damacproperties.com"
+        }
+      ]
+    },
+    {
+      "slug": "mag",
+      "name": "MAG",
+      "url": "https://mag.global",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE developer with residential, wellness, and community-focused property projects.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "MAG is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://mag.global"
+        }
+      ]
+    },
+    {
+      "slug": "dewa",
+      "name": "DEWA",
+      "url": "https://www.dewa.gov.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai Electricity and Water Authority portal for utility services and customer support.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "DEWA is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.dewa.gov.ae"
+        }
+      ]
+    },
+    {
+      "slug": "emirates-nbd",
+      "name": "Emirates NBD",
+      "url": "https://www.emiratesnbd.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE banking group offering personal banking, business banking, cards, loans, and digital services.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Emirates NBD is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.emiratesnbd.com"
+        }
+      ]
+    },
+    {
+      "slug": "al-hilal-bank",
+      "name": "Al Hilal Bank",
+      "url": "https://www.alhilalbank.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE Islamic banking portal for digital services, accounts, and finance products.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Al Hilal Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.alhilalbank.ae"
+        }
+      ]
+    },
+    {
+      "slug": "salama",
+      "name": "SALAMA",
+      "url": "https://www.salama.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Islamic insurance provider for health, motor, life, and general takaful services.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "SALAMA is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.salama.ae"
+        }
+      ]
+    },
+    {
+      "slug": "nas-insurance-services",
+      "name": "NAS Insurance Services",
+      "url": "https://www.nas.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE health insurance administration platform and medical network services.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "NAS Insurance Services is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.nas.ae"
+        }
+      ]
+    },
+    {
+      "slug": "university-of-wollongong-in-dubai",
+      "name": "University of Wollongong in Dubai",
+      "url": "https://www.uowdubai.ac.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai university offering business, engineering, IT, and postgraduate programs.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "University of Wollongong in Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.uowdubai.ac.ae"
+        }
+      ]
+    },
+    {
+      "slug": "dnata",
+      "name": "dnata",
+      "url": "https://www.dnata.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE aviation and travel services company for ground handling, cargo, catering, and travel.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "dnata is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.dnata.com"
+        }
+      ]
+    },
+    {
+      "slug": "yallamotor",
+      "name": "YallaMotor",
+      "url": "https://www.yallamotor.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Local Updates",
+      "description": "UAE automotive portal for new cars, used cars, prices, reviews, and car news.",
+      "whatTheyOffer": "publishes UAE-focused updates, business notes, local stories, or digital media content.",
+      "whoFor": "Readers, researchers, local shoppers, and business users who follow UAE updates.",
+      "platformNote": "YallaMotor is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.yallamotor.com"
+        }
+      ]
+    },
+    {
+      "slug": "al-habtoor-motors",
+      "name": "Al Habtoor Motors",
+      "url": "https://www.habtoormotors.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE automotive dealer group for Mitsubishi, Bentley, Bugatti, and service support.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Al Habtoor Motors is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.habtoormotors.com"
+        }
+      ]
+    },
+    {
+      "slug": "aurion-uae",
+      "name": "Aurion UAE",
+      "url": "https://www.aurionuae.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Company formation consultant for UAE free zone, offshore, and mainland setup.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Aurion UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.aurionuae.com"
+        }
+      ]
+    },
+    {
+      "slug": "imdaad",
+      "name": "Imdaad",
+      "url": "https://www.imdaad.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Integrated facilities management company providing maintenance, waste, and support services.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Imdaad is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.imdaad.ae"
+        }
+      ]
+    },
+    {
+      "slug": "myvapery-com",
+      "name": "myvapery.com",
+      "url": "https://myvapery.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Premium vape e-liquid and accessories store serving international shoppers.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "myvapery.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://myvapery.com"
+        }
+      ]
+    },
+    {
+      "slug": "blazedvapes-com",
+      "name": "blazedvapes.com",
+      "url": "https://blazedvapes.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "American vape shop profile for deals, combos, and adult vape products.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "blazedvapes.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://blazedvapes.com"
+        }
+      ]
+    },
+    {
+      "slug": "brands-for-less",
+      "name": "Brands For Less",
+      "url": "https://brandsforless.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Discount fashion and lifestyle retailer for branded finds and savings.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Brands For Less is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://brandsforless.com"
+        }
+      ]
+    },
+    {
+      "slug": "jumbo-electronics",
+      "name": "Jumbo Electronics",
+      "url": "https://www.jumbo.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Long-running electronics retailer with consumer tech, appliances, and support.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Jumbo Electronics is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.jumbo.ae"
+        }
+      ]
+    },
+    {
+      "slug": "apple-uae",
+      "name": "Apple UAE",
+      "url": "https://www.apple.com/ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Official Apple page for iPhone, Mac, iPad, Apple Watch, and support.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Apple UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.apple.com/ae"
+        }
+      ]
+    },
+    {
+      "slug": "baqer-mohebi",
+      "name": "Baqer Mohebi",
+      "url": "https://www.baqaramohebi.com/",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Grocery store profile for bulk groceries, sweets, and affordable kitchen essentials.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Baqer Mohebi is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.baqaramohebi.com/"
+        }
+      ]
+    },
+    {
+      "slug": "gift-central",
+      "name": "Gift Central",
+      "url": "https://giftcentral.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Centralized gift site for perfumes, curated presents, and celebration delivery.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Gift Central is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://giftcentral.ae"
+        }
+      ]
+    },
+    {
+      "slug": "dubai-health-authority",
+      "name": "Dubai Health Authority",
+      "url": "https://www.dubaihealthauthority.gov.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Government body managing public healthcare and policies in Dubai.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Dubai Health Authority is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.dubaihealthauthority.gov.ae"
+        }
+      ]
+    },
+    {
+      "slug": "burjeel-hospital",
+      "name": "Burjeel Hospital",
+      "url": "https://burjeel.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE healthcare network with hospitals, clinics, specialty care, and patient services.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Burjeel Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://burjeel.com"
+        }
+      ]
+    },
+    {
+      "slug": "moorfields-eye-hospital-dubai",
+      "name": "Moorfields Eye Hospital Dubai",
+      "url": "https://moorfields.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Specialist eye hospital offering ophthalmology, surgery, diagnostics, and eye care.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Moorfields Eye Hospital Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://moorfields.ae"
+        }
+      ]
+    },
+    {
+      "slug": "provident-estate",
+      "name": "Provident Estate",
+      "url": "https://www.providentestate.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai property brokerage for buying, selling, renting, and investment services.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Provident Estate is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.providentestate.com"
+        }
+      ]
+    },
+    {
+      "slug": "espace-real-estate",
+      "name": "Espace Real Estate",
+      "url": "https://www.espace.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai real estate agency offering residential sales, leasing, and property guidance.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Espace Real Estate is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.espace.ae"
+        }
+      ]
+    },
+    {
+      "slug": "select-group",
+      "name": "Select Group",
+      "url": "https://select-group.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Real estate developer focused on premium residential and mixed-use projects.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Select Group is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://select-group.ae"
+        }
+      ]
+    },
+    {
+      "slug": "gdrfa-dubai",
+      "name": "GDRFA Dubai",
+      "url": "https://www.gdrfad.gov.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai immigration and residency authority portal for visa and entry services.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "GDRFA Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.gdrfad.gov.ae"
+        }
+      ]
+    },
+    {
+      "slug": "dubai-police",
+      "name": "Dubai Police",
+      "url": "https://www.dubaipolice.gov.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai Police portal for public safety services, fines, certificates, and support.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Dubai Police is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.dubaipolice.gov.ae"
+        }
+      ]
+    },
+    {
+      "slug": "citibank-uae",
+      "name": "Citibank UAE",
+      "url": "https://www.citibank.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Banking website for UAE cards, accounts, loans, wealth, and digital services.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Citibank UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.citibank.ae"
+        }
+      ]
+    },
+    {
+      "slug": "gig-gulf",
+      "name": "GIG Gulf",
+      "url": "https://www.gig-gulf.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Insurance provider offering health, motor, travel, home, and business insurance in the UAE.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "GIG Gulf is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.gig-gulf.com"
+        }
+      ]
+    },
+    {
+      "slug": "yallacompare",
+      "name": "Yallacompare",
+      "url": "https://yallacompare.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Comparison platform for insurance and financial products in the UAE.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Yallacompare is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://yallacompare.com"
+        }
+      ]
+    },
+    {
+      "slug": "university-of-sharjah",
+      "name": "University of Sharjah",
+      "url": "https://www.sharjah.ac.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Sharjah university portal for academic programs, research, admissions, and campus life.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "University of Sharjah is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.sharjah.ac.ae"
+        }
+      ]
+    },
+    {
+      "slug": "flydubai",
+      "name": "flydubai",
+      "url": "https://www.flydubai.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai airline website for regional flights, booking, offers, and travel services.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "flydubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.flydubai.com"
+        }
+      ]
+    },
+    {
+      "slug": "sixt-uae",
+      "name": "Sixt UAE",
+      "url": "https://www.sixt.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Car rental and mobility services website for UAE visitors and residents.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Sixt UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.sixt.ae"
+        }
+      ]
+    },
+    {
+      "slug": "bmw-dubai",
+      "name": "BMW Dubai",
+      "url": "https://www.bmw-dubai.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "BMW dealer website for models, offers, service booking, and ownership support.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "BMW Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.bmw-dubai.com"
+        }
+      ]
+    },
+    {
+      "slug": "commitbiz",
+      "name": "Commitbiz",
+      "url": "https://www.commitbiz.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Business setup and corporate advisory website for UAE entrepreneurs and companies.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Commitbiz is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.commitbiz.com"
+        }
+      ]
+    },
+    {
+      "slug": "hitches-glitches",
+      "name": "Hitches & Glitches",
+      "url": "https://www.hitchesglitches.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE maintenance company for home repair, cleaning, and annual maintenance contracts.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Hitches & Glitches is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.hitchesglitches.com"
+        }
+      ]
+    },
+    {
+      "slug": "vape360-com",
+      "name": "vape360.com",
+      "url": "https://vape360.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Canadian vape store with premium hardware and e-liquid options.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "vape360.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://vape360.com"
         }
       ]
     },
@@ -4390,16 +3710,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "namshi",
-      "name": "Namshi",
-      "url": "https://namshi.com",
+      "slug": "noon-fashion",
+      "name": "Noon Fashion",
+      "url": "https://noon.com/fashion",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "Popular UAE fashion marketplace for urban clothing, sneakers, beauty, and lifestyle brands.",
+      "description": "Fashion category from Noon with apparel, accessories, shoes, and regular deals.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Namshi is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Noon Fashion is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -4408,21 +3728,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://namshi.com"
+          "url": "https://noon.com/fashion"
         }
       ]
     },
     {
-      "slug": "lc-waikiki-uae",
-      "name": "LC Waikiki UAE",
-      "url": "https://lcwaikiki.ae",
+      "slug": "emax",
+      "name": "Emax",
+      "url": "https://www.emaxme.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "Affordable family fashion retailer with broad clothing selection.",
+      "description": "UAE electronics store for gadgets, smartphones, gaming, appliances, and accessories.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "LC Waikiki UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Emax is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -4431,21 +3751,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://lcwaikiki.ae"
+          "url": "https://www.emaxme.com"
         }
       ]
     },
     {
-      "slug": "noon-electronics",
-      "name": "Noon Electronics",
-      "url": "https://www.noon.com/uae-en/electronics/",
+      "slug": "hp-uae",
+      "name": "HP UAE",
+      "url": "https://www.hp.com/ae-en/home.html",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "UAE marketplace category for phones, computers, appliances, accessories, and deals.",
+      "description": "Official HP site for laptops, printers, accessories, and support.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Noon Electronics is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "HP UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -4454,30 +3774,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.noon.com/uae-en/electronics/"
-        }
-      ]
-    },
-    {
-      "slug": "dell-uae",
-      "name": "Dell UAE",
-      "url": "https://www.dell.com/en-ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Official Dell site for laptops, desktops, monitors, servers, and support.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Dell UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.dell.com/en-ae"
+          "url": "https://www.hp.com/ae-en/home.html"
         }
       ]
     },
@@ -4505,16 +3802,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "perfumes-uae",
-      "name": "Perfumes UAE",
-      "url": "https://perfumesuae.ae",
+      "slug": "luxury-perfumes",
+      "name": "Luxury Perfumes",
+      "url": "https://luxuryperfumes.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Delivery Friendly",
-      "description": "Online perfume store for branded fragrances and gift-ready scent options.",
+      "description": "Luxury perfume and bespoke gift set profile.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Perfumes UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Luxury Perfumes is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -4523,30 +3820,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://perfumesuae.ae"
-        }
-      ]
-    },
-    {
-      "slug": "altibbi",
-      "name": "Altibbi",
-      "url": "https://www.altibbi.com/en",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Digital health platform for telemedicine, doctor consultations, and health information.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Altibbi is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.altibbi.com/en"
+          "url": "https://luxuryperfumes.ae"
         }
       ]
     },
@@ -4574,16 +3848,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "al-zahra-hospitals",
-      "name": "Al Zahra Hospitals",
-      "url": "https://www.alzahrahospitals.ae",
+      "slug": "medlabs",
+      "name": "MedLabs",
+      "url": "https://www.medlabs.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Hospital group profile providing comprehensive medical care in the UAE.",
+      "description": "Diagnostic laboratory services profile for medical testing.",
       "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
       "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Al Zahra Hospitals is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "MedLabs is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "Original directory listing",
         "Single-category placement",
@@ -4592,31 +3866,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.alzahrahospitals.ae"
-        }
-      ]
-    },
-    {
-      "slug": "aster-hospitals-uae",
-      "name": "Aster Hospitals UAE",
-      "url": "https://www.asterhospitals.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Hospital network offering multi-specialty medical care and patient support in the UAE.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Aster Hospitals UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.asterhospitals.ae"
+          "url": "https://www.medlabs.com"
         }
       ]
     },
@@ -4641,6 +3891,573 @@ const SITE_DATA={
         {
           "label": "Official Website",
           "url": "https://healthbayclinic.com"
+        }
+      ]
+    },
+    {
+      "slug": "allsopp-allsopp",
+      "name": "Allsopp & Allsopp",
+      "url": "https://www.allsoppandallsopp.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai real estate brokerage for sales, leasing, mortgages, and property management.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Allsopp & Allsopp is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.allsoppandallsopp.com"
+        }
+      ]
+    },
+    {
+      "slug": "jll-mena",
+      "name": "JLL MENA",
+      "url": "https://www.jll-mena.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Real estate advisory company covering UAE property, investment, and commercial services.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "JLL MENA is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.jll-mena.com"
+        }
+      ]
+    },
+    {
+      "slug": "wasl-properties",
+      "name": "Wasl Properties",
+      "url": "https://www.wasl.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai real estate group with residential leasing, retail, hospitality, and community assets.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Wasl Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.wasl.ae"
+        }
+      ]
+    },
+    {
+      "slug": "mohre",
+      "name": "MOHRE",
+      "url": "https://www.mohre.gov.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE Ministry of Human Resources and Emiratisation portal for labor and employment services.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "MOHRE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.mohre.gov.ae"
+        }
+      ]
+    },
+    {
+      "slug": "ministry-of-foreign-affairs",
+      "name": "Ministry of Foreign Affairs",
+      "url": "https://www.mofa.gov.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE foreign affairs portal for consular, attestation, and diplomatic services.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Ministry of Foreign Affairs is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.mofa.gov.ae"
+        }
+      ]
+    },
+    {
+      "slug": "hsbc-uae",
+      "name": "HSBC UAE",
+      "url": "https://www.hsbc.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "International bank website for UAE personal banking, wealth, cards, and services.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "HSBC UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.hsbc.ae"
+        }
+      ]
+    },
+    {
+      "slug": "beehive",
+      "name": "Beehive",
+      "url": "https://www.beehive.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE peer-to-peer business finance platform for SME funding and investors.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Beehive is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.beehive.ae"
+        }
+      ]
+    },
+    {
+      "slug": "dubai-insurance",
+      "name": "Dubai Insurance",
+      "url": "https://www.dubins.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Insurance company serving UAE customers with personal and corporate coverage.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Dubai Insurance is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.dubins.ae"
+        }
+      ]
+    },
+    {
+      "slug": "american-university-of-sharjah",
+      "name": "American University of Sharjah",
+      "url": "https://www.aus.edu",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Sharjah university offering liberal arts, engineering, business, and architecture programs.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "American University of Sharjah is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.aus.edu"
+        }
+      ]
+    },
+    {
+      "slug": "knowledge-and-human-development-authority",
+      "name": "Knowledge and Human Development Authority",
+      "url": "https://web.khda.gov.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai education authority website for schools, ratings, permits, and education services.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Knowledge and Human Development Authority is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://web.khda.gov.ae"
+        }
+      ]
+    },
+    {
+      "slug": "careem",
+      "name": "Careem",
+      "url": "https://www.careem.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE mobility and delivery platform for rides, food, payments, and local services.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Careem is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.careem.com"
+        }
+      ]
+    },
+    {
+      "slug": "nissan-dubai",
+      "name": "Nissan Dubai",
+      "url": "https://en.nissan-dubai.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Nissan Dubai website for vehicles, offers, service, and dealer information.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Nissan Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://en.nissan-dubai.com"
+        }
+      ]
+    },
+    {
+      "slug": "creative-zone",
+      "name": "Creative Zone",
+      "url": "https://www.creativezone.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Business setup advisory company for UAE company formation, visas, and corporate services.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Creative Zone is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.creativezone.ae"
+        }
+      ]
+    },
+    {
+      "slug": "justlife",
+      "name": "Justlife",
+      "url": "https://www.justlife.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE home services platform for cleaning, beauty, wellness, and maintenance bookings.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Justlife is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.justlife.com"
+        }
+      ]
+    },
+    {
+      "slug": "vapeking-com-au",
+      "name": "vapeking.com.au",
+      "url": "https://vapeking.com.au",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Australian vape shop with e-liquids, devices, accessories, and adult-use products.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "vapeking.com.au is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://vapeking.com.au"
+        }
+      ]
+    },
+    {
+      "slug": "vapetrader-ca",
+      "name": "vapetrader.ca",
+      "url": "https://vapetrader.ca",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Canadian vape marketplace profile for adult product browsing.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "vapetrader.ca is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://vapetrader.ca"
+        }
+      ]
+    },
+    {
+      "slug": "splash-fashions",
+      "name": "Splash Fashions",
+      "url": "https://splashfashions.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Regional fashion brand for trend-led menswear, womenswear, and accessible everyday looks.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Splash Fashions is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://splashfashions.com"
+        }
+      ]
+    },
+    {
+      "slug": "bossini-uae",
+      "name": "Bossini UAE",
+      "url": "https://bossini.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Family fashion label with casual clothing and mall-friendly style.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Bossini UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://bossini.ae"
+        }
+      ]
+    },
+    {
+      "slug": "sony-middle-east",
+      "name": "Sony Middle East",
+      "url": "https://www.sony-mea.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Official Sony site for TVs, cameras, audio, gaming, and support.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Sony Middle East is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.sony-mea.com"
+        }
+      ]
+    },
+    {
+      "slug": "talabat-mart",
+      "name": "Talabat Mart",
+      "url": "https://www.talabat.com/uae/groceries",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "On-demand grocery delivery option for quick baskets, urgent essentials, and snacks.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Talabat Mart is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.talabat.com/uae/groceries"
+        }
+      ]
+    },
+    {
+      "slug": "perfume-one",
+      "name": "Perfume One",
+      "url": "https://perfumeone.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Designer perfume and gift packaging profile for UAE shoppers.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Perfume One is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://perfumeone.ae"
+        }
+      ]
+    },
+    {
+      "slug": "rashid-medical-center",
+      "name": "Rashid Medical Center",
+      "url": "https://www.rashiddoc.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Primary healthcare center profile with comprehensive medical services.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Rashid Medical Center is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.rashiddoc.com"
+        }
+      ]
+    },
+    {
+      "slug": "city-clinic-dubai",
+      "name": "City Clinic Dubai",
+      "url": "https://www.cityclinic.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "General medical and specialist clinic profile for Dubai residents.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "City Clinic Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.cityclinic.ae"
+        }
+      ]
+    },
+    {
+      "slug": "fakeeh-university-hospital",
+      "name": "Fakeeh University Hospital",
+      "url": "https://www.fakeeh.care",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai hospital offering medical specialties, smart healthcare, and patient services.",
+      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
+      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
+      "platformNote": "Fakeeh University Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.fakeeh.care"
         }
       ]
     },
@@ -4693,16 +4510,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "azizi-developments",
-      "name": "Azizi Developments",
-      "url": "https://www.azizidevelopments.com",
+      "slug": "deyaar",
+      "name": "Deyaar",
+      "url": "https://www.deyaar.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Dubai real estate developer with residential projects across key city districts.",
+      "description": "Dubai developer and real estate services company for residential and commercial property.",
       "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
       "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Azizi Developments is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Deyaar is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4712,45 +4529,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.azizidevelopments.com"
+          "url": "https://www.deyaar.ae"
         }
       ]
     },
     {
-      "slug": "dubai-holding-real-estate",
-      "name": "Dubai Holding Real Estate",
-      "url": "https://www.dubaiholdingrealestate.ae",
+      "slug": "uae-government-portal",
+      "name": "UAE Government Portal",
+      "url": "https://u.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Developer group behind major Dubai communities, destinations, and property projects.",
-      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
-      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Dubai Holding Real Estate is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.dubaiholdingrealestate.ae"
-        }
-      ]
-    },
-    {
-      "slug": "rta-dubai",
-      "name": "RTA Dubai",
-      "url": "https://www.rta.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Roads and Transport Authority portal for Dubai transport, licensing, roads, and mobility services.",
+      "description": "Official federal portal for UAE government information, services, visas, and public resources.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "RTA Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "UAE Government Portal is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4760,21 +4553,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.rta.ae"
+          "url": "https://u.ae"
         }
       ]
     },
     {
-      "slug": "dubai-police",
-      "name": "Dubai Police",
-      "url": "https://www.dubaipolice.gov.ae",
+      "slug": "abu-dhabi-ded",
+      "name": "Abu Dhabi DED",
+      "url": "https://added.gov.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Dubai Police portal for public safety services, fines, certificates, and support.",
+      "description": "Abu Dhabi business licensing, economic development, and investor service portal.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Dubai Police is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Abu Dhabi DED is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4784,21 +4577,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.dubaipolice.gov.ae"
+          "url": "https://added.gov.ae"
         }
       ]
     },
     {
-      "slug": "standard-chartered-uae",
-      "name": "Standard Chartered UAE",
-      "url": "https://www.sc.com/ae",
+      "slug": "rakbank",
+      "name": "RAKBANK",
+      "url": "https://www.rakbank.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "International banking portal for UAE accounts, wealth, cards, and business services.",
+      "description": "UAE bank serving individuals and businesses with banking, cards, finance, and digital tools.",
       "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Standard Chartered UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "RAKBANK is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4808,21 +4601,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.sc.com/ae"
+          "url": "https://www.rakbank.ae"
         }
       ]
     },
     {
-      "slug": "sukoon-insurance",
-      "name": "Sukoon Insurance",
-      "url": "https://www.sukoon.com",
+      "slug": "noqodi",
+      "name": "Noqodi",
+      "url": "https://www.noqodi.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE insurance provider offering motor, health, travel, home, and business insurance.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Sukoon Insurance is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "description": "UAE digital payment platform for businesses, government payments, and online services.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Noqodi is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4832,7 +4625,7 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.sukoon.com"
+          "url": "https://www.noqodi.com"
         }
       ]
     },
@@ -4861,16 +4654,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "higher-colleges-of-technology",
-      "name": "Higher Colleges of Technology",
-      "url": "https://hct.ac.ae",
+      "slug": "khalifa-university",
+      "name": "Khalifa University",
+      "url": "https://www.ku.ac.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Applied higher education institution with campuses and academic programs across the UAE.",
+      "description": "Research university focused on science, engineering, medicine, and technology education.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Higher Colleges of Technology is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Khalifa University is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4880,21 +4673,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://hct.ac.ae"
+          "url": "https://www.ku.ac.ae"
         }
       ]
     },
     {
-      "slug": "british-university-in-dubai",
-      "name": "British University in Dubai",
-      "url": "https://www.buid.ac.ae",
+      "slug": "gems-education",
+      "name": "GEMS Education",
+      "url": "https://www.gemseducation.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Postgraduate university focused on research, education, business, and engineering programs.",
+      "description": "School group website for UAE schools, admissions, curricula, and parent services.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "British University in Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "GEMS Education is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4904,21 +4697,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.buid.ac.ae"
+          "url": "https://www.gemseducation.com"
         }
       ]
     },
     {
-      "slug": "dnata",
-      "name": "dnata",
-      "url": "https://www.dnata.com",
+      "slug": "fedex-uae",
+      "name": "FedEx UAE",
+      "url": "https://www.fedex.com/en-ae/home.html",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE aviation and travel services company for ground handling, cargo, catering, and travel.",
+      "description": "Shipping and courier platform for UAE parcels, freight, and tracking.",
       "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "dnata is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "FedEx UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -4928,7 +4721,217 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.dnata.com"
+          "url": "https://www.fedex.com/en-ae/home.html"
+        }
+      ]
+    },
+    {
+      "slug": "gargash",
+      "name": "Gargash",
+      "url": "https://www.gargash.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Automotive group website for Mercedes-Benz, service, leasing, and mobility solutions.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Gargash is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.gargash.ae"
+        }
+      ]
+    },
+    {
+      "slug": "cafu",
+      "name": "CAFU",
+      "url": "https://www.cafu.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE fuel delivery and car services platform for vehicle convenience services.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "CAFU is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.cafu.com"
+        }
+      ]
+    },
+    {
+      "slug": "servicemarket",
+      "name": "ServiceMarket",
+      "url": "https://www.servicemarket.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE home services marketplace for moving, cleaning, maintenance, and insurance services.",
+      "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "ServiceMarket is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.servicemarket.com"
+        }
+      ]
+    },
+    {
+      "slug": "elementvape-com",
+      "name": "elementvape.com",
+      "url": "https://elementvape.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Top-rated store for advanced vape mods, tanks, devices, and adult vape hardware.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "elementvape.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://elementvape.com"
+        }
+      ]
+    },
+    {
+      "slug": "vapeempire-com",
+      "name": "vapeempire.com",
+      "url": "https://vapeempire.com",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Online vape shop for mods, coils, disposables, and adult vape accessories.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "vapeempire.com is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://vapeempire.com"
+        }
+      ]
+    },
+    {
+      "slug": "vapemall-com-au",
+      "name": "vapemall.com.au",
+      "url": "https://vapemall.com.au",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Specialty Finds",
+      "description": "Australian e-liquid and vape accessories store for adult shoppers.",
+      "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
+      "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
+      "platformNote": "vapemall.com.au is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://vapemall.com.au"
+        }
+      ]
+    },
+    {
+      "slug": "reebok-uae",
+      "name": "Reebok UAE",
+      "url": "https://reebok.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Activewear and footwear brand for sport, lifestyle, and casual looks.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Reebok UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://reebok.ae"
+        }
+      ]
+    },
+    {
+      "slug": "samsung-uae",
+      "name": "Samsung UAE",
+      "url": "https://www.samsung.com/ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Official Samsung destination for Galaxy devices, TVs, appliances, and accessories.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Samsung UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.samsung.com/ae"
+        }
+      ]
+    },
+    {
+      "slug": "lulu-hypermarket",
+      "name": "LuLu Hypermarket",
+      "url": "https://www.luluhypermarket.com/en-ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Delivery Friendly",
+      "description": "Large hypermarket platform for groceries, fresh food, household essentials, and family shopping.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "LuLu Hypermarket is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "Original directory listing",
+        "Single-category placement",
+        "Official website link"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.luluhypermarket.com/en-ae"
         }
       ]
     }
@@ -5055,75 +5058,6 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "gifts-in-uae",
-      "name": "Gifts in UAE",
-      "url": "https://giftsinuae.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Delivery Friendly",
-      "description": "Personalized gifts and fragrance sets tailored for UAE customers.",
-      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
-      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Gifts in UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://giftsinuae.ae"
-        }
-      ]
-    },
-    {
-      "slug": "tawam-hospital",
-      "name": "Tawam Hospital",
-      "url": "https://www.tawam.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Specialized medical center profile for advanced patient care in Al Ain.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Tawam Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.tawam.ae"
-        }
-      ]
-    },
-    {
-      "slug": "nmc-healthcare",
-      "name": "NMC Healthcare",
-      "url": "https://www.nmc.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Private healthcare network with hospitals, clinics, pharmacies, and specialist care.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "NMC Healthcare is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "Original directory listing",
-        "Single-category placement",
-        "Official website link"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.nmc.ae"
-        }
-      ]
-    },
-    {
       "slug": "health-hub",
       "name": "Health Hub",
       "url": "https://www.healthhub.ae",
@@ -5147,16 +5081,16 @@ const SITE_DATA={
       ]
     },
     {
-      "slug": "al-jalila-children-s-hospital",
-      "name": "Al Jalila Children's Hospital",
-      "url": "https://aljalilachildrens.ae",
+      "slug": "valiant-clinic",
+      "name": "Valiant Clinic",
+      "url": "https://valiantclinic.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Specialist children's hospital in Dubai focused on pediatric care and family support.",
+      "description": "Dubai clinic offering preventive health, specialist consultations, and wellness services.",
       "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
       "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Al Jalila Children's Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Valiant Clinic is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -5166,45 +5100,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://aljalilachildrens.ae"
+          "url": "https://valiantclinic.com"
         }
       ]
     },
     {
-      "slug": "international-modern-hospital",
-      "name": "International Modern Hospital",
-      "url": "https://www.imh.ae",
+      "slug": "haus-haus",
+      "name": "haus & haus",
+      "url": "https://www.hausandhaus.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Dubai hospital offering medical specialties, emergency care, surgery, and diagnostics.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "International Modern Hospital is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.imh.ae"
-        }
-      ]
-    },
-    {
-      "slug": "driven-properties",
-      "name": "Driven Properties",
-      "url": "https://www.drivenproperties.com",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Dubai real estate brokerage for residential, commercial, and investment property.",
+      "description": "Dubai property agency for residential sales, leasing, holiday homes, and advisory.",
       "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
       "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Driven Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "haus & haus is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -5214,45 +5124,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.drivenproperties.com"
+          "url": "https://www.hausandhaus.com"
         }
       ]
     },
     {
-      "slug": "emaar-properties",
-      "name": "Emaar Properties",
-      "url": "https://www.emaar.com",
+      "slug": "cbre-uae",
+      "name": "CBRE UAE",
+      "url": "https://www.cbre.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "UAE master developer behind residential communities, malls, hospitality, and lifestyle projects.",
-      "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
-      "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Emaar Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
-      "strengths": [
-        "UAE service domain",
-        "Single-category listing",
-        "Official website profile",
-        "Useful local discovery"
-      ],
-      "links": [
-        {
-          "label": "Official Website",
-          "url": "https://www.emaar.com"
-        }
-      ]
-    },
-    {
-      "slug": "select-group",
-      "name": "Select Group",
-      "url": "https://select-group.ae",
-      "isSubmittedSite": false,
-      "isImportantGuide": false,
-      "category": "Home & City Services",
-      "description": "Real estate developer focused on premium residential and mixed-use projects.",
+      "description": "Commercial real estate consultancy for property services, research, and advisory.",
       "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
       "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
-      "platformNote": "Select Group is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "CBRE UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -5262,21 +5148,45 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://select-group.ae"
+          "url": "https://www.cbre.ae"
         }
       ]
     },
     {
-      "slug": "abu-dhabi-government",
-      "name": "Abu Dhabi Government",
-      "url": "https://www.abudhabi.ae",
+      "slug": "union-properties",
+      "name": "Union Properties",
+      "url": "https://www.unionproperties.com",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Official Abu Dhabi portal for government services, residents, businesses, and visitors.",
+      "description": "UAE developer behind residential, commercial, and mixed-use real estate projects.",
+      "whatTheyOffer": "helps users explore UAE property, developments, brokerage services, rentals, or real estate information.",
+      "whoFor": "Renters, buyers, investors, and residents comparing UAE property resources.",
+      "platformNote": "Union Properties is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.unionproperties.com"
+        }
+      ]
+    },
+    {
+      "slug": "tamm-abu-dhabi",
+      "name": "TAMM Abu Dhabi",
+      "url": "https://www.tamm.abudhabi",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Abu Dhabi government services portal for residents, citizens, businesses, and visitors.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Abu Dhabi Government is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "TAMM Abu Dhabi is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -5286,21 +5196,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.abudhabi.ae"
+          "url": "https://www.tamm.abudhabi"
         }
       ]
     },
     {
-      "slug": "dubai-economy",
-      "name": "Dubai Economy",
-      "url": "https://www.dubaided.gov.ae",
+      "slug": "ministry-of-economy",
+      "name": "Ministry of Economy",
+      "url": "https://www.moec.gov.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Dubai business licensing and economic services portal.",
+      "description": "UAE Ministry of Economy portal for business, trade, consumer, and economic services.",
       "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Dubai Economy is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Ministry of Economy is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -5310,21 +5220,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.dubaided.gov.ae"
+          "url": "https://www.moec.gov.ae"
         }
       ]
     },
     {
-      "slug": "dubai-islamic-bank",
-      "name": "Dubai Islamic Bank",
-      "url": "https://www.dib.ae",
+      "slug": "abu-dhabi-islamic-bank",
+      "name": "Abu Dhabi Islamic Bank",
+      "url": "https://www.adib.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Islamic banking portal for personal finance, cards, accounts, and business services.",
+      "description": "Islamic banking provider offering accounts, cards, finance, and business services.",
       "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Dubai Islamic Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Abu Dhabi Islamic Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -5334,21 +5244,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.dib.ae"
+          "url": "https://www.adib.ae"
         }
       ]
     },
     {
-      "slug": "wio-bank",
-      "name": "Wio Bank",
-      "url": "https://www.wio.io",
+      "slug": "sarwa",
+      "name": "Sarwa",
+      "url": "https://www.sarwa.co",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Digital banking platform for UAE individuals, freelancers, and businesses.",
+      "description": "Investment and savings platform serving UAE users with digital finance tools.",
       "whatTheyOffer": "provides financial, insurance, payment, tax, or business support services for UAE users.",
       "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
-      "platformNote": "Wio Bank is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Sarwa is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -5358,21 +5268,21 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.wio.io"
+          "url": "https://www.sarwa.co"
         }
       ]
     },
     {
-      "slug": "adamjee-insurance-uae",
-      "name": "Adamjee Insurance UAE",
-      "url": "https://www.adamjeeinsurance.ae",
+      "slug": "union-insurance",
+      "name": "Union Insurance",
+      "url": "https://www.unioninsurance.ae",
       "isSubmittedSite": false,
       "isImportantGuide": false,
       "category": "Home & City Services",
-      "description": "Insurance provider for motor, medical, travel, property, and business cover.",
+      "description": "UAE insurance company offering motor, health, life, and business insurance.",
       "whatTheyOffer": "offers healthcare, clinic, pharmacy, wellness, patient support, or medical information services.",
       "whoFor": "Patients, families, residents, and visitors researching healthcare providers.",
-      "platformNote": "Adamjee Insurance UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "platformNote": "Union Insurance is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
       "strengths": [
         "UAE service domain",
         "Single-category listing",
@@ -5382,7 +5292,103 @@ const SITE_DATA={
       "links": [
         {
           "label": "Official Website",
-          "url": "https://www.adamjeeinsurance.ae"
+          "url": "https://www.unioninsurance.ae"
+        }
+      ]
+    },
+    {
+      "slug": "american-university-in-dubai",
+      "name": "American University in Dubai",
+      "url": "https://www.aud.edu",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Dubai university offering undergraduate, graduate, and professional academic programs.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "American University in Dubai is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.aud.edu"
+        }
+      ]
+    },
+    {
+      "slug": "taaleem",
+      "name": "Taaleem",
+      "url": "https://www.taaleem.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "UAE school group with admissions, curricula, school information, and parent resources.",
+      "whatTheyOffer": "helps shoppers or residents discover useful UAE products, services, local resources, or online information.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Taaleem is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.taaleem.ae"
+        }
+      ]
+    },
+    {
+      "slug": "ups-uae",
+      "name": "UPS UAE",
+      "url": "https://www.ups.com/ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Logistics and shipping website for UAE parcel delivery, freight, and tracking.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "UPS UAE is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.ups.com/ae"
+        }
+      ]
+    },
+    {
+      "slug": "al-futtaim-toyota",
+      "name": "Al-Futtaim Toyota",
+      "url": "https://www.toyota.ae",
+      "isSubmittedSite": false,
+      "isImportantGuide": false,
+      "category": "Home & City Services",
+      "description": "Official Toyota UAE website for models, offers, service, and ownership support.",
+      "whatTheyOffer": "supports travel, transport, delivery, mobility, logistics, or automotive needs in the UAE.",
+      "whoFor": "UAE residents, visitors, shoppers, and business users who want a quick way to compare websites.",
+      "platformNote": "Al-Futtaim Toyota is presented as a discovery pick, useful when browsing UAE shopping, services, local updates, and practical web resources.",
+      "strengths": [
+        "UAE service domain",
+        "Single-category listing",
+        "Official website profile",
+        "Useful local discovery"
+      ],
+      "links": [
+        {
+          "label": "Official Website",
+          "url": "https://www.toyota.ae"
         }
       ]
     }
