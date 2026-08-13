@@ -521,13 +521,18 @@ const SITE_ITEMS=[
     "name": "tereahub.ae",
     "url": "https://tereahub.ae",
     "category": "Independent Specialty Listings",
-    "description": "TEREA Hub is a heat-not-burn shopping profile for TEREA product discovery, IQOS-compatible accessories, and UAE delivery comparison.",
+    "description": "TEREA Hub is a UAE-focused TEREA and IQOS ILUMA resource for adults comparing Indonesia flavor editions, heat-not-burn product details, compatible sticks, and delivery availability before opening the official store.",
     "angle": "tereahub.ae is listed as an independent specialty retail resource for adults who want to verify the official UAE website before browsing product availability, delivery coverage, or policy details.",
     "fit": "Adults comparing separate UAE specialty retail websites and checking official links before visiting.",
     "links": [
       {
-        "label": "TEREA Guide",
+        "label": "TEREA Guide Articles",
         "url": "https://tereahub.ae/blog/category/terea-guide",
+        "group": "terea"
+      },
+      {
+        "label": "IQOS TEREA Blue Indonesia",
+        "url": "https://tereahub.ae/product/iqos-terea-blue-indonesia",
         "group": "terea"
       },
       {
