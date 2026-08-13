@@ -658,20 +658,25 @@ const SITE_DATA={
       "isSubmittedSite": true,
       "isImportantGuide": false,
       "category": "Media Watch",
-      "description": "TEREA Hub is a heat-not-burn shopping profile for TEREA product discovery, IQOS-compatible accessories, and UAE delivery comparison.",
+      "description": "TEREA Hub is a UAE-focused TEREA and IQOS ILUMA resource for adults comparing Indonesia flavor editions, heat-not-burn product details, compatible sticks, and delivery availability before opening the official store.",
       "whatTheyOffer": "serves adult shoppers researching specialty retail, delivery options, product categories, and official site information.",
       "whoFor": "Adults who are comparing legal specialty retail options and want to verify details on the official site.",
       "platformNote": "tereahub.ae appears here as a fast-scan shopping signal: short context, category placement, and official links for quick checking.",
       "strengths": [
-        "TEREA hub",
-        "IQOS-compatible",
-        "Heat-not-burn",
-        "Delivery comparison"
+        "TEREA Indonesia focus",
+        "IQOS ILUMA compatibility",
+        "Flavor guide content",
+        "UAE delivery research"
       ],
       "links": [
         {
-          "label": "TEREA Guide",
+          "label": "TEREA Guide Articles",
           "url": "https://tereahub.ae/blog/category/terea-guide",
+          "group": "terea"
+        },
+        {
+          "label": "IQOS TEREA Blue Indonesia",
+          "url": "https://tereahub.ae/product/iqos-terea-blue-indonesia",
           "group": "terea"
         },
         {
